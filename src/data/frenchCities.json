@@ -1,0 +1,638 @@
+[
+  {
+    "name": "Paris",
+    "english_name": "paris",
+    "long": 2.3522,
+    "latt": 48.8566
+  },
+  {
+    "name": "Marseille",
+    "english_name": "marseille",
+    "long": 5.3698,
+    "latt": 43.2965
+  },
+  {
+    "name": "Lyon",
+    "english_name": "lyon",
+    "long": 4.8357,
+    "latt": 45.764
+  },
+  {
+    "name": "Toulouse",
+    "english_name": "toulouse",
+    "long": 1.4442,
+    "latt": 43.6047
+  },
+  {
+    "name": "Nice",
+    "english_name": "nice",
+    "long": 7.262,
+    "latt": 43.7102
+  },
+  {
+    "name": "Nantes",
+    "english_name": "nantes",
+    "long": -1.5536,
+    "latt": 47.2184
+  },
+  {
+    "name": "Strasbourg",
+    "english_name": "strasbourg",
+    "long": 7.7521,
+    "latt": 48.5734
+  },
+  {
+    "name": "Montpellier",
+    "english_name": "montpellier",
+    "long": 3.8767,
+    "latt": 43.6108
+  },
+  {
+    "name": "Bordeaux",
+    "english_name": "bordeaux",
+    "long": -0.5792,
+    "latt": 44.8378
+  },
+  {
+    "name": "Lille",
+    "english_name": "lille",
+    "long": 3.0573,
+    "latt": 50.6292
+  },
+  {
+    "name": "Rennes",
+    "english_name": "rennes",
+    "long": -1.6778,
+    "latt": 48.1173
+  },
+  {
+    "name": "Reims",
+    "english_name": "reims",
+    "long": 4.0317,
+    "latt": 49.2583
+  },
+  {
+    "name": "Saint-Étienne",
+    "english_name": "saint etienne",
+    "long": 4.3872,
+    "latt": 45.4397
+  },
+  {
+    "name": "Toulon",
+    "english_name": "toulon",
+    "long": 5.928,
+    "latt": 43.1242
+  },
+  {
+    "name": "Le Havre",
+    "english_name": "le havre",
+    "long": 0.1079,
+    "latt": 49.4944
+  },
+  {
+    "name": "Grenoble",
+    "english_name": "grenoble",
+    "long": 5.7245,
+    "latt": 45.1885
+  },
+  {
+    "name": "Dijon",
+    "english_name": "dijon",
+    "long": 5.0415,
+    "latt": 47.322
+  },
+  {
+    "name": "Angers",
+    "english_name": "angers",
+    "long": -0.5517,
+    "latt": 47.4739
+  },
+  {
+    "name": "Nîmes",
+    "english_name": "nimes",
+    "long": 4.3601,
+    "latt": 43.8367
+  },
+  {
+    "name": "Villeurbanne",
+    "english_name": "villeurbanne",
+    "long": 4.8795,
+    "latt": 45.766
+  },
+  {
+    "name": "Clermont-Ferrand",
+    "english_name": "clermont ferrand",
+    "long": 3.087,
+    "latt": 45.7772
+  },
+  {
+    "name": "Le Mans",
+    "english_name": "le mans",
+    "long": 0.1984,
+    "latt": 48.0077
+  },
+  {
+    "name": "Aix-en-Provence",
+    "english_name": "aix en provence",
+    "long": 5.4474,
+    "latt": 43.5297
+  },
+  {
+    "name": "Brest",
+    "english_name": "brest",
+    "long": -4.4861,
+    "latt": 48.3905
+  },
+  {
+    "name": "Tours",
+    "english_name": "tours",
+    "long": 0.6848,
+    "latt": 47.3941
+  },
+  {
+    "name": "Amiens",
+    "english_name": "amiens",
+    "long": 2.2958,
+    "latt": 49.8942
+  },
+  {
+    "name": "Limoges",
+    "english_name": "limoges",
+    "long": 1.2581,
+    "latt": 45.8336
+  },
+  {
+    "name": "Annecy",
+    "english_name": "annecy",
+    "long": 6.1294,
+    "latt": 45.8992
+  },
+  {
+    "name": "Perpignan",
+    "english_name": "perpignan",
+    "long": 2.8948,
+    "latt": 42.6886
+  },
+  {
+    "name": "Boulogne-Billancourt",
+    "english_name": "boulogne billancourt",
+    "long": 2.2409,
+    "latt": 48.8352
+  },
+  {
+    "name": "Metz",
+    "english_name": "metz",
+    "long": 6.1757,
+    "latt": 49.1193
+  },
+  {
+    "name": "Besançon",
+    "english_name": "besancon",
+    "long": 6.0243,
+    "latt": 47.238
+  },
+  {
+    "name": "Orléans",
+    "english_name": "orleans",
+    "long": 1.9093,
+    "latt": 47.9029
+  },
+  {
+    "name": "Rouen",
+    "english_name": "rouen",
+    "long": 1.0993,
+    "latt": 49.4431
+  },
+  {
+    "name": "Mulhouse",
+    "english_name": "mulhouse",
+    "long": 7.3359,
+    "latt": 47.7508
+  },
+  {
+    "name": "Caen",
+    "english_name": "caen",
+    "long": -0.3707,
+    "latt": 49.1829
+  },
+  {
+    "name": "Saint-Denis",
+    "english_name": "saint denis",
+    "long": 2.3574,
+    "latt": 48.9362
+  },
+  {
+    "name": "Argenteuil",
+    "english_name": "argenteuil",
+    "long": 2.2474,
+    "latt": 48.9471
+  },
+  {
+    "name": "Montreuil",
+    "english_name": "montreuil",
+    "long": 2.4432,
+    "latt": 48.8634
+  },
+  {
+    "name": "Nancy",
+    "english_name": "nancy",
+    "long": 6.1844,
+    "latt": 48.6921
+  },
+  {
+    "name": "Roubaix",
+    "english_name": "roubaix",
+    "long": 3.1746,
+    "latt": 50.6942
+  },
+  {
+    "name": "Tourcoing",
+    "english_name": "tourcoing",
+    "long": 3.1611,
+    "latt": 50.7236
+  },
+  {
+    "name": "Nanterre",
+    "english_name": "nanterre",
+    "long": 2.2067,
+    "latt": 48.8924
+  },
+  {
+    "name": "Avignon",
+    "english_name": "avignon",
+    "long": 4.8055,
+    "latt": 43.9493
+  },
+  {
+    "name": "Vitry-sur-Seine",
+    "english_name": "vitry sur seine",
+    "long": 2.3933,
+    "latt": 48.7872
+  },
+  {
+    "name": "Créteil",
+    "english_name": "creteil",
+    "long": 2.4558,
+    "latt": 48.7904
+  },
+  {
+    "name": "Dunkirk",
+    "english_name": "dunkirk",
+    "long": 2.3768,
+    "latt": 51.0343
+  },
+  {
+    "name": "Poitiers",
+    "english_name": "poitiers",
+    "long": 0.3404,
+    "latt": 46.5802
+  },
+  {
+    "name": "Asnières-sur-Seine",
+    "english_name": "asnieres sur seine",
+    "long": 2.2857,
+    "latt": 48.9108
+  },
+  {
+    "name": "Versailles",
+    "english_name": "versailles",
+    "long": 2.1204,
+    "latt": 48.8049
+  },
+  {
+    "name": "Courbevoie",
+    "english_name": "courbevoie",
+    "long": 2.2567,
+    "latt": 48.8967
+  },
+  {
+    "name": "Colombes",
+    "english_name": "colombes",
+    "long": 2.252,
+    "latt": 48.9228
+  },
+  {
+    "name": "Aulnay-sous-Bois",
+    "english_name": "aulnay sous bois",
+    "long": 2.4906,
+    "latt": 48.9386
+  },
+  {
+    "name": "La Rochelle",
+    "english_name": "la rochelle",
+    "long": -1.1511,
+    "latt": 46.1603
+  },
+  {
+    "name": "Champigny-sur-Marne",
+    "english_name": "champigny sur marne",
+    "long": 2.5156,
+    "latt": 48.8174
+  },
+  {
+    "name": "Rueil-Malmaison",
+    "english_name": "rueil malmaison",
+    "long": 2.1897,
+    "latt": 48.8775
+  },
+  {
+    "name": "Antibes",
+    "english_name": "antibes",
+    "long": 7.1251,
+    "latt": 43.5804
+  },
+  {
+    "name": "Saint-Maur-des-Fossés",
+    "english_name": "saint maur des fosses",
+    "long": 2.4997,
+    "latt": 48.7994
+  },
+  {
+    "name": "Calais",
+    "english_name": "calais",
+    "long": 1.8587,
+    "latt": 50.9513
+  },
+  {
+    "name": "Béziers",
+    "english_name": "beziers",
+    "long": 3.2159,
+    "latt": 43.3442
+  },
+  {
+    "name": "Mérignac",
+    "english_name": "merignac",
+    "long": -0.6436,
+    "latt": 44.8386
+  },
+  {
+    "name": "Saint-Nazaire",
+    "english_name": "saint nazaire",
+    "long": -2.2137,
+    "latt": 47.2736
+  },
+  {
+    "name": "Ajaccio",
+    "english_name": "ajaccio",
+    "long": 8.7383,
+    "latt": 41.9189
+  },
+  {
+    "name": "Issy-les-Moulineaux",
+    "english_name": "issy les moulineaux",
+    "long": 2.27,
+    "latt": 48.8219
+  },
+  {
+    "name": "Vénissieux",
+    "english_name": "venissieux",
+    "long": 4.8859,
+    "latt": 45.6974
+  },
+  {
+    "name": "Noisy-le-Grand",
+    "english_name": "noisy le grand",
+    "long": 2.5528,
+    "latt": 48.8478
+  },
+  {
+    "name": "Valence",
+    "english_name": "valence",
+    "long": 4.8917,
+    "latt": 44.9333
+  },
+  {
+    "name": "Levallois-Perret",
+    "english_name": "levallois perret",
+    "long": 2.2886,
+    "latt": 48.894
+  },
+  {
+    "name": "Troyes",
+    "english_name": "troyes",
+    "long": 4.0744,
+    "latt": 48.2973
+  },
+  {
+    "name": "Antony",
+    "english_name": "antony",
+    "long": 2.2969,
+    "latt": 48.7533
+  },
+  {
+    "name": "Neuilly-sur-Seine",
+    "english_name": "neuilly sur seine",
+    "long": 2.2687,
+    "latt": 48.8848
+  },
+  {
+    "name": "Pessac",
+    "english_name": "pessac",
+    "long": -0.6311,
+    "latt": 44.8063
+  },
+  {
+    "name": "Sarcelles",
+    "english_name": "sarcelles",
+    "long": 2.3782,
+    "latt": 48.9972
+  },
+  {
+    "name": "Cannes",
+    "english_name": "cannes",
+    "long": 7.0174,
+    "latt": 43.5528
+  },
+  {
+    "name": "Colmar",
+    "english_name": "colmar",
+    "long": 7.3586,
+    "latt": 48.0794
+  },
+  {
+    "name": "Lorient",
+    "english_name": "lorient",
+    "long": -3.37,
+    "latt": 47.7483
+  },
+  {
+    "name": "Chambéry",
+    "english_name": "chambery",
+    "long": 5.9178,
+    "latt": 45.5646
+  },
+  {
+    "name": "Martigues",
+    "english_name": "martigues",
+    "long": 5.0477,
+    "latt": 43.4071
+  },
+  {
+    "name": "Saint-Quentin",
+    "english_name": "saint quentin",
+    "long": 3.2876,
+    "latt": 49.8486
+  },
+  {
+    "name": "Bourges",
+    "english_name": "bourges",
+    "long": 2.4,
+    "latt": 47.0833
+  },
+  {
+    "name": "Fréjus",
+    "english_name": "frejus",
+    "long": 6.7333,
+    "latt": 43.4333
+  },
+  {
+    "name": "Hyères",
+    "english_name": "hyeres",
+    "long": 6.1286,
+    "latt": 43.1208
+  },
+  {
+    "name": "La Seyne-sur-Mer",
+    "english_name": "la seyne sur mer",
+    "long": 5.8833,
+    "latt": 43.1
+  },
+  {
+    "name": "Clamart",
+    "english_name": "clamart",
+    "long": 2.2667,
+    "latt": 48.8
+  },
+  {
+    "name": "Drancy",
+    "english_name": "drancy",
+    "long": 2.45,
+    "latt": 48.93
+  },
+  {
+    "name": "Saint-Herblain",
+    "english_name": "saint herblain",
+    "long": -1.65,
+    "latt": 47.2167
+  },
+  {
+    "name": "Aubervilliers",
+    "english_name": "aubervilliers",
+    "long": 2.3833,
+    "latt": 48.9167
+  },
+  {
+    "name": "Bourg-en-Bresse",
+    "english_name": "bourg en bresse",
+    "long": 5.2289,
+    "latt": 46.2056
+  },
+  {
+    "name": "Châteauroux",
+    "english_name": "chateauroux",
+    "long": 1.6906,
+    "latt": 46.8103
+  },
+  {
+    "name": "Charleville-Mézières",
+    "english_name": "charleville mezieres",
+    "long": 4.7161,
+    "latt": 49.7719
+  },
+  {
+    "name": "Tarbes",
+    "english_name": "tarbes",
+    "long": 0.0833,
+    "latt": 43.2333
+  },
+  {
+    "name": "Bayonne",
+    "english_name": "bayonne",
+    "long": -1.473,
+    "latt": 43.4932
+  },
+  {
+    "name": "Pau",
+    "english_name": "pau",
+    "long": -0.3708,
+    "latt": 43.2951
+  },
+  {
+    "name": "Biarritz",
+    "english_name": "biarritz",
+    "long": -1.5586,
+    "latt": 43.4832
+  },
+  {
+    "name": "Angoulême",
+    "english_name": "angouleme",
+    "long": 0.15,
+    "latt": 45.65
+  },
+  {
+    "name": "Niort",
+    "english_name": "niort",
+    "long": -0.4588,
+    "latt": 46.3239
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "english_name": "brive la gaillarde",
+    "long": 1.5333,
+    "latt": 45.15
+  },
+  {
+    "name": "Cahors",
+    "english_name": "cahors",
+    "long": 1.4411,
+    "latt": 44.4479
+  },
+  {
+    "name": "Montauban",
+    "english_name": "montauban",
+    "long": 1.35,
+    "latt": 44.0167
+  },
+  {
+    "name": "Albi",
+    "english_name": "albi",
+    "long": 2.1486,
+    "latt": 43.9283
+  },
+  {
+    "name": "Carcassonne",
+    "english_name": "carcassonne",
+    "long": 2.35,
+    "latt": 43.21
+  },
+  {
+    "name": "Narbonne",
+    "english_name": "narbonne",
+    "long": 3.0042,
+    "latt": 43.1836
+  },
+  {
+    "name": "Arles",
+    "english_name": "arles",
+    "long": 4.6278,
+    "latt": 43.6766
+  },
+  {
+    "name": "Gap",
+    "english_name": "gap",
+    "long": 6.0786,
+    "latt": 44.5594
+  },
+  {
+    "name": "Briançon",
+    "english_name": "briancon",
+    "long": 6.6333,
+    "latt": 44.9
+  },
+  {
+    "name": "Montélimar",
+    "english_name": "montelimar",
+    "long": 4.7509,
+    "latt": 44.5581
+  }
+]

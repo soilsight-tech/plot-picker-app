@@ -1,15 +1,16 @@
 import React, { useState, useRef, useEffect } from 'react'
-import { searchCities, IsraeliCity } from './citySearchService'
+import { searchCities, type CountryCode, type PickerCity } from './citySearchService'
 import { he } from './i18n-he'
 
 interface CitySearchControlProps {
-  onCitySelect: (city: IsraeliCity) => void
+  country: CountryCode
+  onCitySelect: (city: PickerCity) => void
   className?: string
 }
 
-export function CitySearchControl({ onCitySelect, className = '' }: CitySearchControlProps) {
+export function CitySearchControl({ country, onCitySelect, className = '' }: CitySearchControlProps) {
   const [query, setQuery] = useState('')
-  const [results, setResults] = useState<IsraeliCity[]>([])
+  const [results, setResults] = useState<PickerCity[]>([])
   const [isOpen, setIsOpen] = useState(false)
   const [selectedIndex, setSelectedIndex] = useState(-1)
   const wrapperRef = useRef<HTMLDivElement>(null)
@@ -17,7 +18,7 @@ export function CitySearchControl({ onCitySelect, className = '' }: CitySearchCo
 
   useEffect(() => {
     if (query.trim().length >= 2) {
-      const searchResults = searchCities(query)
+      const searchResults = searchCities(query, country)
       setResults(searchResults)
       setIsOpen(searchResults.length > 0)
       setSelectedIndex(-1)
@@ -25,7 +26,7 @@ export function CitySearchControl({ onCitySelect, className = '' }: CitySearchCo
       setResults([])
       setIsOpen(false)
     }
-  }, [query])
+  }, [query, country])
 
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
@@ -37,7 +38,7 @@ export function CitySearchControl({ onCitySelect, className = '' }: CitySearchCo
     return () => document.removeEventListener('mousedown', handleClickOutside)
   }, [])
 
-  const handleSelectCity = (city: IsraeliCity) => {
+  const handleSelectCity = (city: PickerCity) => {
     setQuery(city.name)
     setIsOpen(false)
     onCitySelect(city)
@@ -88,13 +89,13 @@ export function CitySearchControl({ onCitySelect, className = '' }: CitySearchCo
           onFocus={() => {
             if (results.length > 0) setIsOpen(true)
           }}
-          placeholder={he.search.placeholder}
+          placeholder={country === 'FR' ? he.search.placeholderFr : he.search.placeholder}
           className="w-full px-4 py-2 pr-10 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
           aria-label={he.search.ariaLabel}
           aria-autocomplete="list"
           aria-controls="city-search-results"
           aria-expanded={isOpen}
-          dir="rtl"
+          dir={country === 'FR' ? 'ltr' : 'rtl'}
         />
         {query && (
           <button
@@ -133,17 +134,20 @@ export function CitySearchControl({ onCitySelect, className = '' }: CitySearchCo
         >
           {results.map((city, index) => (
             <button
-              key={`${city.english_name}-${city.long}-${city.latt}`}
+              key={`${city.country}-${city.english_name}-${city.long}-${city.latt}`}
               type="button"
               onClick={() => handleSelectCity(city)}
               onMouseEnter={() => setSelectedIndex(index)}
-              className={`w-full text-right px-4 py-2 hover:bg-blue-50 focus:bg-blue-50 focus:outline-none transition-colors ${
-                index === selectedIndex ? 'bg-blue-50' : ''
-              }`}
+              className={`w-full px-4 py-2 hover:bg-blue-50 focus:bg-blue-50 focus:outline-none transition-colors ${
+                country === 'FR' ? 'text-left' : 'text-right'
+              } ${index === selectedIndex ? 'bg-blue-50' : ''}`}
               role="option"
               aria-selected={index === selectedIndex}
             >
               <div className="font-bold text-gray-900 text-lg">{city.name}</div>
+              {country === 'FR' && city.english_name !== city.name.toLowerCase() && (
+                <div className="text-sm text-gray-500">{city.english_name}</div>
+              )}
             </button>
           ))}
         </div>

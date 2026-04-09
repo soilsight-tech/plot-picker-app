@@ -25,8 +25,14 @@ export const he = {
     vertices: 'קודקודים',
     near: 'ליד',
   },
+  country: {
+    label: 'מדינה',
+    il: 'ישראל',
+    fr: 'צרפת',
+  },
   search: {
     placeholder: 'חפש יישוב כדי למרכז את המפה',
+    placeholderFr: 'חפש עיר בצרפת (למשל Paris, Lyon)',
     ariaLabel: 'חיפוש יישוב',
     clearAriaLabel: 'נקה חיפוש',
     noResults: (query: string) => `לא נמצאו ישובים התואמים "${query}"`,

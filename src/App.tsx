@@ -1,6 +1,6 @@
 import { Suspense, lazy, useState, useCallback, useMemo, useEffect } from 'react'
 import { CitySearchControl } from './CitySearchControl'
-import { IsraeliCity } from './citySearchService'
+import type { CountryCode, PickerCity } from './citySearchService'
 import { he } from './i18n-he'
 import type { PolygonValue } from './types'
 
@@ -14,17 +14,35 @@ function ringToLatLng(ring: [number, number][]) {
   return verts.map(([lng, lat]) => ({ lat, lng }))
 }
 
+const MAP_DEFAULTS: Record<CountryCode, { center: [number, number]; zoom: number }> = {
+  IL: { center: [31.5, 34.8], zoom: 8 },
+  FR: { center: [46.5, 2.2], zoom: 6 },
+}
+
 export default function App() {
-  const [mapCenter, setMapCenter] = useState<[number, number]>([31.5, 34.8])
-  const [mapZoom, setMapZoom] = useState(8)
+  const [country, setCountry] = useState<CountryCode>('IL')
+  const [mapCenter, setMapCenter] = useState<[number, number]>(MAP_DEFAULTS.IL.center)
+  const [mapZoom, setMapZoom] = useState(MAP_DEFAULTS.IL.zoom)
   const [selectedCity, setSelectedCity] = useState<string | null>(null)
   const [draft, setDraft] = useState<PolygonValue | null>(null)
   const [approved, setApproved] = useState<PolygonValue | null>(null)
 
-  const handleCitySelect = useCallback((city: IsraeliCity) => {
+  const handleCitySelect = useCallback((city: PickerCity) => {
     setMapCenter([city.latt, city.long])
     setMapZoom(13)
-    setSelectedCity(`${city.english_name} (${city.name})`)
+    setSelectedCity(
+      city.country === 'FR'
+        ? city.name
+        : `${city.english_name} (${city.name})`
+    )
+  }, [])
+
+  const handleCountryChange = useCallback((next: CountryCode) => {
+    setCountry(next)
+    const d = MAP_DEFAULTS[next]
+    setMapCenter(d.center)
+    setMapZoom(d.zoom)
+    setSelectedCity(null)
   }, [])
 
   useEffect(() => {
@@ -74,8 +92,31 @@ export default function App() {
         <h1 className="text-xl font-semibold text-gray-900">{he.title}</h1>
 
         <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
+          <div className="flex flex-wrap items-center gap-2 mb-3" dir="rtl">
+            <span className="text-sm font-medium text-gray-700">{he.country.label}</span>
+            <div className="flex rounded-lg border border-gray-300 overflow-hidden bg-white divide-x divide-gray-300">
+              <button
+                type="button"
+                onClick={() => handleCountryChange('IL')}
+                className={`px-3 py-1.5 text-sm font-medium transition-colors ${
+                  country === 'IL' ? 'bg-blue-600 text-white' : 'text-gray-700 hover:bg-gray-50'
+                }`}
+              >
+                {he.country.il}
+              </button>
+              <button
+                type="button"
+                onClick={() => handleCountryChange('FR')}
+                className={`px-3 py-1.5 text-sm font-medium transition-colors ${
+                  country === 'FR' ? 'bg-blue-600 text-white' : 'text-gray-700 hover:bg-gray-50'
+                }`}
+              >
+                {he.country.fr}
+              </button>
+            </div>
+          </div>
           <label className="block text-sm font-medium text-gray-700 mb-2">{he.search.label}</label>
-          <CitySearchControl onCitySelect={handleCitySelect} />
+          <CitySearchControl key={country} country={country} onCitySelect={handleCitySelect} />
           {selectedCity && (
             <p className="mt-2 text-sm text-blue-600">
               {he.search.centered} <span className="font-medium">{selectedCity}</span>

@@ -1,0 +1,8264 @@
+[
+    {
+        "name": "קניה",
+        "english_name": "kenya",
+        "long": 37.906193,
+        "latt": -0.023559
+    },
+    {
+        "name": "ניירובי",
+        "english_name": "nairobi",
+        "long": 36.821945,
+        "latt": -1.292066
+    },
+    {
+        "name": "אבו ג'ווייעד",
+        "english_name": "abu juwei'id",
+        "long": 34.7749,
+        "latt": 32.05493
+    },
+    {
+        "name": "אבו גוש",
+        "english_name": "abu ghosh",
+        "long": 35.11018,
+        "latt": 31.80599
+    },
+    {
+        "name": "אבו סנאן",
+        "english_name": "abu sinan",
+        "long": 35.16889,
+        "latt": 32.96091
+    },
+    {
+        "name": "אבו סריחאן",
+        "english_name": "abu sureihan",
+        "long": 35.11016,
+        "latt": 31.80575
+    },
+    {
+        "name": "אבו עבדון",
+        "english_name": "abu  abdun",
+        "long": 35.11016,
+        "latt": 31.80575
+    },
+    {
+        "name": "אבו עמאר",
+        "english_name": "abu  ammar",
+        "long": 35.14814,
+        "latt": 32.53362
+    },
+    {
+        "name": "אבו עמרה",
+        "english_name": "abu  amre",
+        "long": 35.14814,
+        "latt": 32.53362
+    },
+    {
+        "name": "אבו קורינאת",
+        "english_name": "abu qureinat",
+        "long": 34.95858,
+        "latt": 31.13369
+    },
+    {
+        "name": "אבו קרינאת ישוב",
+        "english_name": "abu qureinat",
+        "long": 34.95858,
+        "latt": 31.13369
+    },
+    {
+        "name": "אבו רובייעה",
+        "english_name": "abu rubei'a",
+        "long": 35.23931,
+        "latt": 31.74771
+    },
+    {
+        "name": "אבו רוקייק",
+        "english_name": "abu ruqayyeq",
+        "long": 35.11016,
+        "latt": 31.80575
+    },
+    {
+        "name": "אבו תלול",
+        "english_name": "abu tulul",
+        "long": 34.73974,
+        "latt": 31.38059
+    },
+    {
+        "name": "אבטין",
+        "english_name": "ibtin",
+        "long": 35.11249,
+        "latt": 32.76212
+    },
+    {
+        "name": "אבטליון",
+        "english_name": "avtalyon",
+        "long": 35.35097,
+        "latt": 32.83714
+    },
+    {
+        "name": "אביאל",
+        "english_name": "avi'el",
+        "long": 34.99309,
+        "latt": 32.53172
+    },
+    {
+        "name": "אביבים",
+        "english_name": "avivim",
+        "long": 35.47129,
+        "latt": 33.08795
+    },
+    {
+        "name": "אביגדור",
+        "english_name": "avigedor",
+        "long": 34.74354,
+        "latt": 31.70979
+    },
+    {
+        "name": "אביחיל",
+        "english_name": "avihayil",
+        "long": 34.87219,
+        "latt": 32.35006
+    },
+    {
+        "name": "אביטל",
+        "english_name": "avital",
+        "long": 35.3072,
+        "latt": 32.5574
+    },
+    {
+        "name": "אביעזר",
+        "english_name": "avi'ezer",
+        "long": 35.01557,
+        "latt": 31.68145
+    },
+    {
+        "name": "אבירים",
+        "english_name": "abbirim",
+        "long": 35.28713,
+        "latt": 33.03834
+    },
+    {
+        "name": "אבן יהודה",
+        "english_name": "even yehuda",
+        "long": 34.88373,
+        "latt": 32.26816
+    },
+    {
+        "name": "אבן מנחם",
+        "english_name": "even menahem",
+        "long": 35.29372,
+        "latt": 33.07447
+    },
+    {
+        "name": "אבן ספיר",
+        "english_name": "even sappir",
+        "long": 35.13319,
+        "latt": 31.7624
+    },
+    {
+        "name": "אבן שמואל",
+        "english_name": "even shemu'el",
+        "long": 34.76301,
+        "latt": 31.57571
+    },
+    {
+        "name": "אבני איתן",
+        "english_name": "avne etan",
+        "long": 35.76519,
+        "latt": 32.82348
+    },
+    {
+        "name": "אבני חפץ",
+        "english_name": "avne hefez",
+        "long": 35.07212,
+        "latt": 32.28615
+    },
+    {
+        "name": "אבנת",
+        "english_name": "avenat",
+        "long": 35.43593,
+        "latt": 31.67913
+    },
+    {
+        "name": "אבשלום",
+        "english_name": "avshalom",
+        "long": 34.33561,
+        "latt": 31.19688
+    },
+    {
+        "name": "אדורה",
+        "english_name": "adora",
+        "long": 35.01789,
+        "latt": 31.55234
+    },
+    {
+        "name": "אדירים",
+        "english_name": "addirim",
+        "long": 35.27265,
+        "latt": 32.54921
+    },
+    {
+        "name": "אדמית",
+        "english_name": "adamit",
+        "long": 35.22,
+        "latt": 33.08578
+    },
+    {
+        "name": "אדרת",
+        "english_name": "adderet",
+        "long": 34.99497,
+        "latt": 31.66031
+    },
+    {
+        "name": "אודים",
+        "english_name": "udim",
+        "long": 34.8483,
+        "latt": 32.26596
+    },
+    {
+        "name": "אודם",
+        "english_name": "odem",
+        "long": 35.74999,
+        "latt": 33.19321
+    },
+    {
+        "name": "אוהד",
+        "english_name": "ohad",
+        "long": 34.43204,
+        "latt": 31.23698
+    },
+    {
+        "name": "אוהלו",
+        "english_name": "",
+        "long": 35.57231,
+        "latt": 32.71645
+    },
+    {
+        "name": "אום אל-פחם",
+        "english_name": "umm al-fahm",
+        "long": 35.15075,
+        "latt": 32.52211
+    },
+    {
+        "name": "אום אל-קוטוף",
+        "english_name": "umm al-qutuf",
+        "long": 35.05631,
+        "latt": 32.46961
+    },
+    {
+        "name": "אום בטין",
+        "english_name": "",
+        "long": 34.88228,
+        "latt": 31.27432
+    },
+    {
+        "name": "אומן",
+        "english_name": "omen",
+        "long": 35.24238,
+        "latt": 32.56336
+    },
+    {
+        "name": "אומץ",
+        "english_name": "omez",
+        "long": 34.99499,
+        "latt": 32.36982
+    },
+    {
+        "name": "אופקים",
+        "english_name": "ofaqim",
+        "long": 34.62162,
+        "latt": 31.31092
+    },
+    {
+        "name": "אור הגנוז",
+        "english_name": "or haganuz",
+        "long": 35.4465,
+        "latt": 33.00501
+    },
+    {
+        "name": "אור הנר",
+        "english_name": "or haner",
+        "long": 34.60179,
+        "latt": 31.55644
+    },
+    {
+        "name": "אור יהודה",
+        "english_name": "or yehuda",
+        "long": 34.85581,
+        "latt": 32.0274
+    },
+    {
+        "name": "אור עקיבא",
+        "english_name": "or aqiva",
+        "long": 34.92006,
+        "latt": 32.50949
+    },
+    {
+        "name": "אורה",
+        "english_name": "ora",
+        "long": 35.1535,
+        "latt": 31.75491
+    },
+    {
+        "name": "אורות",
+        "english_name": "orot",
+        "long": 34.73523,
+        "latt": 31.74248
+    },
+    {
+        "name": "אורטל",
+        "english_name": "ortal",
+        "long": 35.76167,
+        "latt": 33.08467
+    },
+    {
+        "name": "אורים",
+        "english_name": "urim",
+        "long": 34.52379,
+        "latt": 31.30455
+    },
+    {
+        "name": "אורנים",
+        "english_name": "oranim",
+        "long": 34.63622,
+        "latt": 31.80528
+    },
+    {
+        "name": "אורנית",
+        "english_name": "oranit",
+        "long": 34.99226,
+        "latt": 32.13009
+    },
+    {
+        "name": "אושה",
+        "english_name": "usha",
+        "long": 35.1141,
+        "latt": 32.79592
+    },
+    {
+        "name": "אזור",
+        "english_name": "azor",
+        "long": 34.80794,
+        "latt": 32.02283
+    },
+    {
+        "name": "אחווה",
+        "english_name": "ahawa",
+        "long": 34.76886,
+        "latt": 31.74367
+    },
+    {
+        "name": "אחוזם",
+        "english_name": "ahuzzam",
+        "long": 34.77037,
+        "latt": 31.55397
+    },
+    {
+        "name": "אחוזת ברק",
+        "english_name": "",
+        "long": 35.33763,
+        "latt": 32.64347
+    },
+    {
+        "name": "אחיהוד",
+        "english_name": "ahihud",
+        "long": 35.18461,
+        "latt": 32.90701
+    },
+    {
+        "name": "אחיטוב",
+        "english_name": "ahituv",
+        "long": 34.99074,
+        "latt": 32.38775
+    },
+    {
+        "name": "אחיסמך",
+        "english_name": "ahisamakh",
+        "long": 34.90748,
+        "latt": 31.93476
+    },
+    {
+        "name": "אחיעזר",
+        "english_name": "ahi'ezer",
+        "long": 34.87178,
+        "latt": 31.98121
+    },
+    {
+        "name": "אטרש",
+        "english_name": "atrash",
+        "long": 34.94938,
+        "latt": 31.25999
+    },
+    {
+        "name": "איבים",
+        "english_name": "ibbim",
+        "long": 34.61102,
+        "latt": 31.53252
+    },
+    {
+        "name": "אייל",
+        "english_name": "eyal",
+        "long": 34.97885,
+        "latt": 32.21102
+    },
+    {
+        "name": "איילת השחר",
+        "english_name": "ayyelet hashahar",
+        "long": 35.57871,
+        "latt": 33.02257
+    },
+    {
+        "name": "אילון",
+        "english_name": "elon",
+        "long": 35.21814,
+        "latt": 33.06341
+    },
+    {
+        "name": "אילות",
+        "english_name": "elot",
+        "long": 34.96328,
+        "latt": 29.58043
+    },
+    {
+        "name": "אילניה",
+        "english_name": "ilaniyya",
+        "long": 35.40563,
+        "latt": 32.75992
+    },
+    {
+        "name": "אילנייה",
+        "english_name": "",
+        "long": 35.40654,
+        "latt": 32.75453
+    },
+    {
+        "name": "אילת",
+        "english_name": "elat",
+        "long": 34.9398,
+        "latt": 29.55374
+    },
+    {
+        "name": "אירוס",
+        "english_name": "irus",
+        "long": 34.77663,
+        "latt": 31.92878
+    },
+    {
+        "name": "איתמר",
+        "english_name": "itamar",
+        "long": 35.3076,
+        "latt": 32.17419
+    },
+    {
+        "name": "איתן",
+        "english_name": "etan",
+        "long": 34.74803,
+        "latt": 31.57241
+    },
+    {
+        "name": "איתנים",
+        "english_name": "etanim",
+        "long": 35.09569,
+        "latt": 31.77832
+    },
+    {
+        "name": "אכסאל",
+        "english_name": "iksal",
+        "long": 35.32479,
+        "latt": 32.68199
+    },
+    {
+        "name": "אל -עזי",
+        "english_name": "",
+        "long": 34.80393,
+        "latt": 31.72086
+    },
+    {
+        "name": "אל -עריאן",
+        "english_name": "",
+        "long": 35.12496,
+        "latt": 32.4977
+    },
+    {
+        "name": "אל -רום",
+        "english_name": "",
+        "long": 35.77157,
+        "latt": 33.17892
+    },
+    {
+        "name": "אל סייד",
+        "english_name": "",
+        "long": 34.91182,
+        "latt": 31.28601
+    },
+    {
+        "name": "אל-עזי",
+        "english_name": "",
+        "long": 34.80961,
+        "latt": 31.71869
+    },
+    {
+        "name": "אל-עריאן",
+        "english_name": "al-aryan",
+        "long": 35.12291,
+        "latt": 32.49802
+    },
+    {
+        "name": "אל-רום",
+        "english_name": "el-rom",
+        "long": 35.76803,
+        "latt": 33.18049
+    },
+    {
+        "name": "אלומה",
+        "english_name": "alumma",
+        "long": 34.74397,
+        "latt": 31.65181
+    },
+    {
+        "name": "אלומות",
+        "english_name": "alummot",
+        "long": 35.5454,
+        "latt": 32.70724
+    },
+    {
+        "name": "אלון הגליל",
+        "english_name": "allon hagalil",
+        "long": 35.22025,
+        "latt": 32.75904
+    },
+    {
+        "name": "אלון מורה",
+        "english_name": "elon more",
+        "long": 35.33302,
+        "latt": 32.23263
+    },
+    {
+        "name": "אלון שבות",
+        "english_name": "allon shevut",
+        "long": 35.12463,
+        "latt": 31.65555
+    },
+    {
+        "name": "אלוני אבא",
+        "english_name": "allone abba",
+        "long": 35.17196,
+        "latt": 32.72993
+    },
+    {
+        "name": "אלוני הבשן",
+        "english_name": "allone habashan",
+        "long": 35.84054,
+        "latt": 33.04387
+    },
+    {
+        "name": "אלוני יצחק",
+        "english_name": "allone yizhaq",
+        "long": 35.00372,
+        "latt": 32.51045
+    },
+    {
+        "name": "אלונים",
+        "english_name": "allonim",
+        "long": 35.1472,
+        "latt": 32.71641
+    },
+    {
+        "name": "אלי סיני",
+        "english_name": "",
+        "long": 34.50354,
+        "latt": 31.58344
+    },
+    {
+        "name": "אלי-עד",
+        "english_name": "eli al",
+        "long": 35.72606,
+        "latt": 32.80161
+    },
+    {
+        "name": "אליאב",
+        "english_name": "eliav",
+        "long": 34.92792,
+        "latt": 31.52966
+    },
+    {
+        "name": "אליכין",
+        "english_name": "elyakhin",
+        "long": 34.92482,
+        "latt": 32.40765
+    },
+    {
+        "name": "אליפז",
+        "english_name": "elifaz",
+        "long": 35.01176,
+        "latt": 29.79428
+    },
+    {
+        "name": "אליפלט",
+        "english_name": "elifelet",
+        "long": 35.55219,
+        "latt": 32.94693
+    },
+    {
+        "name": "אליקים",
+        "english_name": "elyaqim",
+        "long": 35.06742,
+        "latt": 32.63209
+    },
+    {
+        "name": "אלישיב",
+        "english_name": "elyashiv",
+        "long": 34.90941,
+        "latt": 32.37903
+    },
+    {
+        "name": "אלישמע",
+        "english_name": "elishama",
+        "long": 34.9279,
+        "latt": 32.15222
+    },
+    {
+        "name": "אלמגור",
+        "english_name": "almagor",
+        "long": 35.6022,
+        "latt": 32.91074
+    },
+    {
+        "name": "אלמוג",
+        "english_name": "almog",
+        "long": 35.46174,
+        "latt": 31.78769
+    },
+    {
+        "name": "אלעד",
+        "english_name": "",
+        "long": 34.95697,
+        "latt": 32.05067
+    },
+    {
+        "name": "אלעזר",
+        "english_name": "el'azar",
+        "long": 35.14116,
+        "latt": 31.6615
+    },
+    {
+        "name": "אלפי מנשה",
+        "english_name": "alfe menashe",
+        "long": 35.0143,
+        "latt": 32.17145
+    },
+    {
+        "name": "אלקוש",
+        "english_name": "elqosh",
+        "long": 35.32371,
+        "latt": 33.03331
+    },
+    {
+        "name": "אלקנה",
+        "english_name": "elqana",
+        "long": 35.03515,
+        "latt": 32.11219
+    },
+    {
+        "name": "אמונים",
+        "english_name": "emunim",
+        "long": 34.67592,
+        "latt": 31.74347
+    },
+    {
+        "name": "אמירים",
+        "english_name": "amirim",
+        "long": 35.44942,
+        "latt": 32.93812
+    },
+    {
+        "name": "אמנון",
+        "english_name": "amnun",
+        "long": 35.5733,
+        "latt": 32.90401
+    },
+    {
+        "name": "אמציה",
+        "english_name": "amazya",
+        "long": 34.91357,
+        "latt": 31.53345
+    },
+    {
+        "name": "אניעם",
+        "english_name": "ani'am",
+        "long": 35.74061,
+        "latt": 32.95763
+    },
+    {
+        "name": "אסד",
+        "english_name": "asad",
+        "long": 35.26595,
+        "latt": 32.93719
+    },
+    {
+        "name": "אספר",
+        "english_name": "asefar",
+        "long": 35.19167,
+        "latt": 31.58689
+    },
+    {
+        "name": "אעבלין",
+        "english_name": "i'billin",
+        "long": 35.18567,
+        "latt": 32.82667
+    },
+    {
+        "name": "אעצם",
+        "english_name": "a'sam",
+        "long": 35.567,
+        "latt": 32.72451
+    },
+    {
+        "name": "אפיניש",
+        "english_name": "afeinish",
+        "long": 34.64788,
+        "latt": 31.79672
+    },
+    {
+        "name": "אפיק",
+        "english_name": "afiq",
+        "long": 35.70402,
+        "latt": 32.77791
+    },
+    {
+        "name": "אפיקים",
+        "english_name": "afiqim",
+        "long": 35.57809,
+        "latt": 32.68038
+    },
+    {
+        "name": "אפק",
+        "english_name": "afeq",
+        "long": 35.12781,
+        "latt": 32.8396
+    },
+    {
+        "name": "אפרת",
+        "english_name": "efrat",
+        "long": 35.14936,
+        "latt": 31.65233
+    },
+    {
+        "name": "אפרתה",
+        "english_name": "",
+        "long": 35.1561,
+        "latt": 31.66117
+    },
+    {
+        "name": "ארבל",
+        "english_name": "arbel",
+        "long": 35.48376,
+        "latt": 32.81255
+    },
+    {
+        "name": "ארגמן",
+        "english_name": "argaman",
+        "long": 35.52189,
+        "latt": 32.17259
+    },
+    {
+        "name": "ארז",
+        "english_name": "erez",
+        "long": 34.56676,
+        "latt": 31.56005
+    },
+    {
+        "name": "אריאל",
+        "english_name": "ari'el",
+        "long": 35.19181,
+        "latt": 32.10467
+    },
+    {
+        "name": "ארסוף",
+        "english_name": "arsuf",
+        "long": 34.81623,
+        "latt": 32.21385
+    },
+    {
+        "name": "אשבול",
+        "english_name": "eshbol",
+        "long": 34.66712,
+        "latt": 31.44606
+    },
+    {
+        "name": "אשבל",
+        "english_name": "nahal eshbal",
+        "long": 35.3053,
+        "latt": 32.87718
+    },
+    {
+        "name": "אשדוד",
+        "english_name": "ashdod",
+        "long": 34.64748,
+        "latt": 31.79426
+    },
+    {
+        "name": "אשדות יעקב (איחוד)",
+        "english_name": "",
+        "long": 35.57975,
+        "latt": 32.65961
+    },
+    {
+        "name": "אשדות יעקב (מאוחד)",
+        "english_name": "",
+        "long": 35.58204,
+        "latt": 32.66544
+    },
+    {
+        "name": "אשדות יעקב איחוד",
+        "english_name": "ashdot ya'aqov(ihud)",
+        "long": 35.58294,
+        "latt": 32.65829
+    },
+    {
+        "name": "אשדות יעקב מאוחד",
+        "english_name": "ashdot ya'aqov(me'uh",
+        "long": 35.58204,
+        "latt": 32.66523
+    },
+    {
+        "name": "אשחר",
+        "english_name": "eshhar",
+        "long": 35.29845,
+        "latt": 32.88374
+    },
+    {
+        "name": "אשכולות",
+        "english_name": "eshkolot",
+        "long": 34.90497,
+        "latt": 31.39105
+    },
+    {
+        "name": "אשל הנשיא",
+        "english_name": "eshel hanasi",
+        "long": 34.69933,
+        "latt": 31.32555
+    },
+    {
+        "name": "אשלים",
+        "english_name": "ashalim",
+        "long": 34.70701,
+        "latt": 30.96997
+    },
+    {
+        "name": "אשקלון",
+        "english_name": "ashqelon",
+        "long": 34.5705,
+        "latt": 31.66669
+    },
+    {
+        "name": "אשרת",
+        "english_name": "",
+        "long": 35.15541,
+        "latt": 32.97167
+    },
+    {
+        "name": "אשתאול",
+        "english_name": "eshta'ol",
+        "long": 35.00872,
+        "latt": 31.78154
+    },
+    {
+        "name": "אתגר",
+        "english_name": "etgar",
+        "long": 34.96747,
+        "latt": 32.77241
+    },
+    {
+        "name": "באקה אל-גרביה",
+        "english_name": "",
+        "long": 35.04106,
+        "latt": 32.4195
+    },
+    {
+        "name": "באקה-ג'ת",
+        "english_name": "",
+        "long": 35.03825,
+        "latt": 32.41598
+    },
+    {
+        "name": "באר אורה",
+        "english_name": "be'er ora",
+        "long": 34.98582,
+        "latt": 29.70954
+    },
+    {
+        "name": "באר גנים",
+        "english_name": "beer gannim",
+        "long": 34.61207,
+        "latt": 31.7
+    },
+    {
+        "name": "באר טוביה",
+        "english_name": "be'er tuveya",
+        "long": 34.71988,
+        "latt": 31.73193
+    },
+    {
+        "name": "באר יעקב",
+        "english_name": "be'er ya'aqov",
+        "long": 34.84066,
+        "latt": 31.94396
+    },
+    {
+        "name": "באר מילכה",
+        "english_name": "",
+        "long": 34.40659,
+        "latt": 30.93208
+    },
+    {
+        "name": "באר שבע",
+        "english_name": "be'er sheva",
+        "long": 34.78641,
+        "latt": 31.25669
+    },
+    {
+        "name": "בארות יצחק",
+        "english_name": "be'erot yizhaq",
+        "long": 34.91024,
+        "latt": 32.04136
+    },
+    {
+        "name": "בארותיים",
+        "english_name": "be'erotayim",
+        "long": 34.98507,
+        "latt": 32.32153
+    },
+    {
+        "name": "בארי",
+        "english_name": "be'eri",
+        "long": 34.49146,
+        "latt": 31.42425
+    },
+    {
+        "name": "בוסתן הגליל",
+        "english_name": "bustan hagalil",
+        "long": 35.08268,
+        "latt": 32.95042
+    },
+    {
+        "name": "בועיינה-נוג'ידאת",
+        "english_name": "bu'eine-nujeidat",
+        "long": 35.36932,
+        "latt": 32.8083
+    },
+    {
+        "name": "בוקעאתא",
+        "english_name": "buq'ata",
+        "long": 35.7807,
+        "latt": 33.20034
+    },
+    {
+        "name": "בורגתה",
+        "english_name": "burgeta",
+        "long": 34.9625,
+        "latt": 32.32463
+    },
+    {
+        "name": "בחן",
+        "english_name": "bahan",
+        "long": 35.01879,
+        "latt": 32.35017
+    },
+    {
+        "name": "בטחה",
+        "english_name": "bitha",
+        "long": 34.6321,
+        "latt": 31.33441
+    },
+    {
+        "name": "ביאדה",
+        "english_name": "",
+        "long": 35.16601,
+        "latt": 32.5574
+    },
+    {
+        "name": "ביצרון",
+        "english_name": "bizzaron",
+        "long": 34.73023,
+        "latt": 31.79564
+    },
+    {
+        "name": "ביר אל-מכסור",
+        "english_name": "bir el-maksur",
+        "long": 35.2229,
+        "latt": 32.78345
+    },
+    {
+        "name": "ביר הדאג'",
+        "english_name": "",
+        "long": 34.70412,
+        "latt": 31.02058
+    },
+    {
+        "name": "ביריה",
+        "english_name": "biriyya",
+        "long": 35.49992,
+        "latt": 32.97912
+    },
+    {
+        "name": "בירייה",
+        "english_name": "",
+        "long": 35.49971,
+        "latt": 32.97877
+    },
+    {
+        "name": "בית אורן",
+        "english_name": "bet oren",
+        "long": 35.00522,
+        "latt": 32.73164
+    },
+    {
+        "name": "בית אל",
+        "english_name": "bet el",
+        "long": 35.22463,
+        "latt": 31.94122
+    },
+    {
+        "name": "בית אלעזרי",
+        "english_name": "bet el'azari",
+        "long": 34.80326,
+        "latt": 31.84446
+    },
+    {
+        "name": "בית אלפא",
+        "english_name": "bet alfa",
+        "long": 35.43231,
+        "latt": 32.5172
+    },
+    {
+        "name": "בית אריה",
+        "english_name": "bet arye",
+        "long": 35.05146,
+        "latt": 32.03628
+    },
+    {
+        "name": "בית ברל",
+        "english_name": "bet berl",
+        "long": 34.9266,
+        "latt": 32.20136
+    },
+    {
+        "name": "בית ג'ן",
+        "english_name": "beit jann",
+        "long": 35.3776,
+        "latt": 32.96506
+    },
+    {
+        "name": "בית גוברין",
+        "english_name": "bet guvrin",
+        "long": 34.89578,
+        "latt": 31.61226
+    },
+    {
+        "name": "בית גמליאל",
+        "english_name": "bet gamli'el",
+        "long": 34.76133,
+        "latt": 31.85728
+    },
+    {
+        "name": "בית דגן",
+        "english_name": "bet dagan",
+        "long": 34.83002,
+        "latt": 31.99981
+    },
+    {
+        "name": "בית הגדי",
+        "english_name": "bet hagaddi",
+        "long": 34.60679,
+        "latt": 31.42478
+    },
+    {
+        "name": "בית הלוי",
+        "english_name": "bet halevi",
+        "long": 34.93186,
+        "latt": 32.35368
+    },
+    {
+        "name": "בית הלל",
+        "english_name": "bet hillel",
+        "long": 35.60523,
+        "latt": 33.20887
+    },
+    {
+        "name": "בית העמק",
+        "english_name": "bet haemeq",
+        "long": 35.14509,
+        "latt": 32.9708
+    },
+    {
+        "name": "בית הערבה",
+        "english_name": "bet haarava",
+        "long": 35.48109,
+        "latt": 31.80801
+    },
+    {
+        "name": "בית השיטה",
+        "english_name": "bet hashitta",
+        "long": 35.43857,
+        "latt": 32.54989
+    },
+    {
+        "name": "בית זיד",
+        "english_name": "bet zeid",
+        "long": 35.11539,
+        "latt": 32.70163
+    },
+    {
+        "name": "בית זית",
+        "english_name": "bet zayit",
+        "long": 35.16189,
+        "latt": 31.78238
+    },
+    {
+        "name": "בית זרע",
+        "english_name": "bet zera",
+        "long": 35.57328,
+        "latt": 32.68918
+    },
+    {
+        "name": "בית חורון",
+        "english_name": "bet horon",
+        "long": 35.12852,
+        "latt": 31.87678
+    },
+    {
+        "name": "בית חירות",
+        "english_name": "bet herut",
+        "long": 34.87134,
+        "latt": 32.37646
+    },
+    {
+        "name": "בית חלקיה",
+        "english_name": "bet hilqiyya",
+        "long": 34.81178,
+        "latt": 31.7922
+    },
+    {
+        "name": "בית חנן",
+        "english_name": "bet hanan",
+        "long": 34.77269,
+        "latt": 31.9343
+    },
+    {
+        "name": "בית חנניה",
+        "english_name": "bet hananya",
+        "long": 34.92587,
+        "latt": 32.52887
+    },
+    {
+        "name": "בית חשמונאי",
+        "english_name": "bet hashmonay",
+        "long": 34.91719,
+        "latt": 31.88919
+    },
+    {
+        "name": "בית יהושע",
+        "english_name": "bet yehoshua",
+        "long": 34.864,
+        "latt": 32.2602
+    },
+    {
+        "name": "בית יוסף",
+        "english_name": "bet yosef",
+        "long": 35.55073,
+        "latt": 32.55928
+    },
+    {
+        "name": "בית ינאי",
+        "english_name": "bet yannay",
+        "long": 34.86335,
+        "latt": 32.3799
+    },
+    {
+        "name": "בית יצחק-שער חפר",
+        "english_name": "bet yizhaq-sh. hefer",
+        "long": 34.89084,
+        "latt": 32.3339
+    },
+    {
+        "name": "בית לחם הגלילית",
+        "english_name": "bet lehem hagelilit",
+        "long": 35.19189,
+        "latt": 32.73424
+    },
+    {
+        "name": "בית מאיר",
+        "english_name": "bet me'ir",
+        "long": 35.03682,
+        "latt": 31.7942
+    },
+    {
+        "name": "בית נחמיה",
+        "english_name": "bet nehemya",
+        "long": 34.9552,
+        "latt": 31.97554
+    },
+    {
+        "name": "בית ניר",
+        "english_name": "bet nir",
+        "long": 34.87428,
+        "latt": 31.64733
+    },
+    {
+        "name": "בית נקופה",
+        "english_name": "bet neqofa",
+        "long": 35.12627,
+        "latt": 31.80424
+    },
+    {
+        "name": "בית עובד",
+        "english_name": "bet oved",
+        "long": 34.76992,
+        "latt": 31.92381
+    },
+    {
+        "name": "בית עוזיאל",
+        "english_name": "bet uzzi'el",
+        "long": 34.90293,
+        "latt": 31.87119
+    },
+    {
+        "name": "בית עזרא",
+        "english_name": "bet ezra",
+        "long": 34.65549,
+        "latt": 31.73662
+    },
+    {
+        "name": "בית עריף",
+        "english_name": "bet arif",
+        "long": 34.9345,
+        "latt": 31.99578
+    },
+    {
+        "name": "בית צבי",
+        "english_name": "bet zevi",
+        "long": 34.97037,
+        "latt": 32.72007
+    },
+    {
+        "name": "בית קמה",
+        "english_name": "bet qama",
+        "long": 34.76124,
+        "latt": 31.44626
+    },
+    {
+        "name": "בית קשת",
+        "english_name": "bet qeshet",
+        "long": 35.39667,
+        "latt": 32.71587
+    },
+    {
+        "name": "בית רבן",
+        "english_name": "bet rabban",
+        "long": 34.72936,
+        "latt": 31.81694
+    },
+    {
+        "name": "בית רימון",
+        "english_name": "bet rimmon",
+        "long": 35.32996,
+        "latt": 32.78265
+    },
+    {
+        "name": "בית שאן",
+        "english_name": "bet she'an",
+        "long": 35.49713,
+        "latt": 32.49404
+    },
+    {
+        "name": "בית שמש",
+        "english_name": "bet shemesh",
+        "long": 34.9907,
+        "latt": 31.74525
+    },
+    {
+        "name": "בית שערים",
+        "english_name": "bet she'arim",
+        "long": 35.17755,
+        "latt": 32.69577
+    },
+    {
+        "name": "בית שקמה",
+        "english_name": "bet shiqma",
+        "long": 34.60854,
+        "latt": 31.63795
+    },
+    {
+        "name": "ביתן אהרן",
+        "english_name": "bitan aharon",
+        "long": 34.87067,
+        "latt": 32.36452
+    },
+    {
+        "name": "ביתר עילית",
+        "english_name": "betar illit",
+        "long": 35.11316,
+        "latt": 31.69833
+    },
+    {
+        "name": "בכורה",
+        "english_name": "",
+        "long": 35.4837,
+        "latt": 32.44746
+    },
+    {
+        "name": "בלפוריה",
+        "english_name": "balfuriyya",
+        "long": 35.29662,
+        "latt": 32.63002
+    },
+    {
+        "name": "בן זכאי",
+        "english_name": "ben zakkay",
+        "long": 34.72892,
+        "latt": 31.85628
+    },
+    {
+        "name": "בן עמי",
+        "english_name": "ben ammi",
+        "long": 35.12369,
+        "latt": 33.00586
+    },
+    {
+        "name": "בן שמן (כפר נוער)",
+        "english_name": "",
+        "long": 34.92777,
+        "latt": 31.95978
+    },
+    {
+        "name": "בן שמן (מושב)",
+        "english_name": "",
+        "long": 34.92181,
+        "latt": 31.95222
+    },
+    {
+        "name": "בן שמן כפר נוער",
+        "english_name": "ben shemen(k.no'ar)",
+        "long": 34.92837,
+        "latt": 31.95927
+    },
+    {
+        "name": "בן שמן מושב",
+        "english_name": "ben shemen (moshav)",
+        "long": 34.92251,
+        "latt": 31.95336
+    },
+    {
+        "name": "בני ברק",
+        "english_name": "bene beraq",
+        "long": 34.83526,
+        "latt": 32.08707
+    },
+    {
+        "name": "בני דקלים",
+        "english_name": "bne dkalim",
+        "long": 34.91799,
+        "latt": 31.51578
+    },
+    {
+        "name": "בני דרום",
+        "english_name": "bene darom",
+        "long": 34.69265,
+        "latt": 31.82046
+    },
+    {
+        "name": "בני דרור",
+        "english_name": "bene deror",
+        "long": 34.90049,
+        "latt": 32.26108
+    },
+    {
+        "name": "בני יהודה",
+        "english_name": "bene yehuda",
+        "long": 35.68562,
+        "latt": 32.79407
+    },
+    {
+        "name": "בני נצרים",
+        "english_name": "bene nezarim",
+        "long": 34.31874,
+        "latt": 31.1411
+    },
+    {
+        "name": "בני עטרות",
+        "english_name": "bene atarot",
+        "long": 34.91375,
+        "latt": 32.02414
+    },
+    {
+        "name": "בני עי\"ש",
+        "english_name": "bene ayish",
+        "long": 34.76023,
+        "latt": 31.78913
+    },
+    {
+        "name": "בני ציון",
+        "english_name": "bene ziyyon",
+        "long": 34.87086,
+        "latt": 32.22022
+    },
+    {
+        "name": "בני ראם",
+        "english_name": "bene re'em",
+        "long": 34.79092,
+        "latt": 31.76997
+    },
+    {
+        "name": "בניה",
+        "english_name": "benaya",
+        "long": 34.7522,
+        "latt": 31.84286
+    },
+    {
+        "name": "בנימינה",
+        "english_name": "",
+        "long": 34.94669,
+        "latt": 32.52625
+    },
+    {
+        "name": "בנימינה-גבעת עדה",
+        "english_name": "binyamina",
+        "long": 34.94185,
+        "latt": 32.51832
+    },
+    {
+        "name": "בסמ\"ה",
+        "english_name": "basma",
+        "long": 35.15627,
+        "latt": 32.73817
+    },
+    {
+        "name": "בסמת טבעון",
+        "english_name": "basmat tab'un",
+        "long": 35.14742,
+        "latt": 32.74073
+    },
+    {
+        "name": "בענה",
+        "english_name": "bi ne",
+        "long": 35.27482,
+        "latt": 32.92885
+    },
+    {
+        "name": "בצרה",
+        "english_name": "bazra",
+        "long": 34.87953,
+        "latt": 32.21345
+    },
+    {
+        "name": "בצת",
+        "english_name": "",
+        "long": 35.13443,
+        "latt": 33.07065
+    },
+    {
+        "name": "בקוע",
+        "english_name": "beqoa",
+        "long": 34.9251,
+        "latt": 31.82927
+    },
+    {
+        "name": "בקעות",
+        "english_name": "beqa'ot",
+        "long": 35.45513,
+        "latt": 32.24246
+    },
+    {
+        "name": "בר גיורא",
+        "english_name": "bar giyyora",
+        "long": 35.07157,
+        "latt": 31.72956
+    },
+    {
+        "name": "בר יוחאי",
+        "english_name": "bar yohay",
+        "long": 35.44116,
+        "latt": 32.9973
+    },
+    {
+        "name": "ברוכין",
+        "english_name": "brukhin",
+        "long": 35.09126,
+        "latt": 32.08203
+    },
+    {
+        "name": "ברור חיל",
+        "english_name": "beror hayil",
+        "long": 34.64525,
+        "latt": 31.55774
+    },
+    {
+        "name": "ברוש",
+        "english_name": "berosh",
+        "long": 34.63185,
+        "latt": 31.37057
+    },
+    {
+        "name": "ברטעה",
+        "english_name": "",
+        "long": 35.09298,
+        "latt": 32.47329
+    },
+    {
+        "name": "ברכה",
+        "english_name": "berakha",
+        "long": 35.26531,
+        "latt": 32.19286
+    },
+    {
+        "name": "ברכיה",
+        "english_name": "berekhya",
+        "long": 34.62575,
+        "latt": 31.66969
+    },
+    {
+        "name": "ברעם",
+        "english_name": "bar'am",
+        "long": 35.393,
+        "latt": 33.0218
+    },
+    {
+        "name": "ברק",
+        "english_name": "baraq",
+        "long": 35.2649,
+        "latt": 32.54282
+    },
+    {
+        "name": "ברקאי",
+        "english_name": "barqay",
+        "long": 35.02929,
+        "latt": 32.47517
+    },
+    {
+        "name": "ברקן",
+        "english_name": "barqan",
+        "long": 35.1131,
+        "latt": 32.10689
+    },
+    {
+        "name": "ברקת",
+        "english_name": "bareqet",
+        "long": 34.95315,
+        "latt": 32.01315
+    },
+    {
+        "name": "בת הדר",
+        "english_name": "bat hadar",
+        "long": 34.59474,
+        "latt": 31.64515
+    },
+    {
+        "name": "בת חן",
+        "english_name": "bat hen",
+        "long": 34.57688,
+        "latt": 31.65231
+    },
+    {
+        "name": "בת חפר",
+        "english_name": "bat hefer",
+        "long": 35.01343,
+        "latt": 32.33343
+    },
+    {
+        "name": "בת חצור",
+        "english_name": "bat hazor",
+        "long": 34.75747,
+        "latt": 32.01137
+    },
+    {
+        "name": "בת ים",
+        "english_name": "bat yam",
+        "long": 34.74902,
+        "latt": 32.01405
+    },
+    {
+        "name": "בת עין",
+        "english_name": "bat ayin",
+        "long": 35.10025,
+        "latt": 31.65873
+    },
+    {
+        "name": "בת שלמה",
+        "english_name": "bat shelomo",
+        "long": 35.00341,
+        "latt": 32.60038
+    },
+    {
+        "name": "ג'דיידה-מכר",
+        "english_name": "judeide-maker",
+        "long": 35.13926,
+        "latt": 32.9275
+    },
+    {
+        "name": "ג'ולס",
+        "english_name": "julis",
+        "long": 35.18077,
+        "latt": 32.94131
+    },
+    {
+        "name": "ג'לג'וליה",
+        "english_name": "jaljulye",
+        "long": 34.95506,
+        "latt": 32.1507
+    },
+    {
+        "name": "ג'נאביב",
+        "english_name": "junnabib",
+        "long": 34.78953,
+        "latt": 32.08556
+    },
+    {
+        "name": "ג'סר א-זרקא",
+        "english_name": "jisr az-zarqa",
+        "long": 34.91151,
+        "latt": 32.53673
+    },
+    {
+        "name": "ג'ש (גוש חלב)",
+        "english_name": "",
+        "long": 35.44677,
+        "latt": 33.02256
+    },
+    {
+        "name": "ג'ש גוש חלב",
+        "english_name": "jish(gush halav)",
+        "long": 35.44701,
+        "latt": 33.02289
+    },
+    {
+        "name": "ג'ת",
+        "english_name": "jaat",
+        "long": 35.03816,
+        "latt": 32.39918
+    },
+    {
+        "name": "גאולי תימן",
+        "english_name": "ge'ule teman",
+        "long": 34.90163,
+        "latt": 32.39232
+    },
+    {
+        "name": "גאולים",
+        "english_name": "ge'ulim",
+        "long": 34.94463,
+        "latt": 32.29893
+    },
+    {
+        "name": "גאליה",
+        "english_name": "ge'alya",
+        "long": 34.76619,
+        "latt": 31.88481
+    },
+    {
+        "name": "גבולות",
+        "english_name": "gevulot",
+        "long": 34.46583,
+        "latt": 31.21043
+    },
+    {
+        "name": "גבים",
+        "english_name": "gevim",
+        "long": 34.59833,
+        "latt": 31.50707
+    },
+    {
+        "name": "גבע",
+        "english_name": "geva",
+        "long": 35.37299,
+        "latt": 32.56641
+    },
+    {
+        "name": "גבע בנימין",
+        "english_name": "geva binyamin",
+        "long": 35.27575,
+        "latt": 31.84983
+    },
+    {
+        "name": "גבע כרמל",
+        "english_name": "geva  karmel",
+        "long": 34.9575,
+        "latt": 32.66308
+    },
+    {
+        "name": "גבעולים",
+        "english_name": "giv'olim",
+        "long": 34.59096,
+        "latt": 31.39655
+    },
+    {
+        "name": "גבעון החדשה",
+        "english_name": "giv'on hahadasha",
+        "long": 35.15956,
+        "latt": 31.84714
+    },
+    {
+        "name": "גבעות בר",
+        "english_name": "",
+        "long": 34.75599,
+        "latt": 31.35767
+    },
+    {
+        "name": "גבעת אבני",
+        "english_name": "giv'at avni",
+        "long": 35.43823,
+        "latt": 32.77487
+    },
+    {
+        "name": "גבעת אלה",
+        "english_name": "giv'at ela",
+        "long": 35.2441,
+        "latt": 32.72175
+    },
+    {
+        "name": "גבעת ברנר",
+        "english_name": "giv'at brenner",
+        "long": 34.80122,
+        "latt": 31.86591
+    },
+    {
+        "name": "גבעת השלושה",
+        "english_name": "giv'at hashelosha",
+        "long": 34.9216,
+        "latt": 32.09813
+    },
+    {
+        "name": "גבעת זאב",
+        "english_name": "giv'at ze'ev",
+        "long": 35.16567,
+        "latt": 31.8585
+    },
+    {
+        "name": "גבעת ח\"ן",
+        "english_name": "giv'at hen",
+        "long": 34.8721,
+        "latt": 32.16771
+    },
+    {
+        "name": "גבעת חיים (איחוד)",
+        "english_name": "",
+        "long": 34.93318,
+        "latt": 32.39944
+    },
+    {
+        "name": "גבעת חיים (מאוחד)",
+        "english_name": "",
+        "long": 34.93146,
+        "latt": 32.39114
+    },
+    {
+        "name": "גבעת חיים איחוד",
+        "english_name": "giv'at hayyim (ihud)",
+        "long": 34.93342,
+        "latt": 32.39609
+    },
+    {
+        "name": "גבעת חיים מאוחד",
+        "english_name": "giv'at hayyim(me'uha",
+        "long": 34.93146,
+        "latt": 32.39115
+    },
+    {
+        "name": "גבעת יואב",
+        "english_name": "giv'at yo'av",
+        "long": 35.68158,
+        "latt": 32.79876
+    },
+    {
+        "name": "גבעת יערים",
+        "english_name": "giv'at ye'arim",
+        "long": 35.09214,
+        "latt": 31.78663
+    },
+    {
+        "name": "גבעת ישעיהו",
+        "english_name": "giv'at yesha'yahu",
+        "long": 34.94772,
+        "latt": 31.67041
+    },
+    {
+        "name": "גבעת כ\"ח",
+        "english_name": "giv'at koah",
+        "long": 34.93613,
+        "latt": 32.03004
+    },
+    {
+        "name": "גבעת ניל\"י",
+        "english_name": "giv'at nili",
+        "long": 35.04097,
+        "latt": 32.5477
+    },
+    {
+        "name": "גבעת עדה",
+        "english_name": "",
+        "long": 35.00521,
+        "latt": 32.51941
+    },
+    {
+        "name": "גבעת עוז",
+        "english_name": "giv'at oz",
+        "long": 35.19842,
+        "latt": 32.55541
+    },
+    {
+        "name": "גבעת שמואל",
+        "english_name": "giv'at shemu'el",
+        "long": 34.85312,
+        "latt": 32.07721
+    },
+    {
+        "name": "גבעת שמש",
+        "english_name": "giv'at shemesh",
+        "long": 34.95151,
+        "latt": 31.77522
+    },
+    {
+        "name": "גבעת שפירא",
+        "english_name": "giv'at shappira",
+        "long": 34.87748,
+        "latt": 32.35932
+    },
+    {
+        "name": "גבעתי",
+        "english_name": "giv'ati",
+        "long": 34.67984,
+        "latt": 31.73261
+    },
+    {
+        "name": "גבעתיים",
+        "english_name": "giv'atayim",
+        "long": 34.81043,
+        "latt": 32.0703
+    },
+    {
+        "name": "גברעם",
+        "english_name": "gevar'am",
+        "long": 34.61292,
+        "latt": 31.59189
+    },
+    {
+        "name": "גבת",
+        "english_name": "gevat",
+        "long": 35.21279,
+        "latt": 32.67474
+    },
+    {
+        "name": "גדות",
+        "english_name": "gadot",
+        "long": 35.61983,
+        "latt": 33.01793
+    },
+    {
+        "name": "גדיש",
+        "english_name": "gadish",
+        "long": 35.24531,
+        "latt": 32.5588
+    },
+    {
+        "name": "גדעונה",
+        "english_name": "gid'ona",
+        "long": 35.35882,
+        "latt": 32.54903
+    },
+    {
+        "name": "גדרה",
+        "english_name": "gedera",
+        "long": 34.7795,
+        "latt": 31.81118
+    },
+    {
+        "name": "גונן",
+        "english_name": "gonen",
+        "long": 35.6462,
+        "latt": 33.12277
+    },
+    {
+        "name": "גורן",
+        "english_name": "goren",
+        "long": 35.2353,
+        "latt": 33.05734
+    },
+    {
+        "name": "גורנות הגליל",
+        "english_name": "gornot hagalil",
+        "long": 35.24961,
+        "latt": 33.05991
+    },
+    {
+        "name": "גזית",
+        "english_name": "gazit",
+        "long": 35.44709,
+        "latt": 32.63763
+    },
+    {
+        "name": "גזר",
+        "english_name": "gezer",
+        "long": 34.9162,
+        "latt": 31.87578
+    },
+    {
+        "name": "גיאה",
+        "english_name": "ge'a",
+        "long": 34.60351,
+        "latt": 31.628
+    },
+    {
+        "name": "גיבתון",
+        "english_name": "gibbeton",
+        "long": 34.79995,
+        "latt": 31.88873
+    },
+    {
+        "name": "גיזו",
+        "english_name": "gizo",
+        "long": 34.93851,
+        "latt": 31.80492
+    },
+    {
+        "name": "גילון",
+        "english_name": "gilon",
+        "long": 35.23593,
+        "latt": 32.90377
+    },
+    {
+        "name": "גילת",
+        "english_name": "gilat",
+        "long": 34.65344,
+        "latt": 31.32693
+    },
+    {
+        "name": "גינוסר",
+        "english_name": "ginnosar",
+        "long": 35.55098,
+        "latt": 32.87162
+    },
+    {
+        "name": "גיניגר",
+        "english_name": "ginnegar",
+        "long": 35.25937,
+        "latt": 32.6638
+    },
+    {
+        "name": "גינתון",
+        "english_name": "ginnaton",
+        "long": 34.91378,
+        "latt": 31.96328
+    },
+    {
+        "name": "גיתה",
+        "english_name": "gitta",
+        "long": 35.25043,
+        "latt": 32.96714
+    },
+    {
+        "name": "גיתית",
+        "english_name": "gittit",
+        "long": 35.39627,
+        "latt": 32.10357
+    },
+    {
+        "name": "גלאון",
+        "english_name": "gal'on",
+        "long": 34.84788,
+        "latt": 31.63331
+    },
+    {
+        "name": "גלגל",
+        "english_name": "gilgal",
+        "long": 35.44755,
+        "latt": 31.99972
+    },
+    {
+        "name": "גליל ים",
+        "english_name": "gelil yam",
+        "long": 34.83318,
+        "latt": 32.15718
+    },
+    {
+        "name": "גלעד (אבן יצחק)",
+        "english_name": "",
+        "long": 35.07679,
+        "latt": 32.55675
+    },
+    {
+        "name": "גלעד אבן יצחק",
+        "english_name": "even yizhaq(gal'ed)",
+        "long": 35.07676,
+        "latt": 32.55651
+    },
+    {
+        "name": "גמזו",
+        "english_name": "gimzo",
+        "long": 34.94083,
+        "latt": 31.92825
+    },
+    {
+        "name": "גן הדרום",
+        "english_name": "gan hadarom",
+        "long": 34.7009,
+        "latt": 31.80412
+    },
+    {
+        "name": "גן השומרון",
+        "english_name": "gan hashomeron",
+        "long": 35.00114,
+        "latt": 32.46301
+    },
+    {
+        "name": "גן חיים",
+        "english_name": "gan hayyim",
+        "long": 34.90591,
+        "latt": 32.19523
+    },
+    {
+        "name": "גן יאשיה",
+        "english_name": "gan yoshiyya",
+        "long": 34.99454,
+        "latt": 32.34955
+    },
+    {
+        "name": "גן יבנה",
+        "english_name": "gan yavne",
+        "long": 34.7097,
+        "latt": 31.79021
+    },
+    {
+        "name": "גן נר",
+        "english_name": "gan ner",
+        "long": 35.3357,
+        "latt": 32.53119
+    },
+    {
+        "name": "גן שורק",
+        "english_name": "gan soreq",
+        "long": 34.76062,
+        "latt": 31.94555
+    },
+    {
+        "name": "גן שלמה",
+        "english_name": "gan shelomo",
+        "long": 34.79828,
+        "latt": 31.87823
+    },
+    {
+        "name": "גן שמואל",
+        "english_name": "gan shemu'el",
+        "long": 34.95162,
+        "latt": 32.44889
+    },
+    {
+        "name": "גנות",
+        "english_name": "gannot",
+        "long": 34.8285,
+        "latt": 32.01786
+    },
+    {
+        "name": "גנות הדר",
+        "english_name": "gannot hadar",
+        "long": 34.90012,
+        "latt": 32.31993
+    },
+    {
+        "name": "גני הדר",
+        "english_name": "ganne hadar",
+        "long": 34.85384,
+        "latt": 31.87861
+    },
+    {
+        "name": "גני טל",
+        "english_name": "",
+        "long": 34.57053,
+        "latt": 31.41506
+    },
+    {
+        "name": "גני יוחנן",
+        "english_name": "ganne yohanan",
+        "long": 34.83709,
+        "latt": 31.8577
+    },
+    {
+        "name": "גני מודיעין",
+        "english_name": "ganne modiin",
+        "long": 35.00567,
+        "latt": 31.90055
+    },
+    {
+        "name": "גני עם",
+        "english_name": "ganne am",
+        "long": 34.9018,
+        "latt": 32.15166
+    },
+    {
+        "name": "גני תקווה",
+        "english_name": "ganne tiqwa",
+        "long": 34.87441,
+        "latt": 32.06125
+    },
+    {
+        "name": "גנים",
+        "english_name": "",
+        "long": 35.3372,
+        "latt": 32.44968
+    },
+    {
+        "name": "געש",
+        "english_name": "ga'ash",
+        "long": 34.82832,
+        "latt": 32.22982
+    },
+    {
+        "name": "געתון",
+        "english_name": "ga'ton",
+        "long": 35.20319,
+        "latt": 33.00698
+    },
+    {
+        "name": "גפן",
+        "english_name": "gefen",
+        "long": 34.87854,
+        "latt": 31.7408
+    },
+    {
+        "name": "גרופית",
+        "english_name": "gerofit",
+        "long": 35.06593,
+        "latt": 29.93888
+    },
+    {
+        "name": "גשור",
+        "english_name": "geshur",
+        "long": 35.70861,
+        "latt": 32.81201
+    },
+    {
+        "name": "גשר",
+        "english_name": "gesher",
+        "long": 35.55114,
+        "latt": 32.61989
+    },
+    {
+        "name": "גשר הזיו",
+        "english_name": "gesher haziw",
+        "long": 35.11012,
+        "latt": 33.0411
+    },
+    {
+        "name": "גת",
+        "english_name": "",
+        "long": 35.03786,
+        "latt": 32.39915
+    },
+    {
+        "name": "גת (קיבוץ)",
+        "english_name": "",
+        "long": 34.79554,
+        "latt": 31.62778
+    },
+    {
+        "name": "גת קיבוץ",
+        "english_name": "gat(qibbuz)",
+        "long": 34.77751,
+        "latt": 31.60331
+    },
+    {
+        "name": "גת רימון",
+        "english_name": "gat rimmon",
+        "long": 34.88302,
+        "latt": 32.06876
+    },
+    {
+        "name": "דאלית אל-כרמל",
+        "english_name": "daliyat al-karmel",
+        "long": 35.04834,
+        "latt": 32.69266
+    },
+    {
+        "name": "דבורה",
+        "english_name": "devora",
+        "long": 35.26341,
+        "latt": 32.55318
+    },
+    {
+        "name": "דבוריה",
+        "english_name": "dabburye",
+        "long": 35.37122,
+        "latt": 32.689
+    },
+    {
+        "name": "דבורייה",
+        "english_name": "",
+        "long": 35.37181,
+        "latt": 32.68949
+    },
+    {
+        "name": "דבירה",
+        "english_name": "devira",
+        "long": 34.82563,
+        "latt": 31.41177
+    },
+    {
+        "name": "דברת",
+        "english_name": "daverat",
+        "long": 35.34952,
+        "latt": 32.64634
+    },
+    {
+        "name": "דגניה א'",
+        "english_name": "deganya alef",
+        "long": 35.57472,
+        "latt": 32.70772
+    },
+    {
+        "name": "דגניה ב'",
+        "english_name": "deganya bet",
+        "long": 35.57551,
+        "latt": 32.70003
+    },
+    {
+        "name": "דוב\"ב",
+        "english_name": "dovev",
+        "long": 35.40949,
+        "latt": 33.05386
+    },
+    {
+        "name": "דוגית",
+        "english_name": "",
+        "long": 34.48962,
+        "latt": 31.57292
+    },
+    {
+        "name": "דולב",
+        "english_name": "dolev",
+        "long": 35.1332,
+        "latt": 31.92638
+    },
+    {
+        "name": "דור",
+        "english_name": "dor",
+        "long": 34.92581,
+        "latt": 32.60722
+    },
+    {
+        "name": "דורות",
+        "english_name": "dorot",
+        "long": 34.64605,
+        "latt": 31.50589
+    },
+    {
+        "name": "דחי",
+        "english_name": "dahi",
+        "long": 35.34425,
+        "latt": 32.62121
+    },
+    {
+        "name": "דייר אל-אסד",
+        "english_name": "deir al-asad",
+        "long": 35.2678,
+        "latt": 32.93207
+    },
+    {
+        "name": "דייר חנא",
+        "english_name": "deir hanna",
+        "long": 35.36786,
+        "latt": 32.86282
+    },
+    {
+        "name": "דייר ראפאת",
+        "english_name": "deir rafat",
+        "long": 34.94726,
+        "latt": 31.77628
+    },
+    {
+        "name": "דימונה",
+        "english_name": "dimona",
+        "long": 35.02742,
+        "latt": 31.06725
+    },
+    {
+        "name": "דיר אל-אסד",
+        "english_name": "",
+        "long": 35.26599,
+        "latt": 32.93748
+    },
+    {
+        "name": "דישון",
+        "english_name": "dishon",
+        "long": 35.51884,
+        "latt": 33.08221
+    },
+    {
+        "name": "דליה",
+        "english_name": "daliyya",
+        "long": 35.07445,
+        "latt": 32.58891
+    },
+    {
+        "name": "דלייה",
+        "english_name": "",
+        "long": 35.07465,
+        "latt": 32.58942
+    },
+    {
+        "name": "דלתון",
+        "english_name": "dalton",
+        "long": 35.48712,
+        "latt": 33.0168
+    },
+    {
+        "name": "דמיידה",
+        "english_name": "demeide",
+        "long": 35.22244,
+        "latt": 32.81799
+    },
+    {
+        "name": "דן",
+        "english_name": "dan",
+        "long": 35.65307,
+        "latt": 33.24014
+    },
+    {
+        "name": "דפנה",
+        "english_name": "dafna",
+        "long": 35.63831,
+        "latt": 33.22994
+    },
+    {
+        "name": "דקל",
+        "english_name": "deqel",
+        "long": 34.34775,
+        "latt": 31.19481
+    },
+    {
+        "name": "דריג'את",
+        "english_name": "",
+        "long": 35.07553,
+        "latt": 31.29902
+    },
+    {
+        "name": "האון",
+        "english_name": "haon",
+        "long": 35.62188,
+        "latt": 32.72517
+    },
+    {
+        "name": "הבונים",
+        "english_name": "habonim",
+        "long": 34.93319,
+        "latt": 32.64084
+    },
+    {
+        "name": "הגושרים",
+        "english_name": "hagosherim",
+        "long": 35.62039,
+        "latt": 33.22218
+    },
+    {
+        "name": "הדר עם",
+        "english_name": "hadar am",
+        "long": 34.89981,
+        "latt": 32.34953
+    },
+    {
+        "name": "הוד השרון",
+        "english_name": "hod hasharon",
+        "long": 34.88604,
+        "latt": 32.15429
+    },
+    {
+        "name": "הודיה",
+        "english_name": "hodiyya",
+        "long": 34.64155,
+        "latt": 31.67542
+    },
+    {
+        "name": "הודיות",
+        "english_name": "hodayot",
+        "long": 35.43566,
+        "latt": 32.7887
+    },
+    {
+        "name": "הודייה",
+        "english_name": "",
+        "long": 34.64164,
+        "latt": 31.67556
+    },
+    {
+        "name": "הוזייל",
+        "english_name": "huzayyel",
+        "long": 34.75092,
+        "latt": 31.40777
+    },
+    {
+        "name": "הושעיה",
+        "english_name": "hosha'aya",
+        "long": 35.2921,
+        "latt": 32.75819
+    },
+    {
+        "name": "הזורע",
+        "english_name": "hazorea",
+        "long": 35.12061,
+        "latt": 32.6432
+    },
+    {
+        "name": "הזורעים",
+        "english_name": "hazore'im",
+        "long": 35.50215,
+        "latt": 32.74646
+    },
+    {
+        "name": "החותרים",
+        "english_name": "hahoterim",
+        "long": 34.95711,
+        "latt": 32.75176
+    },
+    {
+        "name": "היוגב",
+        "english_name": "hayogev",
+        "long": 35.20615,
+        "latt": 32.61187
+    },
+    {
+        "name": "הילה",
+        "english_name": "hilla",
+        "long": 35.24403,
+        "latt": 33.03587
+    },
+    {
+        "name": "המעפיל",
+        "english_name": "hama'pil",
+        "long": 34.98333,
+        "latt": 32.37789
+    },
+    {
+        "name": "הסוללים",
+        "english_name": "hasolelim",
+        "long": 35.23756,
+        "latt": 32.75196
+    },
+    {
+        "name": "העוגן",
+        "english_name": "haogen",
+        "long": 34.92382,
+        "latt": 32.36235
+    },
+    {
+        "name": "הר אדר",
+        "english_name": "har adar",
+        "long": 35.12948,
+        "latt": 31.82678
+    },
+    {
+        "name": "הר גילה",
+        "english_name": "har gillo",
+        "long": 35.16855,
+        "latt": 31.72323
+    },
+    {
+        "name": "הר עמשא",
+        "english_name": "har amasa",
+        "long": 35.10172,
+        "latt": 31.34416
+    },
+    {
+        "name": "הראל",
+        "english_name": "har'el",
+        "long": 34.95175,
+        "latt": 31.80972
+    },
+    {
+        "name": "הרדוף",
+        "english_name": "harduf",
+        "long": 35.17427,
+        "latt": 32.76354
+    },
+    {
+        "name": "הרצליה",
+        "english_name": "herzeliyya",
+        "long": 34.84064,
+        "latt": 32.16385
+    },
+    {
+        "name": "הרצלייה",
+        "english_name": "",
+        "long": 34.83507,
+        "latt": 32.16902
+    },
+    {
+        "name": "הררית",
+        "english_name": "hararit",
+        "long": 35.36572,
+        "latt": 32.8459
+    },
+    {
+        "name": "ורד יריחו",
+        "english_name": "wered yeriho",
+        "long": 35.43164,
+        "latt": 31.82692
+    },
+    {
+        "name": "ורדון",
+        "english_name": "wardon",
+        "long": 34.78166,
+        "latt": 31.66424
+    },
+    {
+        "name": "זבארגה",
+        "english_name": "zabarga",
+        "long": 34.81886,
+        "latt": 32.1086
+    },
+    {
+        "name": "זבדיאל",
+        "english_name": "zavdi'el",
+        "long": 34.76026,
+        "latt": 31.65896
+    },
+    {
+        "name": "זוהר",
+        "english_name": "zohar",
+        "long": 34.69253,
+        "latt": 31.59589
+    },
+    {
+        "name": "זיקים",
+        "english_name": "ziqim",
+        "long": 34.52174,
+        "latt": 31.60839
+    },
+    {
+        "name": "זיתן",
+        "english_name": "zetan",
+        "long": 34.89019,
+        "latt": 31.97568
+    },
+    {
+        "name": "זכרון יעקב",
+        "english_name": "zikhron ya'aqov",
+        "long": 34.95188,
+        "latt": 32.56669
+    },
+    {
+        "name": "זכריה",
+        "english_name": "zekharya",
+        "long": 34.94481,
+        "latt": 31.70971
+    },
+    {
+        "name": "זלפה",
+        "english_name": "",
+        "long": 35.18557,
+        "latt": 32.54924
+    },
+    {
+        "name": "זמר",
+        "english_name": "zemer",
+        "long": 35.03638,
+        "latt": 32.36389
+    },
+    {
+        "name": "זמרת",
+        "english_name": "zimrat",
+        "long": 34.55267,
+        "latt": 31.44821
+    },
+    {
+        "name": "זנוח",
+        "english_name": "zanoah",
+        "long": 35.00067,
+        "latt": 31.73202
+    },
+    {
+        "name": "זרועה",
+        "english_name": "zeru'a",
+        "long": 34.62443,
+        "latt": 31.45852
+    },
+    {
+        "name": "זרזיר",
+        "english_name": "zarzir",
+        "long": 35.22314,
+        "latt": 32.72531
+    },
+    {
+        "name": "זרחיה",
+        "english_name": "zerahya",
+        "long": 34.74604,
+        "latt": 31.68151
+    },
+    {
+        "name": "ח'ואלד",
+        "english_name": "",
+        "long": 35.15653,
+        "latt": 32.75378
+    },
+    {
+        "name": "חבצלת השרון",
+        "english_name": "havazzelet hasharon",
+        "long": 34.86262,
+        "latt": 32.3604
+    },
+    {
+        "name": "חבר",
+        "english_name": "hever",
+        "long": 35.26439,
+        "latt": 32.54775
+    },
+    {
+        "name": "חברון",
+        "english_name": "",
+        "long": 35.08619,
+        "latt": 31.53448
+    },
+    {
+        "name": "חגור",
+        "english_name": "hagor",
+        "long": 34.94724,
+        "latt": 32.13789
+    },
+    {
+        "name": "חגי",
+        "english_name": "haggai",
+        "long": 35.08015,
+        "latt": 31.49291
+    },
+    {
+        "name": "חגלה",
+        "english_name": "hogla",
+        "long": 34.92568,
+        "latt": 32.38655
+    },
+    {
+        "name": "חד-נס",
+        "english_name": "had-nes",
+        "long": 35.63936,
+        "latt": 32.93125
+    },
+    {
+        "name": "חדיד",
+        "english_name": "hadid",
+        "long": 34.93342,
+        "latt": 31.96837
+    },
+    {
+        "name": "חדרה",
+        "english_name": "hadera",
+        "long": 34.92117,
+        "latt": 32.4389
+    },
+    {
+        "name": "חוג'ייראת ד'הרה",
+        "english_name": "hujeirat (dahra)",
+        "long": 35.18481,
+        "latt": 32.7967
+    },
+    {
+        "name": "חולדה",
+        "english_name": "hulda",
+        "long": 34.88256,
+        "latt": 31.83066
+    },
+    {
+        "name": "חולון",
+        "english_name": "holon",
+        "long": 34.78335,
+        "latt": 32.01065
+    },
+    {
+        "name": "חולית",
+        "english_name": "holit",
+        "long": 34.32563,
+        "latt": 31.23029
+    },
+    {
+        "name": "חולתה",
+        "english_name": "hulata",
+        "long": 35.61008,
+        "latt": 33.05148
+    },
+    {
+        "name": "חוסן",
+        "english_name": "hosen",
+        "long": 35.29941,
+        "latt": 32.99796
+    },
+    {
+        "name": "חוסנייה",
+        "english_name": "hussniyya",
+        "long": 35.32062,
+        "latt": 32.90061
+    },
+    {
+        "name": "חופית",
+        "english_name": "hofit",
+        "long": 34.87437,
+        "latt": 32.38546
+    },
+    {
+        "name": "חוקוק",
+        "english_name": "huqoq",
+        "long": 35.49675,
+        "latt": 32.87805
+    },
+    {
+        "name": "חורה",
+        "english_name": "hura",
+        "long": 34.93461,
+        "latt": 31.29852
+    },
+    {
+        "name": "חורפיש",
+        "english_name": "hurfeish",
+        "long": 35.34469,
+        "latt": 33.01657
+    },
+    {
+        "name": "חורשים",
+        "english_name": "horeshim",
+        "long": 34.97061,
+        "latt": 32.13835
+    },
+    {
+        "name": "חזון",
+        "english_name": "hazon",
+        "long": 35.39515,
+        "latt": 32.90598
+    },
+    {
+        "name": "חיבת ציון",
+        "english_name": "hibbat ziyyon",
+        "long": 34.91505,
+        "latt": 32.39718
+    },
+    {
+        "name": "חיננית",
+        "english_name": "hinnanit",
+        "long": 35.16615,
+        "latt": 32.48134
+    },
+    {
+        "name": "חיפה",
+        "english_name": "haifa",
+        "long": 35.00061,
+        "latt": 32.80177
+    },
+    {
+        "name": "חירות",
+        "english_name": "herut",
+        "long": 34.91626,
+        "latt": 32.2398
+    },
+    {
+        "name": "חלוץ",
+        "english_name": "haluz",
+        "long": 35.31179,
+        "latt": 32.9503
+    },
+    {
+        "name": "חלמיש",
+        "english_name": "hallamish",
+        "long": 35.12556,
+        "latt": 32.00596
+    },
+    {
+        "name": "חלץ",
+        "english_name": "helez",
+        "long": 34.65788,
+        "latt": 31.57811
+    },
+    {
+        "name": "חמאם",
+        "english_name": "hamam",
+        "long": 35.48988,
+        "latt": 32.82984
+    },
+    {
+        "name": "חמד",
+        "english_name": "hemed",
+        "long": 34.8389,
+        "latt": 32.01934
+    },
+    {
+        "name": "חמדיה",
+        "english_name": "hamadya",
+        "long": 35.5275,
+        "latt": 32.5156
+    },
+    {
+        "name": "חמדת",
+        "english_name": "nahal hemdat",
+        "long": 35.52658,
+        "latt": 32.25119
+    },
+    {
+        "name": "חמרה",
+        "english_name": "hamra",
+        "long": 35.43539,
+        "latt": 32.19887
+    },
+    {
+        "name": "חמש",
+        "english_name": "",
+        "long": 35.19375,
+        "latt": 32.30995
+    },
+    {
+        "name": "חניאל",
+        "english_name": "hanni'el",
+        "long": 34.94824,
+        "latt": 32.33309
+    },
+    {
+        "name": "חניתה",
+        "english_name": "hanita",
+        "long": 35.17401,
+        "latt": 33.08781
+    },
+    {
+        "name": "חנתון",
+        "english_name": "hannaton",
+        "long": 35.24395,
+        "latt": 32.78448
+    },
+    {
+        "name": "חספין",
+        "english_name": "haspin",
+        "long": 35.79361,
+        "latt": 32.84528
+    },
+    {
+        "name": "חפץ חיים",
+        "english_name": "hafez hayyim",
+        "long": 34.79779,
+        "latt": 31.78974
+    },
+    {
+        "name": "חפצי-בה",
+        "english_name": "hefzi-bah",
+        "long": 35.42475,
+        "latt": 32.51944
+    },
+    {
+        "name": "חצב",
+        "english_name": "hazav",
+        "long": 34.76999,
+        "latt": 31.78066
+    },
+    {
+        "name": "חצבה",
+        "english_name": "hazeva",
+        "long": 35.28006,
+        "latt": 30.76785
+    },
+    {
+        "name": "חצור הגלילית",
+        "english_name": "hazor hagelilit",
+        "long": 35.54457,
+        "latt": 32.98262
+    },
+    {
+        "name": "חצור-אשדוד",
+        "english_name": "hazor-ashdod",
+        "long": 34.72044,
+        "latt": 31.77214
+    },
+    {
+        "name": "חצר בארותיים",
+        "english_name": "hazar be'erotayim",
+        "long": 34.98462,
+        "latt": 32.32078
+    },
+    {
+        "name": "חצרות חולדה",
+        "english_name": "hazrot hulda",
+        "long": 34.88569,
+        "latt": 31.82813
+    },
+    {
+        "name": "חצרות יסף",
+        "english_name": "hazrot yasaf",
+        "long": 34.9223,
+        "latt": 31.84725
+    },
+    {
+        "name": "חצרות כ\"ח",
+        "english_name": "hazrot koah",
+        "long": 34.93625,
+        "latt": 32.03109
+    },
+    {
+        "name": "חצרים",
+        "english_name": "hazerim",
+        "long": 34.70681,
+        "latt": 31.23921
+    },
+    {
+        "name": "חרב לאת",
+        "english_name": "herev le'et",
+        "long": 34.91438,
+        "latt": 32.40135
+    },
+    {
+        "name": "חרוצים",
+        "english_name": "haruzim",
+        "long": 34.86488,
+        "latt": 32.22737
+    },
+    {
+        "name": "חריש",
+        "english_name": "harish",
+        "long": 35.03885,
+        "latt": 32.47086
+    },
+    {
+        "name": "חרמש",
+        "english_name": "hermesh",
+        "long": 35.11874,
+        "latt": 32.42363
+    },
+    {
+        "name": "חרשים",
+        "english_name": "harashim",
+        "long": 35.32817,
+        "latt": 32.9567
+    },
+    {
+        "name": "חשמונאים",
+        "english_name": "hashmona'im",
+        "long": 35.0238,
+        "latt": 31.93129
+    },
+    {
+        "name": "טבריה",
+        "english_name": "tiberias",
+        "long": 35.52581,
+        "latt": 32.78723
+    },
+    {
+        "name": "טובא-זנגריה",
+        "english_name": "tuba-zangariyye",
+        "long": 35.59814,
+        "latt": 32.96715
+    },
+    {
+        "name": "טובא-זנגרייה",
+        "english_name": "",
+        "long": 35.59007,
+        "latt": 32.96494
+    },
+    {
+        "name": "טורעאן",
+        "english_name": "tur'an",
+        "long": 35.37512,
+        "latt": 32.77725
+    },
+    {
+        "name": "טייבה",
+        "english_name": "tayibe",
+        "long": 35.01031,
+        "latt": 32.26637
+    },
+    {
+        "name": "טייבה (בעמק)",
+        "english_name": "",
+        "long": 35.44484,
+        "latt": 32.60378
+    },
+    {
+        "name": "טייבה בעמק",
+        "english_name": "tayibe(baemeq)",
+        "long": 35.44362,
+        "latt": 32.60368
+    },
+    {
+        "name": "טירה",
+        "english_name": "tire",
+        "long": 34.95642,
+        "latt": 32.23328
+    },
+    {
+        "name": "טירת יהודה",
+        "english_name": "tirat yehuda",
+        "long": 34.93336,
+        "latt": 32.01323
+    },
+    {
+        "name": "טירת כרמל",
+        "english_name": "tirat karmel",
+        "long": 34.96719,
+        "latt": 32.76726
+    },
+    {
+        "name": "טירת צבי",
+        "english_name": "tirat zevi",
+        "long": 35.52859,
+        "latt": 32.42165
+    },
+    {
+        "name": "טל שחר",
+        "english_name": "tal shahar",
+        "long": 34.9035,
+        "latt": 31.80576
+    },
+    {
+        "name": "טל-אל",
+        "english_name": "tal-el",
+        "long": 35.17881,
+        "latt": 32.92678
+    },
+    {
+        "name": "טללים",
+        "english_name": "telalim",
+        "long": 34.77212,
+        "latt": 30.9928
+    },
+    {
+        "name": "טלמון",
+        "english_name": "talmon",
+        "long": 35.13654,
+        "latt": 31.93766
+    },
+    {
+        "name": "טמרה",
+        "english_name": "tamra",
+        "long": 35.19504,
+        "latt": 32.85514
+    },
+    {
+        "name": "טמרה (יזרעאל)",
+        "english_name": "",
+        "long": 35.40411,
+        "latt": 32.63457
+    },
+    {
+        "name": "טמרה יזרעאל",
+        "english_name": "tamra (yizre'el)",
+        "long": 35.32107,
+        "latt": 32.55994
+    },
+    {
+        "name": "טנא",
+        "english_name": "tene",
+        "long": 34.95749,
+        "latt": 31.37555
+    },
+    {
+        "name": "טפחות",
+        "english_name": "tefahot",
+        "long": 35.43093,
+        "latt": 32.87055
+    },
+    {
+        "name": "יאנוח-ג'ת",
+        "english_name": "yanuh-jat",
+        "long": 35.24305,
+        "latt": 32.98014
+    },
+    {
+        "name": "יבול",
+        "english_name": "yevul",
+        "long": 34.31961,
+        "latt": 31.18916
+    },
+    {
+        "name": "יבנאל",
+        "english_name": "yavne'el",
+        "long": 35.50062,
+        "latt": 32.70939
+    },
+    {
+        "name": "יבנה",
+        "english_name": "yavne",
+        "long": 34.73654,
+        "latt": 31.8792
+    },
+    {
+        "name": "יגור",
+        "english_name": "yagur",
+        "long": 35.07592,
+        "latt": 32.74316
+    },
+    {
+        "name": "יגל",
+        "english_name": "yagel",
+        "long": 34.8791,
+        "latt": 31.98831
+    },
+    {
+        "name": "יד בנימין",
+        "english_name": "yad binyamin",
+        "long": 34.82207,
+        "latt": 31.79774
+    },
+    {
+        "name": "יד השמונה",
+        "english_name": "yad hashemona",
+        "long": 35.09104,
+        "latt": 31.80759
+    },
+    {
+        "name": "יד חנה",
+        "english_name": "yad hanna",
+        "long": 35.00657,
+        "latt": 32.32568
+    },
+    {
+        "name": "יד מרדכי",
+        "english_name": "yad mordekhay",
+        "long": 34.55802,
+        "latt": 31.58829
+    },
+    {
+        "name": "יד נתן",
+        "english_name": "yad natan",
+        "long": 34.70473,
+        "latt": 31.65514
+    },
+    {
+        "name": "יד רמב\"ם",
+        "english_name": "yad rambam",
+        "long": 34.90153,
+        "latt": 31.90055
+    },
+    {
+        "name": "ידידה",
+        "english_name": "yedida",
+        "long": 35.10411,
+        "latt": 31.81189
+    },
+    {
+        "name": "יהוד",
+        "english_name": "",
+        "long": 34.89022,
+        "latt": 32.03077
+    },
+    {
+        "name": "יהוד-מונוסון",
+        "english_name": "yehud-monoson",
+        "long": 34.89712,
+        "latt": 32.02912
+    },
+    {
+        "name": "יהל",
+        "english_name": "yahel",
+        "long": 35.12951,
+        "latt": 30.08372
+    },
+    {
+        "name": "יובל",
+        "english_name": "yuval",
+        "long": 35.59781,
+        "latt": 33.24472
+    },
+    {
+        "name": "יובלים",
+        "english_name": "yuvalim",
+        "long": 35.2705,
+        "latt": 32.87812
+    },
+    {
+        "name": "יודפת",
+        "english_name": "yodefat",
+        "long": 35.27241,
+        "latt": 32.83691
+    },
+    {
+        "name": "יונתן",
+        "english_name": "yonatan",
+        "long": 35.7938,
+        "latt": 32.93658
+    },
+    {
+        "name": "יושיביה",
+        "english_name": "yoshivya",
+        "long": 34.60925,
+        "latt": 31.44303
+    },
+    {
+        "name": "יזרעאל",
+        "english_name": "yizre'el",
+        "long": 35.32165,
+        "latt": 32.5613
+    },
+    {
+        "name": "יזרעם",
+        "english_name": "",
+        "long": 34.5725,
+        "latt": 31.44322
+    },
+    {
+        "name": "יחיעם",
+        "english_name": "yehi'am",
+        "long": 35.22039,
+        "latt": 32.99632
+    },
+    {
+        "name": "יטבתה",
+        "english_name": "yotvata",
+        "long": 35.06308,
+        "latt": 29.895
+    },
+    {
+        "name": "ייט\"ב",
+        "english_name": "yitav",
+        "long": 35.4229,
+        "latt": 31.94857
+    },
+    {
+        "name": "יכיני",
+        "english_name": "yakhini",
+        "long": 34.60001,
+        "latt": 31.48296
+    },
+    {
+        "name": "ינוב",
+        "english_name": "yanuv",
+        "long": 34.94992,
+        "latt": 32.3071
+    },
+    {
+        "name": "ינון",
+        "english_name": "yinnon",
+        "long": 34.78206,
+        "latt": 31.74235
+    },
+    {
+        "name": "יסוד המעלה",
+        "english_name": "yesud hama'ala",
+        "long": 35.60205,
+        "latt": 33.05671
+    },
+    {
+        "name": "יסודות",
+        "english_name": "yesodot",
+        "long": 34.85497,
+        "latt": 31.81552
+    },
+    {
+        "name": "יסעור",
+        "english_name": "yas'ur",
+        "long": 35.16651,
+        "latt": 32.90076
+    },
+    {
+        "name": "יעד",
+        "english_name": "ya'ad",
+        "long": 35.24414,
+        "latt": 32.87767
+    },
+    {
+        "name": "יעל",
+        "english_name": "ya'el",
+        "long": 35.30827,
+        "latt": 32.55216
+    },
+    {
+        "name": "יעף",
+        "english_name": "ye'af",
+        "long": 34.96468,
+        "latt": 32.2675
+    },
+    {
+        "name": "יערה",
+        "english_name": "ya'ara",
+        "long": 35.18545,
+        "latt": 33.06755
+    },
+    {
+        "name": "יפיע",
+        "english_name": "yafi",
+        "long": 35.27569,
+        "latt": 32.68418
+    },
+    {
+        "name": "יפית",
+        "english_name": "yafit",
+        "long": 35.47297,
+        "latt": 32.06224
+    },
+    {
+        "name": "יפעת",
+        "english_name": "yif'at",
+        "long": 35.22413,
+        "latt": 32.67821
+    },
+    {
+        "name": "יפתח",
+        "english_name": "yiftah",
+        "long": 35.55139,
+        "latt": 33.12709
+    },
+    {
+        "name": "יצהר",
+        "english_name": "yizhar",
+        "long": 35.235,
+        "latt": 32.16942
+    },
+    {
+        "name": "יציץ",
+        "english_name": "yaziz",
+        "long": 34.86113,
+        "latt": 31.86323
+    },
+    {
+        "name": "יקום",
+        "english_name": "yaqum",
+        "long": 34.84203,
+        "latt": 32.24795
+    },
+    {
+        "name": "יקיר",
+        "english_name": "yaqir",
+        "long": 35.11472,
+        "latt": 32.14948
+    },
+    {
+        "name": "יקנעם (מושבה)",
+        "english_name": "",
+        "long": 35.115,
+        "latt": 32.65701
+    },
+    {
+        "name": "יקנעם )מושבה(",
+        "english_name": "yoqne'am(moshava)",
+        "long": 35.11471,
+        "latt": 32.65671
+    },
+    {
+        "name": "יקנעם עילית",
+        "english_name": "yoqne'am illit",
+        "long": 35.09808,
+        "latt": 32.65183
+    },
+    {
+        "name": "יראון",
+        "english_name": "yir'on",
+        "long": 35.45465,
+        "latt": 33.07735
+    },
+    {
+        "name": "ירדנה",
+        "english_name": "yardena",
+        "long": 35.56392,
+        "latt": 32.56527
+    },
+    {
+        "name": "ירוחם",
+        "english_name": "yeroham",
+        "long": 34.93054,
+        "latt": 30.98848
+    },
+    {
+        "name": "ירושלים",
+        "english_name": "jerusalem",
+        "long": 35.20956,
+        "latt": 31.77974
+    },
+    {
+        "name": "ירחיב",
+        "english_name": "yarhiv",
+        "long": 34.96884,
+        "latt": 32.15322
+    },
+    {
+        "name": "ירכא",
+        "english_name": "yirka",
+        "long": 35.20217,
+        "latt": 32.9544
+    },
+    {
+        "name": "ירקונה",
+        "english_name": "yarqona",
+        "long": 34.9004,
+        "latt": 32.14737
+    },
+    {
+        "name": "ישע",
+        "english_name": "yesha",
+        "long": 34.40225,
+        "latt": 31.24759
+    },
+    {
+        "name": "ישעי",
+        "english_name": "yish'i",
+        "long": 34.9655,
+        "latt": 31.75135
+    },
+    {
+        "name": "ישרש",
+        "english_name": "yashresh",
+        "long": 34.84587,
+        "latt": 31.91484
+    },
+    {
+        "name": "יתד",
+        "english_name": "yated",
+        "long": 34.32683,
+        "latt": 31.20688
+    },
+    {
+        "name": "יתיר",
+        "english_name": "",
+        "long": 35.10906,
+        "latt": 31.35547
+    },
+    {
+        "name": "כאבול",
+        "english_name": "kabul",
+        "long": 35.20722,
+        "latt": 32.87219
+    },
+    {
+        "name": "כאוכב אבו אל-היג'א",
+        "english_name": "kaokab abu al-hija",
+        "long": 35.24836,
+        "latt": 32.83059
+    },
+    {
+        "name": "כברי",
+        "english_name": "kabri",
+        "long": 35.14674,
+        "latt": 33.02041
+    },
+    {
+        "name": "כדורי",
+        "english_name": "kadoorie",
+        "long": 35.40728,
+        "latt": 32.70258
+    },
+    {
+        "name": "כדים",
+        "english_name": "",
+        "long": 35.31897,
+        "latt": 32.44992
+    },
+    {
+        "name": "כדיתה",
+        "english_name": "",
+        "long": 35.46463,
+        "latt": 33.00665
+    },
+    {
+        "name": "כוכב השחר",
+        "english_name": "kokhav hashahar",
+        "long": 35.349,
+        "latt": 31.95885
+    },
+    {
+        "name": "כוכב יאיר",
+        "english_name": "kokhav ya'ir",
+        "long": 34.99471,
+        "latt": 32.22126
+    },
+    {
+        "name": "כוכב יעקב",
+        "english_name": "kokhav ya'aqov",
+        "long": 35.24356,
+        "latt": 31.88074
+    },
+    {
+        "name": "כוכב מיכאל",
+        "english_name": "kokhav mikha'el",
+        "long": 34.66877,
+        "latt": 31.62946
+    },
+    {
+        "name": "כורזים",
+        "english_name": "korazim",
+        "long": 35.55119,
+        "latt": 32.90928
+    },
+    {
+        "name": "כחל",
+        "english_name": "kahal",
+        "long": 35.50954,
+        "latt": 32.89228
+    },
+    {
+        "name": "כחלה",
+        "english_name": "",
+        "long": 35.5095,
+        "latt": 32.89217
+    },
+    {
+        "name": "כיסופים",
+        "english_name": "kissufim",
+        "long": 34.40024,
+        "latt": 31.37449
+    },
+    {
+        "name": "כישור",
+        "english_name": "kishor",
+        "long": 35.24958,
+        "latt": 32.94558
+    },
+    {
+        "name": "כליל",
+        "english_name": "kelil",
+        "long": 35.19958,
+        "latt": 32.98038
+    },
+    {
+        "name": "כלנית",
+        "english_name": "kallanit",
+        "long": 35.45844,
+        "latt": 32.87442
+    },
+    {
+        "name": "כמאנה",
+        "english_name": "",
+        "long": 35.34756,
+        "latt": 32.90931
+    },
+    {
+        "name": "כמהין",
+        "english_name": "kemehin",
+        "long": 34.43155,
+        "latt": 30.91063
+    },
+    {
+        "name": "כמון",
+        "english_name": "kammon",
+        "long": 35.35979,
+        "latt": 32.91207
+    },
+    {
+        "name": "כנות",
+        "english_name": "kannot",
+        "long": 34.75926,
+        "latt": 31.80044
+    },
+    {
+        "name": "כנף",
+        "english_name": "kanaf",
+        "long": 35.70211,
+        "latt": 32.87079
+    },
+    {
+        "name": "כנרת (מושבה)",
+        "english_name": "",
+        "long": 35.5641,
+        "latt": 32.7222
+    },
+    {
+        "name": "כנרת (קבוצה)",
+        "english_name": "",
+        "long": 35.56522,
+        "latt": 32.71328
+    },
+    {
+        "name": "כנרת )מושבה(",
+        "english_name": "kinneret(moshava)",
+        "long": 35.56419,
+        "latt": 32.72186
+    },
+    {
+        "name": "כנרת )קבוצה(",
+        "english_name": "kinneret(qevuza)",
+        "long": 35.57138,
+        "latt": 32.71127
+    },
+    {
+        "name": "כסיפה",
+        "english_name": "kuseife",
+        "long": 35.08005,
+        "latt": 31.24472
+    },
+    {
+        "name": "כסלון",
+        "english_name": "kesalon",
+        "long": 35.04943,
+        "latt": 31.77375
+    },
+    {
+        "name": "כסרא-סמיע",
+        "english_name": "kisra-sumei",
+        "long": 35.30392,
+        "latt": 32.96969
+    },
+    {
+        "name": "כעביה-טבאש-חג'אג'רה",
+        "english_name": "ka'abiyye-tabbash-ha",
+        "long": 35.19133,
+        "latt": 32.74721
+    },
+    {
+        "name": "כפר אביב",
+        "english_name": "kefar aviv",
+        "long": 34.72102,
+        "latt": 31.83099
+    },
+    {
+        "name": "כפר אדומים",
+        "english_name": "kefar adummim",
+        "long": 35.34018,
+        "latt": 31.82105
+    },
+    {
+        "name": "כפר אוריה",
+        "english_name": "kefar uriyya",
+        "long": 34.94706,
+        "latt": 31.7936
+    },
+    {
+        "name": "כפר אז\"ר",
+        "english_name": "",
+        "long": 34.84083,
+        "latt": 32.05916
+    },
+    {
+        "name": "כפר אחים",
+        "english_name": "kefar ahim",
+        "long": 34.75647,
+        "latt": 31.74442
+    },
+    {
+        "name": "כפר ביאליק",
+        "english_name": "kefar bialik",
+        "long": 35.08682,
+        "latt": 32.82069
+    },
+    {
+        "name": "כפר ביל\"ו",
+        "english_name": "kefar bilu",
+        "long": 34.82605,
+        "latt": 31.87296
+    },
+    {
+        "name": "כפר בלום",
+        "english_name": "kefar blum",
+        "long": 35.60988,
+        "latt": 33.1722
+    },
+    {
+        "name": "כפר בן נון",
+        "english_name": "kefar bin nun",
+        "long": 34.94827,
+        "latt": 31.85982
+    },
+    {
+        "name": "כפר ברא",
+        "english_name": "kafar bara",
+        "long": 34.97091,
+        "latt": 32.13108
+    },
+    {
+        "name": "כפר ברוך",
+        "english_name": "kefar barukh",
+        "long": 35.19023,
+        "latt": 32.64666
+    },
+    {
+        "name": "כפר גדעון",
+        "english_name": "kefar gid'on",
+        "long": 35.29117,
+        "latt": 32.64408
+    },
+    {
+        "name": "כפר גלים",
+        "english_name": "kefar gallim",
+        "long": 34.95857,
+        "latt": 32.76647
+    },
+    {
+        "name": "כפר גליקסון",
+        "english_name": "kefar glikson",
+        "long": 35.00503,
+        "latt": 32.50587
+    },
+    {
+        "name": "כפר גלעדי",
+        "english_name": "kefar gil'adi",
+        "long": 35.57594,
+        "latt": 33.24205
+    },
+    {
+        "name": "כפר דניאל",
+        "english_name": "kefar daniyyel",
+        "long": 34.93204,
+        "latt": 31.93274
+    },
+    {
+        "name": "כפר האורנים",
+        "english_name": "kefar haoranim",
+        "long": 35.03809,
+        "latt": 31.91898
+    },
+    {
+        "name": "כפר החורש",
+        "english_name": "kefar hahoresh",
+        "long": 35.27337,
+        "latt": 32.70149
+    },
+    {
+        "name": "כפר המכבי",
+        "english_name": "kefar hamakkabi",
+        "long": 35.12714,
+        "latt": 32.77925
+    },
+    {
+        "name": "כפר הנגיד",
+        "english_name": "kefar hanagid",
+        "long": 34.74902,
+        "latt": 31.88699
+    },
+    {
+        "name": "כפר הנוער הדתי",
+        "english_name": "kefar hano'ar hadati",
+        "long": 35.09919,
+        "latt": 32.74275
+    },
+    {
+        "name": "כפר הנשיא",
+        "english_name": "kefar hanasi",
+        "long": 35.60341,
+        "latt": 32.97442
+    },
+    {
+        "name": "כפר הס",
+        "english_name": "kefar hess",
+        "long": 34.93826,
+        "latt": 32.24876
+    },
+    {
+        "name": "כפר הרא\"ה",
+        "english_name": "kefar haro'e",
+        "long": 34.91113,
+        "latt": 32.39008
+    },
+    {
+        "name": "כפר הרי\"ף",
+        "english_name": "kefar harif",
+        "long": 34.79208,
+        "latt": 31.74958
+    },
+    {
+        "name": "כפר ויתקין",
+        "english_name": "kefar vitkin",
+        "long": 34.8835,
+        "latt": 32.38255
+    },
+    {
+        "name": "כפר ורבורג",
+        "english_name": "kefar warburg",
+        "long": 34.72547,
+        "latt": 31.71936
+    },
+    {
+        "name": "כפר ורדים",
+        "english_name": "kefar weradim",
+        "long": 35.26875,
+        "latt": 32.99598
+    },
+    {
+        "name": "כפר זוהרים",
+        "english_name": "kefar zoharim",
+        "long": 34.92588,
+        "latt": 31.62189
+    },
+    {
+        "name": "כפר זיתים",
+        "english_name": "kefar zetim",
+        "long": 35.46124,
+        "latt": 32.80959
+    },
+    {
+        "name": "כפר חב\"ד",
+        "english_name": "kefar habad",
+        "long": 34.85001,
+        "latt": 31.9901
+    },
+    {
+        "name": "כפר חושן",
+        "english_name": "kefar hoshen",
+        "long": 35.43948,
+        "latt": 33.00973
+    },
+    {
+        "name": "כפר חיטים",
+        "english_name": "kefar hittim",
+        "long": 35.50369,
+        "latt": 32.80249
+    },
+    {
+        "name": "כפר חיים",
+        "english_name": "kefar hayyim",
+        "long": 34.89953,
+        "latt": 32.35528
+    },
+    {
+        "name": "כפר חנניה",
+        "english_name": "kefar hananya",
+        "long": 35.42349,
+        "latt": 32.91553
+    },
+    {
+        "name": "כפר חסידים א'",
+        "english_name": "kefar hasidim alef",
+        "long": 35.09875,
+        "latt": 32.74374
+    },
+    {
+        "name": "כפר חסידים ב'",
+        "english_name": "kefar hasidim bet",
+        "long": 35.08726,
+        "latt": 32.75262
+    },
+    {
+        "name": "כפר חרוב",
+        "english_name": "kefar haruv",
+        "long": 35.6635,
+        "latt": 32.76141
+    },
+    {
+        "name": "כפר טרומן",
+        "english_name": "kefar truman",
+        "long": 34.92384,
+        "latt": 31.98049
+    },
+    {
+        "name": "כפר יאסיף",
+        "english_name": "kafar yasif",
+        "long": 35.16225,
+        "latt": 32.9534
+    },
+    {
+        "name": "כפר ידידיה",
+        "english_name": "yedidya",
+        "long": 34.89946,
+        "latt": 32.34538
+    },
+    {
+        "name": "כפר יהושע",
+        "english_name": "kefar yehoshua",
+        "long": 35.15286,
+        "latt": 32.68132
+    },
+    {
+        "name": "כפר יונה",
+        "english_name": "kefar yona",
+        "long": 34.92912,
+        "latt": 32.3162
+    },
+    {
+        "name": "כפר יחזקאל",
+        "english_name": "kefar yehezqel",
+        "long": 35.3588,
+        "latt": 32.56666
+    },
+    {
+        "name": "כפר יעבץ",
+        "english_name": "kefar ya'bez",
+        "long": 34.9654,
+        "latt": 32.27501
+    },
+    {
+        "name": "כפר כמא",
+        "english_name": "kafar kama",
+        "long": 35.44,
+        "latt": 32.72154
+    },
+    {
+        "name": "כפר כנא",
+        "english_name": "kafar kanna",
+        "long": 35.34173,
+        "latt": 32.7474
+    },
+    {
+        "name": "כפר מונש",
+        "english_name": "kefar monash",
+        "long": 34.91588,
+        "latt": 32.34789
+    },
+    {
+        "name": "כפר מימון",
+        "english_name": "kefar maymon",
+        "long": 34.54461,
+        "latt": 31.4259
+    },
+    {
+        "name": "כפר מל\"ל",
+        "english_name": "kefar malal",
+        "long": 34.89441,
+        "latt": 32.16746
+    },
+    {
+        "name": "כפר מנדא",
+        "english_name": "kafar manda",
+        "long": 35.2635,
+        "latt": 32.80843
+    },
+    {
+        "name": "כפר מנחם",
+        "english_name": "kefar menahem",
+        "long": 34.8342,
+        "latt": 31.73234
+    },
+    {
+        "name": "כפר מסריק",
+        "english_name": "kefar masaryk",
+        "long": 35.10001,
+        "latt": 32.8866
+    },
+    {
+        "name": "כפר מצר",
+        "english_name": "kafar misr",
+        "long": 35.42278,
+        "latt": 32.64553
+    },
+    {
+        "name": "כפר מרדכי",
+        "english_name": "kefar mordekhay",
+        "long": 34.75527,
+        "latt": 31.83133
+    },
+    {
+        "name": "כפר נטר",
+        "english_name": "kefar netter",
+        "long": 34.87189,
+        "latt": 32.27582
+    },
+    {
+        "name": "כפר סאלד",
+        "english_name": "kefar szold",
+        "long": 35.65716,
+        "latt": 33.19458
+    },
+    {
+        "name": "כפר סבא",
+        "english_name": "kefar sava",
+        "long": 34.91769,
+        "latt": 32.17745
+    },
+    {
+        "name": "כפר סילבר",
+        "english_name": "kefar silver",
+        "long": 34.60937,
+        "latt": 31.67429
+    },
+    {
+        "name": "כפר סירקין",
+        "english_name": "kefar sirkin",
+        "long": 34.92494,
+        "latt": 32.07656
+    },
+    {
+        "name": "כפר עבודה",
+        "english_name": "kefar avoda",
+        "long": 34.94128,
+        "latt": 32.25796
+    },
+    {
+        "name": "כפר עזה",
+        "english_name": "kefar azza",
+        "long": 34.53298,
+        "latt": 31.48305
+    },
+    {
+        "name": "כפר עציון",
+        "english_name": "kefar ezyon",
+        "long": 35.11546,
+        "latt": 31.64946
+    },
+    {
+        "name": "כפר פינס",
+        "english_name": "kefar pines",
+        "long": 35.00214,
+        "latt": 32.48444
+    },
+    {
+        "name": "כפר קאסם",
+        "english_name": "kafar qasem",
+        "long": 34.97599,
+        "latt": 32.11452
+    },
+    {
+        "name": "כפר קיש",
+        "english_name": "kefar kish",
+        "long": 35.44905,
+        "latt": 32.66673
+    },
+    {
+        "name": "כפר קרע",
+        "english_name": "kafar qara",
+        "long": 35.05047,
+        "latt": 32.50486
+    },
+    {
+        "name": "כפר ראש הנקרה",
+        "english_name": "kefar rosh haniqra",
+        "long": 35.11481,
+        "latt": 33.08604
+    },
+    {
+        "name": "כפר רוזנואלד (זרעית)",
+        "english_name": "",
+        "long": 35.28794,
+        "latt": 33.09892
+    },
+    {
+        "name": "כפר רוזנואלד )זרעית(",
+        "english_name": "kefar rozenwald(zar.",
+        "long": 34.91713,
+        "latt": 32.18219
+    },
+    {
+        "name": "כפר רופין",
+        "english_name": "kefar ruppin",
+        "long": 35.55579,
+        "latt": 32.45865
+    },
+    {
+        "name": "כפר רות",
+        "english_name": "kefar rut",
+        "long": 35.0306,
+        "latt": 31.90977
+    },
+    {
+        "name": "כפר שמאי",
+        "english_name": "kefar shammay",
+        "long": 35.45707,
+        "latt": 32.95668
+    },
+    {
+        "name": "כפר שמואל",
+        "english_name": "kefar shemu'el",
+        "long": 34.93236,
+        "latt": 31.88999
+    },
+    {
+        "name": "כפר שמריהו",
+        "english_name": "kefar shemaryahu",
+        "long": 34.82484,
+        "latt": 32.18592
+    },
+    {
+        "name": "כפר תבור",
+        "english_name": "kefar tavor",
+        "long": 35.42111,
+        "latt": 32.68822
+    },
+    {
+        "name": "כפר תפוח",
+        "english_name": "kefar tappuah",
+        "long": 35.24985,
+        "latt": 32.11952
+    },
+    {
+        "name": "כרי דשא",
+        "english_name": "kare deshe",
+        "long": 35.53414,
+        "latt": 32.86272
+    },
+    {
+        "name": "כרכום",
+        "english_name": "karkom",
+        "long": 35.60794,
+        "latt": 32.93001
+    },
+    {
+        "name": "כרם בן זמרה",
+        "english_name": "kerem ben zimra",
+        "long": 35.47103,
+        "latt": 33.03399
+    },
+    {
+        "name": "כרם בן שמן",
+        "english_name": "kerem ben shemen",
+        "long": 34.93699,
+        "latt": 31.95781
+    },
+    {
+        "name": "כרם יבנה (ישיבה)",
+        "english_name": "",
+        "long": 34.72163,
+        "latt": 31.81944
+    },
+    {
+        "name": "כרם יבנה )ישיבה(",
+        "english_name": "kerem yavne(yeshiva)",
+        "long": 34.72205,
+        "latt": 31.81934
+    },
+    {
+        "name": "כרם מהר\"ל",
+        "english_name": "kerem maharal",
+        "long": 34.9901,
+        "latt": 32.64627
+    },
+    {
+        "name": "כרם שלום",
+        "english_name": "kerem shalom",
+        "long": 34.2845,
+        "latt": 31.22782
+    },
+    {
+        "name": "כרמי יוסף",
+        "english_name": "karme yosef",
+        "long": 34.92052,
+        "latt": 31.84799
+    },
+    {
+        "name": "כרמי צור",
+        "english_name": "karme zur",
+        "long": 35.10013,
+        "latt": 31.6087
+    },
+    {
+        "name": "כרמי קטיף",
+        "english_name": "karme qatif",
+        "long": 34.91308,
+        "latt": 31.53466
+    },
+    {
+        "name": "כרמיאל",
+        "english_name": "karmi'el",
+        "long": 35.29768,
+        "latt": 32.9137
+    },
+    {
+        "name": "כרמיה",
+        "english_name": "karmiyya",
+        "long": 34.54367,
+        "latt": 31.60392
+    },
+    {
+        "name": "כרמייה",
+        "english_name": "",
+        "long": 34.54217,
+        "latt": 31.60418
+    },
+    {
+        "name": "כרמים",
+        "english_name": "keramim",
+        "long": 34.9177,
+        "latt": 31.33307
+    },
+    {
+        "name": "כרמל",
+        "english_name": "karmel",
+        "long": 35.18529,
+        "latt": 31.43235
+    },
+    {
+        "name": "לא רשום",
+        "english_name": "",
+        "long": 34.59332,
+        "latt": 31.42212
+    },
+    {
+        "name": "לבון",
+        "english_name": "lavon",
+        "long": 35.28692,
+        "latt": 32.94237
+    },
+    {
+        "name": "לביא",
+        "english_name": "lavi",
+        "long": 35.45267,
+        "latt": 32.787
+    },
+    {
+        "name": "לבנים",
+        "english_name": "livnim",
+        "long": 35.49247,
+        "latt": 32.86385
+    },
+    {
+        "name": "להב",
+        "english_name": "lahav",
+        "long": 34.8695,
+        "latt": 31.37913
+    },
+    {
+        "name": "להבות הבשן",
+        "english_name": "lahavot habashan",
+        "long": 35.64591,
+        "latt": 33.14139
+    },
+    {
+        "name": "להבות חביבה",
+        "english_name": "lahavot haviva",
+        "long": 35.0096,
+        "latt": 32.39501
+    },
+    {
+        "name": "להבים",
+        "english_name": "lehavim",
+        "long": 34.81403,
+        "latt": 31.37003
+    },
+    {
+        "name": "לוד",
+        "english_name": "lod",
+        "long": 34.88789,
+        "latt": 31.95102
+    },
+    {
+        "name": "לוזית",
+        "english_name": "luzit",
+        "long": 34.88674,
+        "latt": 31.68681
+    },
+    {
+        "name": "לוחמי הגיטאות",
+        "english_name": "lohame hageta'ot",
+        "long": 35.09798,
+        "latt": 32.96222
+    },
+    {
+        "name": "לוטם",
+        "english_name": "lotem",
+        "long": 35.35741,
+        "latt": 32.88163
+    },
+    {
+        "name": "לוטן",
+        "english_name": "lotan",
+        "long": 35.08793,
+        "latt": 29.98668
+    },
+    {
+        "name": "לימן",
+        "english_name": "liman",
+        "long": 35.11113,
+        "latt": 33.06072
+    },
+    {
+        "name": "לכיש",
+        "english_name": "lakhish",
+        "long": 34.84146,
+        "latt": 31.56414
+    },
+    {
+        "name": "לפיד",
+        "english_name": "lappid",
+        "long": 35.03238,
+        "latt": 31.9174
+    },
+    {
+        "name": "לפידות",
+        "english_name": "lappidot",
+        "long": 35.26566,
+        "latt": 32.96096
+    },
+    {
+        "name": "לקיה",
+        "english_name": "laqye",
+        "long": 34.86477,
+        "latt": 31.32385
+    },
+    {
+        "name": "מאור",
+        "english_name": "ma'or",
+        "long": 35.00465,
+        "latt": 32.42142
+    },
+    {
+        "name": "מאיר שפיה",
+        "english_name": "me'ir shefeya",
+        "long": 34.97009,
+        "latt": 32.59117
+    },
+    {
+        "name": "מבוא ביתר",
+        "english_name": "mevo betar",
+        "long": 35.10348,
+        "latt": 31.72287
+    },
+    {
+        "name": "מבוא דותן",
+        "english_name": "mevo dotan",
+        "long": 35.17548,
+        "latt": 32.42019
+    },
+    {
+        "name": "מבוא חורון",
+        "english_name": "mevo horon",
+        "long": 35.0376,
+        "latt": 31.84772
+    },
+    {
+        "name": "מבוא חמה",
+        "english_name": "mevo hamma",
+        "long": 35.65516,
+        "latt": 32.7359
+    },
+    {
+        "name": "מבוא מודיעים",
+        "english_name": "mevo modi'im",
+        "long": 34.98687,
+        "latt": 31.93397
+    },
+    {
+        "name": "מבואות ים",
+        "english_name": "mevo'ot yam",
+        "long": 34.87006,
+        "latt": 32.39982
+    },
+    {
+        "name": "מבועים",
+        "english_name": "mabbu'im",
+        "long": 34.65406,
+        "latt": 31.44921
+    },
+    {
+        "name": "מבטחים",
+        "english_name": "mivtahim",
+        "long": 34.4085,
+        "latt": 31.23998
+    },
+    {
+        "name": "מבקיעים",
+        "english_name": "mavqi'im",
+        "long": 34.5743,
+        "latt": 31.62138
+    },
+    {
+        "name": "מבשרת ציון",
+        "english_name": "mevasseret ziyyon",
+        "long": 35.15053,
+        "latt": 31.80017
+    },
+    {
+        "name": "מג'ד אל-כרום",
+        "english_name": "majd al-kurum",
+        "long": 35.25426,
+        "latt": 32.92088
+    },
+    {
+        "name": "מג'דל שמס",
+        "english_name": "majdal shams",
+        "long": 35.76875,
+        "latt": 33.26639
+    },
+    {
+        "name": "מגאר",
+        "english_name": "mughar",
+        "long": 35.40429,
+        "latt": 32.88797
+    },
+    {
+        "name": "מגדים",
+        "english_name": "megadim",
+        "long": 34.95889,
+        "latt": 32.72897
+    },
+    {
+        "name": "מגדל",
+        "english_name": "migdal",
+        "long": 35.50765,
+        "latt": 32.83642
+    },
+    {
+        "name": "מגדל העמק",
+        "english_name": "migdal haemeq",
+        "long": 35.2429,
+        "latt": 32.67926
+    },
+    {
+        "name": "מגדל עוז",
+        "english_name": "migdal oz",
+        "long": 35.1435,
+        "latt": 31.63927
+    },
+    {
+        "name": "מגדל תפן",
+        "english_name": "",
+        "long": 35.27567,
+        "latt": 32.97738
+    },
+    {
+        "name": "מגדלים",
+        "english_name": "migdalim",
+        "long": 35.34222,
+        "latt": 32.09015
+    },
+    {
+        "name": "מגידו",
+        "english_name": "megiddo",
+        "long": 35.18182,
+        "latt": 32.57954
+    },
+    {
+        "name": "מגל",
+        "english_name": "maggal",
+        "long": 35.03523,
+        "latt": 32.38556
+    },
+    {
+        "name": "מגן",
+        "english_name": "magen",
+        "long": 34.42908,
+        "latt": 31.29828
+    },
+    {
+        "name": "מגן שאול",
+        "english_name": "magen sha'ul",
+        "long": 35.30752,
+        "latt": 32.52121
+    },
+    {
+        "name": "מגשימים",
+        "english_name": "magshimim",
+        "long": 34.89867,
+        "latt": 32.04679
+    },
+    {
+        "name": "מדרך עוז",
+        "english_name": "midrakh oz",
+        "long": 35.15846,
+        "latt": 32.59492
+    },
+    {
+        "name": "מדרשת בן גוריון",
+        "english_name": "midreshet ben gurion",
+        "long": 34.7787,
+        "latt": 30.85052
+    },
+    {
+        "name": "מדרשת רופין",
+        "english_name": "midreshet ruppin",
+        "long": 34.9122,
+        "latt": 32.34175
+    },
+    {
+        "name": "מודיעין עילית",
+        "english_name": "modi'in illit",
+        "long": 35.04098,
+        "latt": 31.93172
+    },
+    {
+        "name": "מודיעין-מכבים-רעות",
+        "english_name": "modi'in-makkabbim-re",
+        "long": 35.01386,
+        "latt": 31.89865
+    },
+    {
+        "name": "מולדה",
+        "english_name": "",
+        "long": 34.97522,
+        "latt": 31.26204
+    },
+    {
+        "name": "מולדת",
+        "english_name": "moledet",
+        "long": 35.44173,
+        "latt": 32.58583
+    },
+    {
+        "name": "מועאוויה",
+        "english_name": "",
+        "long": 35.10413,
+        "latt": 32.53155
+    },
+    {
+        "name": "מוצא עילית",
+        "english_name": "moza illit",
+        "long": 35.15747,
+        "latt": 31.79392
+    },
+    {
+        "name": "מוצמוץ",
+        "english_name": "",
+        "long": 35.15515,
+        "latt": 32.54427
+    },
+    {
+        "name": "מוקייבלה",
+        "english_name": "muqeible",
+        "long": 35.29645,
+        "latt": 32.51416
+    },
+    {
+        "name": "מורן",
+        "english_name": "moran",
+        "long": 35.39488,
+        "latt": 32.91955
+    },
+    {
+        "name": "מורשת",
+        "english_name": "moreshet",
+        "long": 35.23409,
+        "latt": 32.82695
+    },
+    {
+        "name": "מושיירפה",
+        "english_name": "",
+        "long": 35.15664,
+        "latt": 32.55372
+    },
+    {
+        "name": "מזור",
+        "english_name": "mazor",
+        "long": 34.92526,
+        "latt": 32.05218
+    },
+    {
+        "name": "מזכרת בתיה",
+        "english_name": "mazkeret batya",
+        "long": 34.8426,
+        "latt": 31.85129
+    },
+    {
+        "name": "מזרע",
+        "english_name": "mizra",
+        "long": 35.28726,
+        "latt": 32.65095
+    },
+    {
+        "name": "מזרעה",
+        "english_name": "mazra'a",
+        "long": 35.0986,
+        "latt": 32.98438
+    },
+    {
+        "name": "מחולה",
+        "english_name": "mehola",
+        "long": 35.51659,
+        "latt": 32.36871
+    },
+    {
+        "name": "מחנה הילה",
+        "english_name": "",
+        "long": 34.92611,
+        "latt": 32.32483
+    },
+    {
+        "name": "מחנה טלי",
+        "english_name": "",
+        "long": 35.21079,
+        "latt": 31.7858
+    },
+    {
+        "name": "מחנה יהודית",
+        "english_name": "",
+        "long": 35.21079,
+        "latt": 31.7858
+    },
+    {
+        "name": "מחנה יוכבד",
+        "english_name": "",
+        "long": 35.21079,
+        "latt": 31.7858
+    },
+    {
+        "name": "מחנה יפה",
+        "english_name": "",
+        "long": 34.76593,
+        "latt": 32.06366
+    },
+    {
+        "name": "מחנה יתיר",
+        "english_name": "mahane yattir",
+        "long": 35.21278,
+        "latt": 31.78465
+    },
+    {
+        "name": "מחנה מרים",
+        "english_name": "",
+        "long": 35.21079,
+        "latt": 31.7858
+    },
+    {
+        "name": "מחנה עדי",
+        "english_name": "",
+        "long": 35.21079,
+        "latt": 31.7858
+    },
+    {
+        "name": "מחנה תל נוף",
+        "english_name": "",
+        "long": 34.81885,
+        "latt": 31.82206
+    },
+    {
+        "name": "מחניים",
+        "english_name": "mahanayim",
+        "long": 35.57029,
+        "latt": 32.9898
+    },
+    {
+        "name": "מחסיה",
+        "english_name": "mahseya",
+        "long": 35.00718,
+        "latt": 31.74781
+    },
+    {
+        "name": "מטולה",
+        "english_name": "metula",
+        "long": 35.57502,
+        "latt": 33.28063
+    },
+    {
+        "name": "מטע",
+        "english_name": "matta",
+        "long": 35.06135,
+        "latt": 31.71774
+    },
+    {
+        "name": "מי עמי",
+        "english_name": "me ammi",
+        "long": 35.14535,
+        "latt": 32.50311
+    },
+    {
+        "name": "מיטב",
+        "english_name": "metav",
+        "long": 35.30045,
+        "latt": 32.54589
+    },
+    {
+        "name": "מייסר",
+        "english_name": "meiser",
+        "long": 35.04257,
+        "latt": 32.44451
+    },
+    {
+        "name": "מיצר",
+        "english_name": "mezar",
+        "long": 35.73578,
+        "latt": 32.76608
+    },
+    {
+        "name": "מירב",
+        "english_name": "merav",
+        "long": 35.42182,
+        "latt": 32.45283
+    },
+    {
+        "name": "מירון",
+        "english_name": "meron",
+        "long": 35.44306,
+        "latt": 32.99057
+    },
+    {
+        "name": "מישר",
+        "english_name": "meshar",
+        "long": 34.75402,
+        "latt": 31.81847
+    },
+    {
+        "name": "מיתר",
+        "english_name": "metar",
+        "long": 34.94021,
+        "latt": 31.32604
+    },
+    {
+        "name": "מכורה",
+        "english_name": "mekhora",
+        "long": 35.42354,
+        "latt": 32.16171
+    },
+    {
+        "name": "מכחול",
+        "english_name": "makchul",
+        "long": 35.07313,
+        "latt": 31.28722
+    },
+    {
+        "name": "מכמורת",
+        "english_name": "mikhmoret",
+        "long": 34.87193,
+        "latt": 32.40558
+    },
+    {
+        "name": "מכמנים",
+        "english_name": "mikhmannim",
+        "long": 35.32972,
+        "latt": 32.90715
+    },
+    {
+        "name": "מלאה",
+        "english_name": "mele'a",
+        "long": 35.23675,
+        "latt": 32.56378
+    },
+    {
+        "name": "מלילות",
+        "english_name": "melilot",
+        "long": 34.59586,
+        "latt": 31.38903
+    },
+    {
+        "name": "מלכיה",
+        "english_name": "malkiyya",
+        "long": 35.51128,
+        "latt": 33.09827
+    },
+    {
+        "name": "מלכייה",
+        "english_name": "",
+        "long": 35.51094,
+        "latt": 33.09789
+    },
+    {
+        "name": "מלכישוע",
+        "english_name": "malkishua",
+        "long": 35.41278,
+        "latt": 32.43814
+    },
+    {
+        "name": "מנוחה",
+        "english_name": "menuha",
+        "long": 34.77698,
+        "latt": 31.65693
+    },
+    {
+        "name": "מנוף",
+        "english_name": "manof",
+        "long": 35.2379,
+        "latt": 32.85282
+    },
+    {
+        "name": "מנות",
+        "english_name": "manot",
+        "long": 35.19681,
+        "latt": 33.03854
+    },
+    {
+        "name": "מנחמיה",
+        "english_name": "menahemya",
+        "long": 35.55519,
+        "latt": 32.6666
+    },
+    {
+        "name": "מנרה",
+        "english_name": "mennara",
+        "long": 35.54463,
+        "latt": 33.1952
+    },
+    {
+        "name": "מנשית זבדה",
+        "english_name": "manshiyyet zabda",
+        "long": 35.19277,
+        "latt": 32.70551
+    },
+    {
+        "name": "מסד",
+        "english_name": "massad",
+        "long": 35.42355,
+        "latt": 32.8435
+    },
+    {
+        "name": "מסדה",
+        "english_name": "massada",
+        "long": 35.5985,
+        "latt": 32.68296
+    },
+    {
+        "name": "מסילות",
+        "english_name": "mesillot",
+        "long": 35.47441,
+        "latt": 32.49524
+    },
+    {
+        "name": "מסילת ציון",
+        "english_name": "mesillat ziyyon",
+        "long": 35.01118,
+        "latt": 31.8025
+    },
+    {
+        "name": "מסלול",
+        "english_name": "maslul",
+        "long": 34.58886,
+        "latt": 31.3234
+    },
+    {
+        "name": "מסעדה",
+        "english_name": "mas'ade",
+        "long": 35.75576,
+        "latt": 33.23169
+    },
+    {
+        "name": "מסעודין אל-עזאזמה",
+        "english_name": "mas'udin al-'azazme",
+        "long": 35.23565,
+        "latt": 31.77488
+    },
+    {
+        "name": "מעברות",
+        "english_name": "ma'barot",
+        "long": 34.90515,
+        "latt": 32.36358
+    },
+    {
+        "name": "מעגלים",
+        "english_name": "ma'galim",
+        "long": 34.59869,
+        "latt": 31.39675
+    },
+    {
+        "name": "מעגן",
+        "english_name": "ma'agan",
+        "long": 35.6007,
+        "latt": 32.70625
+    },
+    {
+        "name": "מעגן מיכאל",
+        "english_name": "ma'agan mikha'el",
+        "long": 34.91563,
+        "latt": 32.55633
+    },
+    {
+        "name": "מעוז חיים",
+        "english_name": "ma'oz hayyim",
+        "long": 35.55116,
+        "latt": 32.49309
+    },
+    {
+        "name": "מעון",
+        "english_name": "ma'on",
+        "long": 35.16481,
+        "latt": 31.41358
+    },
+    {
+        "name": "מעונה",
+        "english_name": "me'ona",
+        "long": 35.26195,
+        "latt": 33.01724
+    },
+    {
+        "name": "מעיין ברוך",
+        "english_name": "",
+        "long": 35.60746,
+        "latt": 33.23929
+    },
+    {
+        "name": "מעיין צבי",
+        "english_name": "",
+        "long": 34.9282,
+        "latt": 32.57616
+    },
+    {
+        "name": "מעיליא",
+        "english_name": "mi'elya",
+        "long": 35.25724,
+        "latt": 33.02706
+    },
+    {
+        "name": "מעין ברוך",
+        "english_name": "ma'yan barukh",
+        "long": 35.60895,
+        "latt": 33.23988
+    },
+    {
+        "name": "מעין צבי",
+        "english_name": "ma'yan zevi",
+        "long": 34.94102,
+        "latt": 32.56926
+    },
+    {
+        "name": "מעלה אדומים",
+        "english_name": "ma'ale adummim",
+        "long": 35.31353,
+        "latt": 31.78416
+    },
+    {
+        "name": "מעלה אפרים",
+        "english_name": "ma'ale efrayim",
+        "long": 35.40503,
+        "latt": 32.06993
+    },
+    {
+        "name": "מעלה גלבוע",
+        "english_name": "ma'ale gilboa",
+        "long": 35.41896,
+        "latt": 32.47606
+    },
+    {
+        "name": "מעלה גמלא",
+        "english_name": "ma'ale gamla",
+        "long": 35.68295,
+        "latt": 32.88278
+    },
+    {
+        "name": "מעלה החמישה",
+        "english_name": "ma'ale hahamisha",
+        "long": 35.11168,
+        "latt": 31.81761
+    },
+    {
+        "name": "מעלה לבונה",
+        "english_name": "ma'ale levona",
+        "long": 35.24037,
+        "latt": 32.05478
+    },
+    {
+        "name": "מעלה מכמש",
+        "english_name": "ma'ale mikhmas",
+        "long": 35.30675,
+        "latt": 31.87969
+    },
+    {
+        "name": "מעלה עירון",
+        "english_name": "ma'ale iron",
+        "long": 35.15971,
+        "latt": 32.54102
+    },
+    {
+        "name": "מעלה עמוס",
+        "english_name": "ma'ale amos",
+        "long": 35.22988,
+        "latt": 31.5964
+    },
+    {
+        "name": "מעלה שומרון",
+        "english_name": "ma'ale shomeron",
+        "long": 35.07046,
+        "latt": 32.16613
+    },
+    {
+        "name": "מעלות-תרשיחא",
+        "english_name": "ma'alot-tarshiha",
+        "long": 35.28213,
+        "latt": 33.01783
+    },
+    {
+        "name": "מענית",
+        "english_name": "ma'anit",
+        "long": 35.02617,
+        "latt": 32.45804
+    },
+    {
+        "name": "מעש",
+        "english_name": "ma'as",
+        "long": 34.89087,
+        "latt": 32.06429
+    },
+    {
+        "name": "מפלסים",
+        "english_name": "mefallesim",
+        "long": 34.56314,
+        "latt": 31.50078
+    },
+    {
+        "name": "מצדות יהודה",
+        "english_name": "mezadot yehuda",
+        "long": 35.11264,
+        "latt": 31.36405
+    },
+    {
+        "name": "מצובה",
+        "english_name": "mazzuva",
+        "long": 35.15754,
+        "latt": 33.06254
+    },
+    {
+        "name": "מצליח",
+        "english_name": "mazliah",
+        "long": 34.8746,
+        "latt": 31.90583
+    },
+    {
+        "name": "מצפה",
+        "english_name": "mizpa",
+        "long": 35.50912,
+        "latt": 32.79021
+    },
+    {
+        "name": "מצפה אבי\"ב",
+        "english_name": "mizpe aviv",
+        "long": 35.20045,
+        "latt": 32.83665
+    },
+    {
+        "name": "מצפה אילן",
+        "english_name": "",
+        "long": 35.34256,
+        "latt": 32.23317
+    },
+    {
+        "name": "מצפה יריחו",
+        "english_name": "mizpe yeriho",
+        "long": 35.39403,
+        "latt": 31.81569
+    },
+    {
+        "name": "מצפה נטופה",
+        "english_name": "mizpe netofa",
+        "long": 35.38623,
+        "latt": 32.8028
+    },
+    {
+        "name": "מצפה רמון",
+        "english_name": "mizpe ramon",
+        "long": 34.8021,
+        "latt": 30.61567
+    },
+    {
+        "name": "מצפה שלם",
+        "english_name": "mizpe shalem",
+        "long": 35.40198,
+        "latt": 31.56699
+    },
+    {
+        "name": "מצר",
+        "english_name": "mezer",
+        "long": 35.04808,
+        "latt": 32.44033
+    },
+    {
+        "name": "מקווה ישראל",
+        "english_name": "miqwe yisra'el",
+        "long": 35.21873,
+        "latt": 31.78003
+    },
+    {
+        "name": "מרגליות",
+        "english_name": "margaliyyot",
+        "long": 35.5455,
+        "latt": 33.21827
+    },
+    {
+        "name": "מרום גולן",
+        "english_name": "merom golan",
+        "long": 35.78006,
+        "latt": 33.1321
+    },
+    {
+        "name": "מרחב עם",
+        "english_name": "",
+        "long": 34.82708,
+        "latt": 30.88843
+    },
+    {
+        "name": "מרחביה (מושב)",
+        "english_name": "",
+        "long": 35.31721,
+        "latt": 32.60489
+    },
+    {
+        "name": "מרחביה (קיבוץ)",
+        "english_name": "",
+        "long": 35.30819,
+        "latt": 32.60599
+    },
+    {
+        "name": "מרחביה )מושב(",
+        "english_name": "merhavya(moshav)",
+        "long": 35.31805,
+        "latt": 32.60583
+    },
+    {
+        "name": "מרחביה )קיבוץ(",
+        "english_name": "merhavya(qibbuz)",
+        "long": 35.30597,
+        "latt": 32.60692
+    },
+    {
+        "name": "מרכז שפירא",
+        "english_name": "merkaz shappira",
+        "long": 34.70823,
+        "latt": 31.69705
+    },
+    {
+        "name": "משאבי שדה",
+        "english_name": "mash'abbe sade",
+        "long": 34.78603,
+        "latt": 31.00492
+    },
+    {
+        "name": "משגב דב",
+        "english_name": "misgav dov",
+        "long": 34.73946,
+        "latt": 31.82039
+    },
+    {
+        "name": "משגב עם",
+        "english_name": "misgav am",
+        "long": 35.54906,
+        "latt": 33.24678
+    },
+    {
+        "name": "משהד",
+        "english_name": "meshhed",
+        "long": 35.32199,
+        "latt": 32.74116
+    },
+    {
+        "name": "משואה",
+        "english_name": "massu'a",
+        "long": 35.49206,
+        "latt": 32.11351
+    },
+    {
+        "name": "משואות יצחק",
+        "english_name": "massuot yizhaq",
+        "long": 34.69108,
+        "latt": 31.70288
+    },
+    {
+        "name": "משכיות",
+        "english_name": "maskiyyot",
+        "long": 35.50255,
+        "latt": 32.31726
+    },
+    {
+        "name": "משמר איילון",
+        "english_name": "mishmar ayyalon",
+        "long": 34.94477,
+        "latt": 31.87177
+    },
+    {
+        "name": "משמר דוד",
+        "english_name": "mishmar dawid",
+        "long": 34.90136,
+        "latt": 31.82285
+    },
+    {
+        "name": "משמר הירדן",
+        "english_name": "mishmar hayarden",
+        "long": 35.59987,
+        "latt": 33.00487
+    },
+    {
+        "name": "משמר הנגב",
+        "english_name": "mishmar hanegev",
+        "long": 34.71896,
+        "latt": 31.36392
+    },
+    {
+        "name": "משמר העמק",
+        "english_name": "mishmar haemeq",
+        "long": 35.14468,
+        "latt": 32.60952
+    },
+    {
+        "name": "משמר השבעה",
+        "english_name": "mishmar hashiv'a",
+        "long": 34.82431,
+        "latt": 32.00963
+    },
+    {
+        "name": "משמר השרון",
+        "english_name": "mishmar hasharon",
+        "long": 34.91981,
+        "latt": 32.35515
+    },
+    {
+        "name": "משמרות",
+        "english_name": "mishmarot",
+        "long": 34.98374,
+        "latt": 32.48722
+    },
+    {
+        "name": "משמרת",
+        "english_name": "mishmeret",
+        "long": 34.92074,
+        "latt": 32.22806
+    },
+    {
+        "name": "משען",
+        "english_name": "mash'en",
+        "long": 34.62401,
+        "latt": 31.65727
+    },
+    {
+        "name": "מתן",
+        "english_name": "mattan",
+        "long": 34.97297,
+        "latt": 32.15859
+    },
+    {
+        "name": "מתת",
+        "english_name": "mattat",
+        "long": 35.35805,
+        "latt": 33.04048
+    },
+    {
+        "name": "מתתיהו",
+        "english_name": "mattityahu",
+        "long": 35.03173,
+        "latt": 31.92903
+    },
+    {
+        "name": "נאות גולן",
+        "english_name": "ne'ot golan",
+        "long": 35.69074,
+        "latt": 32.78566
+    },
+    {
+        "name": "נאות הכיכר",
+        "english_name": "ne'ot hakikkar",
+        "long": 35.38287,
+        "latt": 30.9369
+    },
+    {
+        "name": "נאות מרדכי",
+        "english_name": "ne'ot mordekhay",
+        "long": 35.59725,
+        "latt": 33.15993
+    },
+    {
+        "name": "נאות סמדר",
+        "english_name": "shizzafon",
+        "long": 35.02721,
+        "latt": 30.04962
+    },
+    {
+        "name": "נאעורה",
+        "english_name": "na'ura",
+        "long": 35.39266,
+        "latt": 32.61084
+    },
+    {
+        "name": "נבטים",
+        "english_name": "nevatim",
+        "long": 34.88255,
+        "latt": 31.22344
+    },
+    {
+        "name": "נגבה",
+        "english_name": "negba",
+        "long": 34.68296,
+        "latt": 31.6617
+    },
+    {
+        "name": "נגוהות",
+        "english_name": "",
+        "long": 34.98298,
+        "latt": 31.49342
+    },
+    {
+        "name": "נהורה",
+        "english_name": "nehora",
+        "long": 34.70519,
+        "latt": 31.62283
+    },
+    {
+        "name": "נהלל",
+        "english_name": "nahalal",
+        "long": 35.19345,
+        "latt": 32.69018
+    },
+    {
+        "name": "נהריה",
+        "english_name": "nahariyya",
+        "long": 35.09869,
+        "latt": 33.00545
+    },
+    {
+        "name": "נהרייה",
+        "english_name": "",
+        "long": 35.09492,
+        "latt": 33.01222
+    },
+    {
+        "name": "נוב",
+        "english_name": "nov",
+        "long": 35.78325,
+        "latt": 32.83244
+    },
+    {
+        "name": "נוגה",
+        "english_name": "nogah",
+        "long": 34.69387,
+        "latt": 31.62371
+    },
+    {
+        "name": "נווה",
+        "english_name": "nave",
+        "long": 35.01763,
+        "latt": 32.78907
+    },
+    {
+        "name": "נווה אבות",
+        "english_name": "newe avot",
+        "long": 34.77174,
+        "latt": 31.80674
+    },
+    {
+        "name": "נווה אור",
+        "english_name": "newe ur",
+        "long": 35.55285,
+        "latt": 32.58795
+    },
+    {
+        "name": "נווה אטי\"ב",
+        "english_name": "newe ativ",
+        "long": 35.74194,
+        "latt": 33.26198
+    },
+    {
+        "name": "נווה אילן",
+        "english_name": "newe ilan",
+        "long": 35.08131,
+        "latt": 31.80786
+    },
+    {
+        "name": "נווה איתן",
+        "english_name": "newe etan",
+        "long": 35.53224,
+        "latt": 32.49186
+    },
+    {
+        "name": "נווה אפרים",
+        "english_name": "",
+        "long": 34.874,
+        "latt": 32.02528
+    },
+    {
+        "name": "נווה דניאל",
+        "english_name": "newe daniyyel",
+        "long": 35.14298,
+        "latt": 31.67841
+    },
+    {
+        "name": "נווה זוהר",
+        "english_name": "newe zohar",
+        "long": 35.36437,
+        "latt": 31.1525
+    },
+    {
+        "name": "נווה זיו",
+        "english_name": "",
+        "long": 35.18233,
+        "latt": 33.0271
+    },
+    {
+        "name": "נווה חריף",
+        "english_name": "newe harif",
+        "long": 35.03641,
+        "latt": 30.03801
+    },
+    {
+        "name": "נווה ים",
+        "english_name": "newe yam",
+        "long": 34.93091,
+        "latt": 32.67952
+    },
+    {
+        "name": "נווה ימין",
+        "english_name": "newe yamin",
+        "long": 34.93964,
+        "latt": 32.17172
+    },
+    {
+        "name": "נווה ירק",
+        "english_name": "newe yaraq",
+        "long": 34.92442,
+        "latt": 32.13499
+    },
+    {
+        "name": "נווה מבטח",
+        "english_name": "newe mivtah",
+        "long": 34.74047,
+        "latt": 31.80547
+    },
+    {
+        "name": "נווה מיכאל",
+        "english_name": "newe mikha'el",
+        "long": 35.00576,
+        "latt": 31.67308
+    },
+    {
+        "name": "נווה שלום",
+        "english_name": "newe shalom",
+        "long": 34.97817,
+        "latt": 31.81772
+    },
+    {
+        "name": "נועם",
+        "english_name": "no'am",
+        "long": 34.78833,
+        "latt": 31.56792
+    },
+    {
+        "name": "נוף איילון",
+        "english_name": "",
+        "long": 34.98962,
+        "latt": 31.8696
+    },
+    {
+        "name": "נופים",
+        "english_name": "nofim",
+        "long": 35.10223,
+        "latt": 32.15473
+    },
+    {
+        "name": "נופית",
+        "english_name": "nofit",
+        "long": 35.14621,
+        "latt": 32.75916
+    },
+    {
+        "name": "נופך",
+        "english_name": "nofekh",
+        "long": 34.92061,
+        "latt": 32.0434
+    },
+    {
+        "name": "נוקדים",
+        "english_name": "noqedim",
+        "long": 35.24885,
+        "latt": 31.64764
+    },
+    {
+        "name": "נורדיה",
+        "english_name": "nordiyya",
+        "long": 34.89767,
+        "latt": 32.31401
+    },
+    {
+        "name": "נורדייה",
+        "english_name": "",
+        "long": 34.89722,
+        "latt": 32.31282
+    },
+    {
+        "name": "נורית",
+        "english_name": "nurit",
+        "long": 35.35662,
+        "latt": 32.54171
+    },
+    {
+        "name": "נח\"ל גבעות",
+        "english_name": "",
+        "long": 35.10123,
+        "latt": 31.67929
+    },
+    {
+        "name": "נחושה",
+        "english_name": "nehusha",
+        "long": 34.9551,
+        "latt": 31.62991
+    },
+    {
+        "name": "נחל אלישע",
+        "english_name": "",
+        "long": 35.4789,
+        "latt": 31.9104
+    },
+    {
+        "name": "נחל גנת",
+        "english_name": "",
+        "long": 35.27366,
+        "latt": 32.47465
+    },
+    {
+        "name": "נחל דורן",
+        "english_name": "",
+        "long": 34.99223,
+        "latt": 31.52194
+    },
+    {
+        "name": "נחל נמרוד",
+        "english_name": "",
+        "long": 35.75143,
+        "latt": 33.2454
+    },
+    {
+        "name": "נחל עוז",
+        "english_name": "nahal oz",
+        "long": 34.49769,
+        "latt": 31.47237
+    },
+    {
+        "name": "נחלה",
+        "english_name": "nahala",
+        "long": 34.79487,
+        "latt": 31.65888
+    },
+    {
+        "name": "נחליאל",
+        "english_name": "nahali'el",
+        "long": 35.14021,
+        "latt": 31.97397
+    },
+    {
+        "name": "נחלים",
+        "english_name": "nehalim",
+        "long": 34.9119,
+        "latt": 32.05824
+    },
+    {
+        "name": "נחם",
+        "english_name": "naham",
+        "long": 35.00302,
+        "latt": 31.76621
+    },
+    {
+        "name": "נחף",
+        "english_name": "nahef",
+        "long": 35.31856,
+        "latt": 32.93483
+    },
+    {
+        "name": "נחשולים",
+        "english_name": "nahsholim",
+        "long": 34.92068,
+        "latt": 32.61353
+    },
+    {
+        "name": "נחשון",
+        "english_name": "nahshon",
+        "long": 34.95444,
+        "latt": 31.83107
+    },
+    {
+        "name": "נחשונים",
+        "english_name": "nahshonim",
+        "long": 34.94846,
+        "latt": 32.06116
+    },
+    {
+        "name": "נטועה",
+        "english_name": "netu'a",
+        "long": 35.32747,
+        "latt": 33.06468
+    },
+    {
+        "name": "נטור",
+        "english_name": "natur",
+        "long": 35.75348,
+        "latt": 32.85301
+    },
+    {
+        "name": "נטע",
+        "english_name": "neta",
+        "long": 34.92784,
+        "latt": 31.47753
+    },
+    {
+        "name": "נטעים",
+        "english_name": "neta'im",
+        "long": 34.77277,
+        "latt": 31.94163
+    },
+    {
+        "name": "נטף",
+        "english_name": "nataf",
+        "long": 35.06777,
+        "latt": 31.83207
+    },
+    {
+        "name": "ניין",
+        "english_name": "nein",
+        "long": 35.34903,
+        "latt": 32.63084
+    },
+    {
+        "name": "ניל\"י",
+        "english_name": "nili",
+        "long": 34.8237,
+        "latt": 32.09374
+    },
+    {
+        "name": "ניסנית",
+        "english_name": "",
+        "long": 34.53137,
+        "latt": 31.56167
+    },
+    {
+        "name": "ניצן",
+        "english_name": "nizzan",
+        "long": 34.62966,
+        "latt": 31.74019
+    },
+    {
+        "name": "ניצן ב'",
+        "english_name": "nizzan b",
+        "long": 34.63859,
+        "latt": 31.73764
+    },
+    {
+        "name": "ניצנה )קהילת חינוך(",
+        "english_name": "nizzana (qehilat hin",
+        "long": 34.42102,
+        "latt": 30.88543
+    },
+    {
+        "name": "ניצני סיני",
+        "english_name": "nizzane sinay",
+        "long": 34.39765,
+        "latt": 30.90434
+    },
+    {
+        "name": "ניצני עוז",
+        "english_name": "nizzane oz",
+        "long": 35.00419,
+        "latt": 32.30549
+    },
+    {
+        "name": "ניצנים",
+        "english_name": "nizzanim",
+        "long": 34.63555,
+        "latt": 31.71538
+    },
+    {
+        "name": "ניר אליהו",
+        "english_name": "nir eliyyahu",
+        "long": 34.94901,
+        "latt": 32.19701
+    },
+    {
+        "name": "ניר בנים",
+        "english_name": "nir banim",
+        "long": 34.75513,
+        "latt": 31.6716
+    },
+    {
+        "name": "ניר גלים",
+        "english_name": "nir gallim",
+        "long": 34.67987,
+        "latt": 31.82274
+    },
+    {
+        "name": "ניר דוד (תל עמל)",
+        "english_name": "",
+        "long": 35.45589,
+        "latt": 32.50463
+    },
+    {
+        "name": "ניר דוד )תל עמל(",
+        "english_name": "nir dawid (tel amal)",
+        "long": 35.45734,
+        "latt": 32.50311
+    },
+    {
+        "name": "ניר ח\"ן",
+        "english_name": "nir hen",
+        "long": 34.71466,
+        "latt": 31.60931
+    },
+    {
+        "name": "ניר יפה",
+        "english_name": "nir yafe",
+        "long": 35.24652,
+        "latt": 32.57017
+    },
+    {
+        "name": "ניר יצחק",
+        "english_name": "nir yizhaq",
+        "long": 34.35756,
+        "latt": 31.23718
+    },
+    {
+        "name": "ניר ישראל",
+        "english_name": "nir yisra'el",
+        "long": 34.63611,
+        "latt": 31.68747
+    },
+    {
+        "name": "ניר משה",
+        "english_name": "nir moshe",
+        "long": 34.63145,
+        "latt": 31.47741
+    },
+    {
+        "name": "ניר עוז",
+        "english_name": "nir oz",
+        "long": 34.40199,
+        "latt": 31.31234
+    },
+    {
+        "name": "ניר עם",
+        "english_name": "nir am",
+        "long": 34.58567,
+        "latt": 31.51828
+    },
+    {
+        "name": "ניר עציון",
+        "english_name": "nir ezyon",
+        "long": 34.99163,
+        "latt": 32.7008
+    },
+    {
+        "name": "ניר עקיבא",
+        "english_name": "nir aqiva",
+        "long": 34.64671,
+        "latt": 31.46993
+    },
+    {
+        "name": "ניר צבי",
+        "english_name": "nir zevi",
+        "long": 34.86304,
+        "latt": 31.95278
+    },
+    {
+        "name": "נירים",
+        "english_name": "nirim",
+        "long": 34.39614,
+        "latt": 31.33459
+    },
+    {
+        "name": "נירית",
+        "english_name": "nirit",
+        "long": 34.98496,
+        "latt": 32.1465
+    },
+    {
+        "name": "נירן",
+        "english_name": "niran",
+        "long": 35.45855,
+        "latt": 31.96843
+    },
+    {
+        "name": "נמרוד",
+        "english_name": "nimrod",
+        "long": 35.75172,
+        "latt": 33.24532
+    },
+    {
+        "name": "נס הרים",
+        "english_name": "nes harim",
+        "long": 35.05491,
+        "latt": 31.74493
+    },
+    {
+        "name": "נס עמים",
+        "english_name": "nes ammim",
+        "long": 35.12094,
+        "latt": 32.9667
+    },
+    {
+        "name": "נס ציונה",
+        "english_name": "nes ziyyona",
+        "long": 34.80224,
+        "latt": 31.92943
+    },
+    {
+        "name": "נעורים",
+        "english_name": "ne'urim",
+        "long": 34.86165,
+        "latt": 32.37214
+    },
+    {
+        "name": "נעלה",
+        "english_name": "na'ale",
+        "long": 35.06428,
+        "latt": 31.9629
+    },
+    {
+        "name": "נעמ\"ה",
+        "english_name": "naama",
+        "long": 34.79093,
+        "latt": 32.05318
+    },
+    {
+        "name": "נעמי",
+        "english_name": "",
+        "long": 35.46644,
+        "latt": 31.90999
+    },
+    {
+        "name": "נען",
+        "english_name": "na'an",
+        "long": 34.85519,
+        "latt": 31.88343
+    },
+    {
+        "name": "נצאצרה",
+        "english_name": "nasasra",
+        "long": 34.74123,
+        "latt": 31.39724
+    },
+    {
+        "name": "נצר חזני",
+        "english_name": "",
+        "long": 34.86314,
+        "latt": 31.82147
+    },
+    {
+        "name": "נצר סרני",
+        "english_name": "nezer sereni",
+        "long": 34.82466,
+        "latt": 31.92306
+    },
+    {
+        "name": "נצרת",
+        "english_name": "nazareth",
+        "long": 35.29304,
+        "latt": 32.70021
+    },
+    {
+        "name": "נצרת עילית",
+        "english_name": "nazerat illit",
+        "long": 35.32273,
+        "latt": 32.71451
+    },
+    {
+        "name": "נשר",
+        "english_name": "nesher",
+        "long": 35.04361,
+        "latt": 32.77187
+    },
+    {
+        "name": "נתיב הגדוד",
+        "english_name": "netiv hagedud",
+        "long": 35.44554,
+        "latt": 31.98827
+    },
+    {
+        "name": "נתיב הל\"ה",
+        "english_name": "netiv halamed-he",
+        "long": 34.98192,
+        "latt": 31.68816
+    },
+    {
+        "name": "נתיב העשרה",
+        "english_name": "netiv haasara",
+        "long": 34.54103,
+        "latt": 31.56748
+    },
+    {
+        "name": "נתיב השיירה",
+        "english_name": "netiv hashayyara",
+        "long": 35.13604,
+        "latt": 32.99384
+    },
+    {
+        "name": "נתיבות",
+        "english_name": "netivot",
+        "long": 34.58833,
+        "latt": 31.42152
+    },
+    {
+        "name": "נתניה",
+        "english_name": "netanya",
+        "long": 34.85592,
+        "latt": 32.31277
+    },
+    {
+        "name": "סאג'ור",
+        "english_name": "sajur",
+        "long": 35.34467,
+        "latt": 32.94123
+    },
+    {
+        "name": "סאלם",
+        "english_name": "",
+        "long": 35.19865,
+        "latt": 32.54332
+    },
+    {
+        "name": "סאסא",
+        "english_name": "sasa",
+        "long": 35.43474,
+        "latt": 33.06106
+    },
+    {
+        "name": "סביון",
+        "english_name": "savyon",
+        "long": 34.87798,
+        "latt": 32.04667
+    },
+    {
+        "name": "סגולה",
+        "english_name": "segula",
+        "long": 34.78007,
+        "latt": 31.67052
+    },
+    {
+        "name": "סואעד (חמרייה)",
+        "english_name": "",
+        "long": 35.16771,
+        "latt": 32.76732
+    },
+    {
+        "name": "סואעד )חמרייה(",
+        "english_name": "sawa'id(hamriyye)",
+        "long": 35.16756,
+        "latt": 32.76716
+    },
+    {
+        "name": "סואעד )כמאנה(",
+        "english_name": "sawa'id (kamane)",
+        "long": 35.16756,
+        "latt": 32.76716
+    },
+    {
+        "name": "סולם",
+        "english_name": "sulam",
+        "long": 35.33469,
+        "latt": 32.60664
+    },
+    {
+        "name": "סוסיה",
+        "english_name": "suseya",
+        "long": 35.11428,
+        "latt": 31.39179
+    },
+    {
+        "name": "סופה",
+        "english_name": "sufa",
+        "long": 34.34222,
+        "latt": 31.23718
+    },
+    {
+        "name": "סח'נין",
+        "english_name": "sakhnin",
+        "long": 35.30063,
+        "latt": 32.86527
+    },
+    {
+        "name": "סייד",
+        "english_name": "sayyid",
+        "long": 34.91182,
+        "latt": 31.28601
+    },
+    {
+        "name": "סלמה",
+        "english_name": "sallama",
+        "long": 35.36224,
+        "latt": 32.89403
+    },
+    {
+        "name": "סלעית",
+        "english_name": "sal'it",
+        "long": 35.05002,
+        "latt": 32.24266
+    },
+    {
+        "name": "סמר",
+        "english_name": "samar",
+        "long": 35.02283,
+        "latt": 29.83173
+    },
+    {
+        "name": "סנסנה",
+        "english_name": "",
+        "long": 34.90311,
+        "latt": 31.36296
+    },
+    {
+        "name": "סעד",
+        "english_name": "sa'ad",
+        "long": 34.53532,
+        "latt": 31.47041
+    },
+    {
+        "name": "סער",
+        "english_name": "sa'ar",
+        "long": 35.1096,
+        "latt": 33.02882
+    },
+    {
+        "name": "ספיר",
+        "english_name": "sappir",
+        "long": 35.18821,
+        "latt": 30.60773
+    },
+    {
+        "name": "סתריה",
+        "english_name": "sitriyya",
+        "long": 34.84616,
+        "latt": 31.88814
+    },
+    {
+        "name": "סתרייה",
+        "english_name": "",
+        "long": 34.84506,
+        "latt": 31.89073
+    },
+    {
+        "name": "ע'ג'ר",
+        "english_name": "ghajar",
+        "long": 35.62326,
+        "latt": 33.27064
+    },
+    {
+        "name": "עבדון",
+        "english_name": "avdon",
+        "long": 35.18239,
+        "latt": 33.04941
+    },
+    {
+        "name": "עברון",
+        "english_name": "evron",
+        "long": 35.10039,
+        "latt": 32.98901
+    },
+    {
+        "name": "עגור",
+        "english_name": "agur",
+        "long": 34.91279,
+        "latt": 31.69688
+    },
+    {
+        "name": "עדי",
+        "english_name": "adi",
+        "long": 35.17371,
+        "latt": 32.78267
+    },
+    {
+        "name": "עדנים",
+        "english_name": "adanim",
+        "long": 34.90903,
+        "latt": 32.13935
+    },
+    {
+        "name": "עוזה",
+        "english_name": "uza",
+        "long": 34.76421,
+        "latt": 31.59268
+    },
+    {
+        "name": "עוזייר",
+        "english_name": "uzeir",
+        "long": 35.32463,
+        "latt": 32.79017
+    },
+    {
+        "name": "עולש",
+        "english_name": "olesh",
+        "long": 34.98633,
+        "latt": 32.33254
+    },
+    {
+        "name": "עומר",
+        "english_name": "omer",
+        "long": 34.84592,
+        "latt": 31.26851
+    },
+    {
+        "name": "עופר",
+        "english_name": "ofer",
+        "long": 34.98165,
+        "latt": 32.62247
+    },
+    {
+        "name": "עופרה",
+        "english_name": "ofra",
+        "long": 35.2599,
+        "latt": 31.9558
+    },
+    {
+        "name": "עוצם",
+        "english_name": "ozem",
+        "long": 34.7044,
+        "latt": 31.63699
+    },
+    {
+        "name": "עזוז",
+        "english_name": "ezuz",
+        "long": 34.47219,
+        "latt": 30.79267
+    },
+    {
+        "name": "עזר",
+        "english_name": "ezer",
+        "long": 34.67082,
+        "latt": 31.73686
+    },
+    {
+        "name": "עזריאל",
+        "english_name": "azri'el",
+        "long": 34.97074,
+        "latt": 32.26184
+    },
+    {
+        "name": "עזריה",
+        "english_name": "azarya",
+        "long": 34.91021,
+        "latt": 31.88936
+    },
+    {
+        "name": "עזריקם",
+        "english_name": "azriqam",
+        "long": 34.69725,
+        "latt": 31.75129
+    },
+    {
+        "name": "עטרת",
+        "english_name": "ateret",
+        "long": 35.17646,
+        "latt": 32.00035
+    },
+    {
+        "name": "עידן",
+        "english_name": "iddan",
+        "long": 35.29871,
+        "latt": 30.8037
+    },
+    {
+        "name": "עיילבון",
+        "english_name": "eilabun",
+        "long": 35.40292,
+        "latt": 32.83526
+    },
+    {
+        "name": "עיינות",
+        "english_name": "ayanot",
+        "long": 34.76834,
+        "latt": 31.91715
+    },
+    {
+        "name": "עילוט",
+        "english_name": "ilut",
+        "long": 35.2619,
+        "latt": 32.71817
+    },
+    {
+        "name": "עין א-סהלה",
+        "english_name": "",
+        "long": 35.11685,
+        "latt": 32.49052
+    },
+    {
+        "name": "עין איילה",
+        "english_name": "en ayyala",
+        "long": 34.94758,
+        "latt": 32.62943
+    },
+    {
+        "name": "עין אל-אסד",
+        "english_name": "ein al-asad",
+        "long": 35.39941,
+        "latt": 32.94035
+    },
+    {
+        "name": "עין גב",
+        "english_name": "en gev",
+        "long": 35.64095,
+        "latt": 32.77789
+    },
+    {
+        "name": "עין גדי",
+        "english_name": "en gedi",
+        "long": 35.39055,
+        "latt": 31.45774
+    },
+    {
+        "name": "עין דור",
+        "english_name": "en dor",
+        "long": 35.37735,
+        "latt": 32.64089
+    },
+    {
+        "name": "עין הבשור",
+        "english_name": "en habesor",
+        "long": 34.44937,
+        "latt": 31.28145
+    },
+    {
+        "name": "עין הוד",
+        "english_name": "en hod",
+        "long": 34.98265,
+        "latt": 32.69996
+    },
+    {
+        "name": "עין החורש",
+        "english_name": "en hahoresh",
+        "long": 34.93999,
+        "latt": 32.38607
+    },
+    {
+        "name": "עין המפרץ",
+        "english_name": "en hamifraz",
+        "long": 35.10337,
+        "latt": 32.90639
+    },
+    {
+        "name": "עין הנצי\"ב",
+        "english_name": "en hanaziv",
+        "long": 35.50238,
+        "latt": 32.46984
+    },
+    {
+        "name": "עין העמק",
+        "english_name": "en haemeq",
+        "long": 35.08524,
+        "latt": 32.62945
+    },
+    {
+        "name": "עין השופט",
+        "english_name": "en hashofet",
+        "long": 35.10045,
+        "latt": 32.59566
+    },
+    {
+        "name": "עין השלושה",
+        "english_name": "en hashelosha",
+        "long": 34.40149,
+        "latt": 31.35152
+    },
+    {
+        "name": "עין ורד",
+        "english_name": "en wered",
+        "long": 34.93155,
+        "latt": 32.26434
+    },
+    {
+        "name": "עין זיוון",
+        "english_name": "en ziwan",
+        "long": 35.79503,
+        "latt": 33.09549
+    },
+    {
+        "name": "עין חוד",
+        "english_name": "",
+        "long": 34.99986,
+        "latt": 32.69159
+    },
+    {
+        "name": "עין חצבה",
+        "english_name": "en hazeva",
+        "long": 35.25192,
+        "latt": 30.79912
+    },
+    {
+        "name": "עין חרוד (איחוד)",
+        "english_name": "",
+        "long": 35.39051,
+        "latt": 32.56495
+    },
+    {
+        "name": "עין חרוד (מאוחד)",
+        "english_name": "",
+        "long": 35.39044,
+        "latt": 32.55748
+    },
+    {
+        "name": "עין חרוד )איחוד(",
+        "english_name": "en harod (ihud)",
+        "long": 35.38712,
+        "latt": 32.56491
+    },
+    {
+        "name": "עין חרוד )מאוחד(",
+        "english_name": "en harod(me'uhad)",
+        "long": 35.38801,
+        "latt": 32.55775
+    },
+    {
+        "name": "עין יהב",
+        "english_name": "en yahav",
+        "long": 35.23909,
+        "latt": 30.6605
+    },
+    {
+        "name": "עין יעקב",
+        "english_name": "en ya'aqov",
+        "long": 35.2275,
+        "latt": 33.01155
+    },
+    {
+        "name": "עין כרם-בי\"ס חקלאי",
+        "english_name": "en karem-b.s.haqla'i",
+        "long": 35.16113,
+        "latt": 31.7639
+    },
+    {
+        "name": "עין כרמל",
+        "english_name": "en karmel",
+        "long": 34.95579,
+        "latt": 32.67707
+    },
+    {
+        "name": "עין מאהל",
+        "english_name": "ein mahel",
+        "long": 35.35266,
+        "latt": 32.72205
+    },
+    {
+        "name": "עין נקובא",
+        "english_name": "ein naqquba",
+        "long": 35.12167,
+        "latt": 31.79437
+    },
+    {
+        "name": "עין עירון",
+        "english_name": "en iron",
+        "long": 35.01203,
+        "latt": 32.48283
+    },
+    {
+        "name": "עין צורים",
+        "english_name": "en zurim",
+        "long": 34.71861,
+        "latt": 31.69538
+    },
+    {
+        "name": "עין קנייא",
+        "english_name": "ein qiniyye",
+        "long": 35.73135,
+        "latt": 33.23643
+    },
+    {
+        "name": "עין ראפה",
+        "english_name": "ein rafa",
+        "long": 35.11365,
+        "latt": 31.79034
+    },
+    {
+        "name": "עין שמר",
+        "english_name": "en shemer",
+        "long": 35.00934,
+        "latt": 32.45673
+    },
+    {
+        "name": "עין שריד",
+        "english_name": "en sarid",
+        "long": 34.93595,
+        "latt": 32.27373
+    },
+    {
+        "name": "עין תמר",
+        "english_name": "en tamar",
+        "long": 35.37389,
+        "latt": 30.94409
+    },
+    {
+        "name": "עינת",
+        "english_name": "enat",
+        "long": 34.93907,
+        "latt": 32.08286
+    },
+    {
+        "name": "עיר אובות",
+        "english_name": "ir ovot",
+        "long": 35.24645,
+        "latt": 30.80963
+    },
+    {
+        "name": "עיר כרמל",
+        "english_name": "",
+        "long": 35.05286,
+        "latt": 32.69333
+    },
+    {
+        "name": "עכו",
+        "english_name": "akko",
+        "long": 35.08949,
+        "latt": 32.92749
+    },
+    {
+        "name": "עלומים",
+        "english_name": "alumim",
+        "long": 34.51336,
+        "latt": 31.45178
+    },
+    {
+        "name": "עלי",
+        "english_name": "eli",
+        "long": 35.27258,
+        "latt": 32.07459
+    },
+    {
+        "name": "עלי זהב",
+        "english_name": "ale zahav",
+        "long": 35.06585,
+        "latt": 32.07131
+    },
+    {
+        "name": "עלמה",
+        "english_name": "alma",
+        "long": 35.49995,
+        "latt": 33.05186
+    },
+    {
+        "name": "עלמון",
+        "english_name": "almon",
+        "long": 35.29398,
+        "latt": 31.82886
+    },
+    {
+        "name": "עמוקה",
+        "english_name": "amuqqa",
+        "long": 35.52477,
+        "latt": 32.99763
+    },
+    {
+        "name": "עמינדב",
+        "english_name": "amminadav",
+        "long": 35.14192,
+        "latt": 31.75156
+    },
+    {
+        "name": "עמיעד",
+        "english_name": "ammi'ad",
+        "long": 35.54099,
+        "latt": 32.92711
+    },
+    {
+        "name": "עמיעוז",
+        "english_name": "ammi'oz",
+        "long": 34.41347,
+        "latt": 31.24854
+    },
+    {
+        "name": "עמיקם",
+        "english_name": "ammiqam",
+        "long": 35.02091,
+        "latt": 32.56349
+    },
+    {
+        "name": "עמיר",
+        "english_name": "amir",
+        "long": 35.62118,
+        "latt": 33.17753
+    },
+    {
+        "name": "עמנואל",
+        "english_name": "immanu'el",
+        "long": 35.13951,
+        "latt": 32.16178
+    },
+    {
+        "name": "עמקה",
+        "english_name": "amqa",
+        "long": 35.16255,
+        "latt": 32.97898
+    },
+    {
+        "name": "ענב",
+        "english_name": "enav",
+        "long": 35.12735,
+        "latt": 32.28605
+    },
+    {
+        "name": "עספיא",
+        "english_name": "isifya",
+        "long": 35.0592,
+        "latt": 32.72789
+    },
+    {
+        "name": "עפולה",
+        "english_name": "afula",
+        "long": 35.30544,
+        "latt": 32.61452
+    },
+    {
+        "name": "עפרה",
+        "english_name": "",
+        "long": 35.26173,
+        "latt": 31.95303
+    },
+    {
+        "name": "עפרים",
+        "english_name": "",
+        "long": 35.04476,
+        "latt": 32.01859
+    },
+    {
+        "name": "עץ אפרים",
+        "english_name": "ez efrayim",
+        "long": 35.04642,
+        "latt": 32.11947
+    },
+    {
+        "name": "עצמון שגב",
+        "english_name": "atsmon-segev",
+        "long": 35.25274,
+        "latt": 32.86597
+    },
+    {
+        "name": "עראבה",
+        "english_name": "arrabe",
+        "long": 35.33879,
+        "latt": 32.85113
+    },
+    {
+        "name": "עראמשה",
+        "english_name": "aramsha",
+        "long": 35.22118,
+        "latt": 33.09749
+    },
+    {
+        "name": "ערב אל נעים",
+        "english_name": "arrab al naim",
+        "long": 35.28961,
+        "latt": 32.88698
+    },
+    {
+        "name": "ערד",
+        "english_name": "arad",
+        "long": 35.21284,
+        "latt": 31.2561
+    },
+    {
+        "name": "ערוגות",
+        "english_name": "arugot",
+        "long": 34.77215,
+        "latt": 31.7342
+    },
+    {
+        "name": "ערערה",
+        "english_name": "ar'ara",
+        "long": 35.09178,
+        "latt": 32.50084
+    },
+    {
+        "name": "ערערה-בנגב",
+        "english_name": "ar'ara-banegev",
+        "long": 35.02227,
+        "latt": 31.15536
+    },
+    {
+        "name": "עשרת",
+        "english_name": "aseret",
+        "long": 34.74729,
+        "latt": 31.82461
+    },
+    {
+        "name": "עתלית",
+        "english_name": "atlit",
+        "long": 34.94474,
+        "latt": 32.69634
+    },
+    {
+        "name": "עתניאל",
+        "english_name": "otni'el",
+        "long": 35.03021,
+        "latt": 31.43919
+    },
+    {
+        "name": "פארן",
+        "english_name": "paran",
+        "long": 35.15341,
+        "latt": 30.36575
+    },
+    {
+        "name": "פדואל",
+        "english_name": "pedu'el",
+        "long": 35.05198,
+        "latt": 32.0618
+    },
+    {
+        "name": "פדויים",
+        "english_name": "peduyim",
+        "long": 34.61185,
+        "latt": 31.32695
+    },
+    {
+        "name": "פדיה",
+        "english_name": "pedaya",
+        "long": 34.88154,
+        "latt": 31.85782
+    },
+    {
+        "name": "פוריה - כפר עבודה",
+        "english_name": "poriyya-kefar avoda",
+        "long": 35.54492,
+        "latt": 32.72086
+    },
+    {
+        "name": "פוריה - נווה עובד",
+        "english_name": "poriyya-newe oved",
+        "long": 35.53668,
+        "latt": 32.74384
+    },
+    {
+        "name": "פוריה עילית",
+        "english_name": "poriyya illit",
+        "long": 35.54655,
+        "latt": 32.73128
+    },
+    {
+        "name": "פוריידיס",
+        "english_name": "fureidis",
+        "long": 34.95285,
+        "latt": 32.59795
+    },
+    {
+        "name": "פורייה - כפר עבודה",
+        "english_name": "",
+        "long": 35.54587,
+        "latt": 32.7171
+    },
+    {
+        "name": "פורייה - נווה עובד",
+        "english_name": "",
+        "long": 35.5376,
+        "latt": 32.74329
+    },
+    {
+        "name": "פורייה עילית",
+        "english_name": "",
+        "long": 35.54656,
+        "latt": 32.73107
+    },
+    {
+        "name": "פורת",
+        "english_name": "porat",
+        "long": 34.95136,
+        "latt": 32.27709
+    },
+    {
+        "name": "פטיש",
+        "english_name": "pattish",
+        "long": 34.55942,
+        "latt": 31.32689
+    },
+    {
+        "name": "פלך",
+        "english_name": "pelekh",
+        "long": 35.23248,
+        "latt": 32.93312
+    },
+    {
+        "name": "פלמחים",
+        "english_name": "palmahim",
+        "long": 34.70734,
+        "latt": 31.93195
+    },
+    {
+        "name": "פני חבר",
+        "english_name": "pene hever",
+        "long": 35.16545,
+        "latt": 31.48583
+    },
+    {
+        "name": "פסגות",
+        "english_name": "pesagot",
+        "long": 35.22478,
+        "latt": 31.89881
+    },
+    {
+        "name": "פסוטה",
+        "english_name": "fassuta",
+        "long": 35.31019,
+        "latt": 33.04807
+    },
+    {
+        "name": "פעמי תש\"ז",
+        "english_name": "pa'ame tashaz",
+        "long": 34.69328,
+        "latt": 31.44029
+    },
+    {
+        "name": "פצאל",
+        "english_name": "peza'el",
+        "long": 35.44361,
+        "latt": 32.04474
+    },
+    {
+        "name": "פקיעין (בוקייעה)",
+        "english_name": "",
+        "long": 35.32537,
+        "latt": 32.9786
+    },
+    {
+        "name": "פקיעין )בוקייעה(",
+        "english_name": "peqi'in (buqei'a)",
+        "long": 35.33382,
+        "latt": 32.97699
+    },
+    {
+        "name": "פקיעין חדשה",
+        "english_name": "peqi'in hadasha",
+        "long": 35.32285,
+        "latt": 32.98355
+    },
+    {
+        "name": "פרדס חנה-כרכור",
+        "english_name": "pardes hanna-karkur",
+        "long": 34.96406,
+        "latt": 32.47302
+    },
+    {
+        "name": "פרדסיה",
+        "english_name": "pardesiyya",
+        "long": 34.9022,
+        "latt": 32.30449
+    },
+    {
+        "name": "פרדסייה",
+        "english_name": "",
+        "long": 34.90998,
+        "latt": 32.30585
+    },
+    {
+        "name": "פרוד",
+        "english_name": "parod",
+        "long": 35.43377,
+        "latt": 32.92741
+    },
+    {
+        "name": "פרזון",
+        "english_name": "perazon",
+        "long": 35.31039,
+        "latt": 32.5457
+    },
+    {
+        "name": "פרי גן",
+        "english_name": "peri gan",
+        "long": 34.35587,
+        "latt": 31.22163
+    },
+    {
+        "name": "פתח תקווה",
+        "english_name": "petah tiqwa",
+        "long": 34.88341,
+        "latt": 32.08775
+    },
+    {
+        "name": "פתחיה",
+        "english_name": "petahya",
+        "long": 34.88706,
+        "latt": 31.86689
+    },
+    {
+        "name": "צאלים",
+        "english_name": "ze'elim",
+        "long": 34.53483,
+        "latt": 31.2036
+    },
+    {
+        "name": "צביה",
+        "english_name": "zviyya",
+        "long": 35.33102,
+        "latt": 32.88986
+    },
+    {
+        "name": "צבעון",
+        "english_name": "ziv'on",
+        "long": 35.41752,
+        "latt": 33.02598
+    },
+    {
+        "name": "צובה",
+        "english_name": "zova",
+        "long": 35.11973,
+        "latt": 31.78423
+    },
+    {
+        "name": "צוחר",
+        "english_name": "zohar",
+        "long": 34.42359,
+        "latt": 31.23744
+    },
+    {
+        "name": "צופיה",
+        "english_name": "zofiyya",
+        "long": 35.15956,
+        "latt": 32.22128
+    },
+    {
+        "name": "צופים",
+        "english_name": "zufin",
+        "long": 35.00909,
+        "latt": 32.19807
+    },
+    {
+        "name": "צופית",
+        "english_name": "zofit",
+        "long": 34.92253,
+        "latt": 32.19238
+    },
+    {
+        "name": "צופר",
+        "english_name": "zofar",
+        "long": 35.18106,
+        "latt": 30.55972
+    },
+    {
+        "name": "צוקי ים",
+        "english_name": "shoshannat haamaqim(",
+        "long": 34.85873,
+        "latt": 32.36134
+    },
+    {
+        "name": "צוקים",
+        "english_name": "mahane bildad",
+        "long": 35.21079,
+        "latt": 31.7858
+    },
+    {
+        "name": "צור הדסה",
+        "english_name": "zur hadassa",
+        "long": 35.09503,
+        "latt": 31.71658
+    },
+    {
+        "name": "צור יצחק",
+        "english_name": "zur yizhaq",
+        "long": 34.99362,
+        "latt": 32.24016
+    },
+    {
+        "name": "צור משה",
+        "english_name": "zur moshe",
+        "long": 34.91495,
+        "latt": 32.29751
+    },
+    {
+        "name": "צור נתן",
+        "english_name": "zur natan",
+        "long": 35.00269,
+        "latt": 32.24042
+    },
+    {
+        "name": "צוריאל",
+        "english_name": "zuri'el",
+        "long": 35.31209,
+        "latt": 33.00853
+    },
+    {
+        "name": "צורית",
+        "english_name": "zurit",
+        "long": 35.25204,
+        "latt": 32.90286
+    },
+    {
+        "name": "צורן",
+        "english_name": "",
+        "long": 34.94475,
+        "latt": 32.28776
+    },
+    {
+        "name": "צורן-קדימה",
+        "english_name": "",
+        "long": 34.91105,
+        "latt": 32.27948
+    },
+    {
+        "name": "ציפורי",
+        "english_name": "zippori",
+        "long": 35.27852,
+        "latt": 32.74738
+    },
+    {
+        "name": "צלפון",
+        "english_name": "zelafon",
+        "long": 34.93147,
+        "latt": 31.80464
+    },
+    {
+        "name": "צנדלה",
+        "english_name": "sandala",
+        "long": 35.32249,
+        "latt": 32.52285
+    },
+    {
+        "name": "צפריה",
+        "english_name": "zafriyya",
+        "long": 34.85559,
+        "latt": 32.00364
+    },
+    {
+        "name": "צפרייה",
+        "english_name": "",
+        "long": 34.85595,
+        "latt": 32.00321
+    },
+    {
+        "name": "צפרירים",
+        "english_name": "zafririm",
+        "long": 34.9432,
+        "latt": 31.66042
+    },
+    {
+        "name": "צפת",
+        "english_name": "zefat",
+        "long": 35.50155,
+        "latt": 32.96657
+    },
+    {
+        "name": "צרופה",
+        "english_name": "zerufa",
+        "long": 34.94781,
+        "latt": 32.6488
+    },
+    {
+        "name": "צרעה",
+        "english_name": "zor'a",
+        "long": 34.96969,
+        "latt": 31.76177
+    },
+    {
+        "name": "קבוצת יבנה",
+        "english_name": "qevuzat yavne",
+        "long": 34.71977,
+        "latt": 31.81486
+    },
+    {
+        "name": "קדומים",
+        "english_name": "qedumim",
+        "long": 35.16079,
+        "latt": 32.21766
+    },
+    {
+        "name": "קדימה-צורן",
+        "english_name": "qadima-zoran",
+        "long": 34.94412,
+        "latt": 32.28767
+    },
+    {
+        "name": "קדמה",
+        "english_name": "qedma",
+        "long": 34.77598,
+        "latt": 31.70145
+    },
+    {
+        "name": "קדמת צבי",
+        "english_name": "qidmat zevi",
+        "long": 35.69931,
+        "latt": 33.02782
+    },
+    {
+        "name": "קדר",
+        "english_name": "qedar",
+        "long": 35.31005,
+        "latt": 31.75322
+    },
+    {
+        "name": "קדרון",
+        "english_name": "qidron",
+        "long": 34.79592,
+        "latt": 31.81543
+    },
+    {
+        "name": "קדרים",
+        "english_name": "qaddarim",
+        "long": 35.47505,
+        "latt": 32.89825
+    },
+    {
+        "name": "קודייראת א-צאנ",
+        "english_name": "qudeirat as-sani",
+        "long": 34.89775,
+        "latt": 31.95614
+    },
+    {
+        "name": "קוואעין",
+        "english_name": "qawa'in",
+        "long": 35.17912,
+        "latt": 32.79475
+    },
+    {
+        "name": "קוממיות",
+        "english_name": "qomemiyyut",
+        "long": 34.73024,
+        "latt": 31.66231
+    },
+    {
+        "name": "קורנית",
+        "english_name": "qoranit",
+        "long": 35.25218,
+        "latt": 32.84407
+    },
+    {
+        "name": "קטורה",
+        "english_name": "qetura",
+        "long": 35.06133,
+        "latt": 29.96953
+    },
+    {
+        "name": "קיסריה",
+        "english_name": "qesariyya",
+        "long": 34.90716,
+        "latt": 32.50653
+    },
+    {
+        "name": "קלחים",
+        "english_name": "qelahim",
+        "long": 34.6776,
+        "latt": 31.44771
+    },
+    {
+        "name": "קליה",
+        "english_name": "qalya",
+        "long": 35.46713,
+        "latt": 31.75071
+    },
+    {
+        "name": "קלנסווה",
+        "english_name": "qalansawe",
+        "long": 34.97918,
+        "latt": 32.28463
+    },
+    {
+        "name": "קלע",
+        "english_name": "qela",
+        "long": 35.69843,
+        "latt": 33.14736
+    },
+    {
+        "name": "קציר",
+        "english_name": "qazir",
+        "long": 35.10338,
+        "latt": 32.48887
+    },
+    {
+        "name": "קציר-חריש",
+        "english_name": "",
+        "long": 35.07179,
+        "latt": 32.47154
+    },
+    {
+        "name": "קצר א-סר",
+        "english_name": "",
+        "long": 34.80216,
+        "latt": 31.27222
+    },
+    {
+        "name": "קצרין",
+        "english_name": "qazrin",
+        "long": 35.69066,
+        "latt": 32.99083
+    },
+    {
+        "name": "קריית אונו",
+        "english_name": "",
+        "long": 34.85866,
+        "latt": 32.0588
+    },
+    {
+        "name": "קריית ארבע",
+        "english_name": "",
+        "long": 35.12104,
+        "latt": 31.53796
+    },
+    {
+        "name": "קריית אתא",
+        "english_name": "",
+        "long": 35.10237,
+        "latt": 32.80387
+    },
+    {
+        "name": "קריית ביאליק",
+        "english_name": "",
+        "long": 35.09188,
+        "latt": 32.83499
+    },
+    {
+        "name": "קריית גת",
+        "english_name": "",
+        "long": 34.77439,
+        "latt": 31.6046
+    },
+    {
+        "name": "קריית טבעון",
+        "english_name": "",
+        "long": 35.12471,
+        "latt": 32.71389
+    },
+    {
+        "name": "קריית ים",
+        "english_name": "",
+        "long": 35.07186,
+        "latt": 32.84866
+    },
+    {
+        "name": "קריית יערים",
+        "english_name": "",
+        "long": 35.09929,
+        "latt": 31.80324
+    },
+    {
+        "name": "קריית יערים (מוסד)",
+        "english_name": "",
+        "long": 35.10304,
+        "latt": 31.80899
+    },
+    {
+        "name": "קריית מוצקין",
+        "english_name": "",
+        "long": 35.08016,
+        "latt": 32.83858
+    },
+    {
+        "name": "קריית מלאכי",
+        "english_name": "",
+        "long": 34.74631,
+        "latt": 31.73252
+    },
+    {
+        "name": "קריית נטפים",
+        "english_name": "",
+        "long": 35.11227,
+        "latt": 32.11688
+    },
+    {
+        "name": "קריית ענבים",
+        "english_name": "",
+        "long": 35.11968,
+        "latt": 31.81104
+    },
+    {
+        "name": "קריית עקרון",
+        "english_name": "",
+        "long": 34.82173,
+        "latt": 31.86166
+    },
+    {
+        "name": "קריית שמונה",
+        "english_name": "",
+        "long": 35.576,
+        "latt": 33.21119
+    },
+    {
+        "name": "קרית אונו",
+        "english_name": "qiryat ono",
+        "long": 34.85839,
+        "latt": 32.05854
+    },
+    {
+        "name": "קרית ארבע",
+        "english_name": "qiryat arba",
+        "long": 35.12358,
+        "latt": 31.52758
+    },
+    {
+        "name": "קרית אתא",
+        "english_name": "qiryat atta",
+        "long": 35.07546,
+        "latt": 32.80872
+    },
+    {
+        "name": "קרית ביאליק",
+        "english_name": "qiryat bialik",
+        "long": 35.09253,
+        "latt": 32.84159
+    },
+    {
+        "name": "קרית גת",
+        "english_name": "qiryat gat",
+        "long": 34.77475,
+        "latt": 31.60521
+    },
+    {
+        "name": "קרית טבעון",
+        "english_name": "qiryat tiv'on",
+        "long": 35.11582,
+        "latt": 32.70695
+    },
+    {
+        "name": "קרית ים",
+        "english_name": "qiryat yam",
+        "long": 35.0725,
+        "latt": 32.84937
+    },
+    {
+        "name": "קרית יערים",
+        "english_name": "qiryat ye'arim",
+        "long": 35.09145,
+        "latt": 31.80221
+    },
+    {
+        "name": "קרית יערים)מוסד(",
+        "english_name": "qiryat ye'arim(insti",
+        "long": 35.10205,
+        "latt": 31.80861
+    },
+    {
+        "name": "קרית מוצקין",
+        "english_name": "qiryat motzkin",
+        "long": 35.08092,
+        "latt": 32.8457
+    },
+    {
+        "name": "קרית מלאכי",
+        "english_name": "qiryat mal'akhi",
+        "long": 34.74975,
+        "latt": 31.7371
+    },
+    {
+        "name": "קרית נטפים",
+        "english_name": "qiryat netafim",
+        "long": 35.11504,
+        "latt": 32.11667
+    },
+    {
+        "name": "קרית ענבים",
+        "english_name": "qiryat anavim",
+        "long": 35.11778,
+        "latt": 31.81133
+    },
+    {
+        "name": "קרית עקרון",
+        "english_name": "qiryat eqron",
+        "long": 34.82896,
+        "latt": 31.8651
+    },
+    {
+        "name": "קרית שלמה",
+        "english_name": "qiryat shelomo",
+        "long": 34.85879,
+        "latt": 32.05392
+    },
+    {
+        "name": "קרית שמונה",
+        "english_name": "qiryat shemona",
+        "long": 35.56851,
+        "latt": 33.1953
+    },
+    {
+        "name": "קרני שומרון",
+        "english_name": "qarne shomeron",
+        "long": 35.09571,
+        "latt": 32.17209
+    },
+    {
+        "name": "קשת",
+        "english_name": "qeshet",
+        "long": 35.81004,
+        "latt": 32.97759
+    },
+    {
+        "name": "ראמה",
+        "english_name": "rame",
+        "long": 35.36679,
+        "latt": 32.93828
+    },
+    {
+        "name": "ראס אל-עין",
+        "english_name": "",
+        "long": 35.37245,
+        "latt": 32.91381
+    },
+    {
+        "name": "ראס עלי",
+        "english_name": "ras ali",
+        "long": 35.15299,
+        "latt": 32.77067
+    },
+    {
+        "name": "ראש העין",
+        "english_name": "rosh haayin",
+        "long": 34.95827,
+        "latt": 32.09708
+    },
+    {
+        "name": "ראש פינה",
+        "english_name": "rosh pinna",
+        "long": 35.54319,
+        "latt": 32.96905
+    },
+    {
+        "name": "ראש צורים",
+        "english_name": "rosh zurim",
+        "long": 35.12406,
+        "latt": 31.66743
+    },
+    {
+        "name": "ראשון לציון",
+        "english_name": "rishon leziyyon",
+        "long": 34.78764,
+        "latt": 31.97215
+    },
+    {
+        "name": "רבבה",
+        "english_name": "revava",
+        "long": 35.12833,
+        "latt": 32.11869
+    },
+    {
+        "name": "רבדים",
+        "english_name": "revadim",
+        "long": 34.81647,
+        "latt": 31.77206
+    },
+    {
+        "name": "רביבים",
+        "english_name": "revivim",
+        "long": 34.72132,
+        "latt": 31.04302
+    },
+    {
+        "name": "רביד",
+        "english_name": "ravid",
+        "long": 35.46385,
+        "latt": 32.85046
+    },
+    {
+        "name": "רגבה",
+        "english_name": "regba",
+        "long": 35.09402,
+        "latt": 32.97823
+    },
+    {
+        "name": "רגבים",
+        "english_name": "regavim",
+        "long": 35.0327,
+        "latt": 32.52372
+    },
+    {
+        "name": "רהט",
+        "english_name": "rahat",
+        "long": 34.75596,
+        "latt": 31.39277
+    },
+    {
+        "name": "רווחה",
+        "english_name": "rewaha",
+        "long": 34.73444,
+        "latt": 31.64945
+    },
+    {
+        "name": "רוויה",
+        "english_name": "rewaya",
+        "long": 35.47169,
+        "latt": 32.44786
+    },
+    {
+        "name": "רוח מדבר",
+        "english_name": "ruah midbar",
+        "long": 34.75917,
+        "latt": 31.01449
+    },
+    {
+        "name": "רוחמה",
+        "english_name": "ruhama",
+        "long": 34.70502,
+        "latt": 31.49692
+    },
+    {
+        "name": "רומאנה",
+        "english_name": "rummane",
+        "long": 35.31064,
+        "latt": 32.78795
+    },
+    {
+        "name": "רומת הייב",
+        "english_name": "rumat heib",
+        "long": 35.30297,
+        "latt": 32.77936
+    },
+    {
+        "name": "רועי",
+        "english_name": "ro'i",
+        "long": 35.48378,
+        "latt": 32.24825
+    },
+    {
+        "name": "רותם",
+        "english_name": "rotem",
+        "long": 35.51901,
+        "latt": 32.3364
+    },
+    {
+        "name": "רחוב",
+        "english_name": "rehov",
+        "long": 35.48892,
+        "latt": 32.4513
+    },
+    {
+        "name": "רחובות",
+        "english_name": "rehovot",
+        "long": 34.80982,
+        "latt": 31.89586
+    },
+    {
+        "name": "רחלים",
+        "english_name": "rehelim",
+        "long": 35.25551,
+        "latt": 32.10208
+    },
+    {
+        "name": "ריחאניה",
+        "english_name": "reihaniyye",
+        "long": 35.48518,
+        "latt": 33.04803
+    },
+    {
+        "name": "ריחאנייה",
+        "english_name": "",
+        "long": 35.48781,
+        "latt": 33.04868
+    },
+    {
+        "name": "ריחן",
+        "english_name": "rehan",
+        "long": 35.13784,
+        "latt": 32.46874
+    },
+    {
+        "name": "ריינה",
+        "english_name": "reine",
+        "long": 35.30861,
+        "latt": 32.72151
+    },
+    {
+        "name": "רימונים",
+        "english_name": "rimmonim",
+        "long": 35.34073,
+        "latt": 31.93394
+    },
+    {
+        "name": "רינתיה",
+        "english_name": "rinnatya",
+        "long": 34.92806,
+        "latt": 32.0444
+    },
+    {
+        "name": "רכסים",
+        "english_name": "rekhasim",
+        "long": 35.10171,
+        "latt": 32.75199
+    },
+    {
+        "name": "רם-און",
+        "english_name": "ram-on",
+        "long": 35.25955,
+        "latt": 32.52793
+    },
+    {
+        "name": "רמות",
+        "english_name": "ramot",
+        "long": 35.66076,
+        "latt": 32.85194
+    },
+    {
+        "name": "רמות השבים",
+        "english_name": "ramot hashavim",
+        "long": 34.87749,
+        "latt": 32.16251
+    },
+    {
+        "name": "רמות מאיר",
+        "english_name": "ramot me'ir",
+        "long": 34.85208,
+        "latt": 31.87333
+    },
+    {
+        "name": "רמות מנשה",
+        "english_name": "ramot menashe",
+        "long": 35.05611,
+        "latt": 32.59684
+    },
+    {
+        "name": "רמות נפתלי",
+        "english_name": "ramot naftali",
+        "long": 35.55274,
+        "latt": 33.10069
+    },
+    {
+        "name": "רמלה",
+        "english_name": "ramla",
+        "long": 34.86957,
+        "latt": 31.93059
+    },
+    {
+        "name": "רמת אפעל",
+        "english_name": "",
+        "long": 34.83496,
+        "latt": 32.04697
+    },
+    {
+        "name": "רמת גן",
+        "english_name": "ramat gan",
+        "long": 34.82782,
+        "latt": 32.06799
+    },
+    {
+        "name": "רמת דוד",
+        "english_name": "ramat dawid",
+        "long": 35.20243,
+        "latt": 32.67848
+    },
+    {
+        "name": "רמת הכובש",
+        "english_name": "ramat hakovesh",
+        "long": 34.93849,
+        "latt": 32.21786
+    },
+    {
+        "name": "רמת השופט",
+        "english_name": "ramat hashofet",
+        "long": 35.09322,
+        "latt": 32.61085
+    },
+    {
+        "name": "רמת השרון",
+        "english_name": "ramat hasharon",
+        "long": 34.84077,
+        "latt": 32.13613
+    },
+    {
+        "name": "רמת יוחנן",
+        "english_name": "ramat yohanan",
+        "long": 35.12237,
+        "latt": 32.79261
+    },
+    {
+        "name": "רמת ישי",
+        "english_name": "ramat yishay",
+        "long": 35.1657,
+        "latt": 32.70343
+    },
+    {
+        "name": "רמת מגשימים",
+        "english_name": "ramat magshimim",
+        "long": 35.80961,
+        "latt": 32.84656
+    },
+    {
+        "name": "רמת פנקס",
+        "english_name": "",
+        "long": 34.84151,
+        "latt": 32.03489
+    },
+    {
+        "name": "רמת צבי",
+        "english_name": "ramat zevi",
+        "long": 35.41329,
+        "latt": 32.59069
+    },
+    {
+        "name": "רמת רזיאל",
+        "english_name": "ramat razi'el",
+        "long": 35.07317,
+        "latt": 31.77393
+    },
+    {
+        "name": "רמת רחל",
+        "english_name": "ramat rahel",
+        "long": 35.22032,
+        "latt": 31.73989
+    },
+    {
+        "name": "רנן",
+        "english_name": "rannen",
+        "long": 34.60103,
+        "latt": 31.33784
+    },
+    {
+        "name": "רעים",
+        "english_name": "re'im",
+        "long": 34.46043,
+        "latt": 31.38557
+    },
+    {
+        "name": "רעננה",
+        "english_name": "ra'anana",
+        "long": 34.87369,
+        "latt": 32.18777
+    },
+    {
+        "name": "רקפת",
+        "english_name": "raqefet",
+        "long": 35.2628,
+        "latt": 32.85659
+    },
+    {
+        "name": "רשפון",
+        "english_name": "rishpon",
+        "long": 34.82441,
+        "latt": 32.20043
+    },
+    {
+        "name": "רשפים",
+        "english_name": "reshafim",
+        "long": 35.47678,
+        "latt": 32.48107
+    },
+    {
+        "name": "רתמים",
+        "english_name": "retamim",
+        "long": 34.68968,
+        "latt": 31.05277
+    },
+    {
+        "name": "שא-נור",
+        "english_name": "",
+        "long": 35.20183,
+        "latt": 32.33704
+    },
+    {
+        "name": "שאר ישוב",
+        "english_name": "she'ar yashuv",
+        "long": 35.64651,
+        "latt": 33.22617
+    },
+    {
+        "name": "שבי ציון",
+        "english_name": "shave ziyyon",
+        "long": 35.08304,
+        "latt": 32.98018
+    },
+    {
+        "name": "שבי שומרון",
+        "english_name": "shave shomeron",
+        "long": 35.18547,
+        "latt": 32.26342
+    },
+    {
+        "name": "שבלי - אום אל-גנם",
+        "english_name": "shibli",
+        "long": 35.39859,
+        "latt": 32.6862
+    },
+    {
+        "name": "שגב",
+        "english_name": "",
+        "long": 35.25273,
+        "latt": 32.8659
+    },
+    {
+        "name": "שגב-שלום",
+        "english_name": "segev-shalom",
+        "long": 34.83909,
+        "latt": 31.19764
+    },
+    {
+        "name": "שגור",
+        "english_name": "",
+        "long": 35.25477,
+        "latt": 32.92066
+    },
+    {
+        "name": "שדה אילן",
+        "english_name": "sede ilan",
+        "long": 35.42387,
+        "latt": 32.74673
+    },
+    {
+        "name": "שדה אליהו",
+        "english_name": "sede eliyyahu",
+        "long": 35.51409,
+        "latt": 32.44098
+    },
+    {
+        "name": "שדה אליעזר",
+        "english_name": "sede eli'ezer",
+        "long": 35.56332,
+        "latt": 33.04532
+    },
+    {
+        "name": "שדה בוקר",
+        "english_name": "sede boqer",
+        "long": 34.79371,
+        "latt": 30.87144
+    },
+    {
+        "name": "שדה דוד",
+        "english_name": "sede dawid",
+        "long": 34.68337,
+        "latt": 31.5756
+    },
+    {
+        "name": "שדה ורבורג",
+        "english_name": "sede warburg",
+        "long": 34.90324,
+        "latt": 32.20685
+    },
+    {
+        "name": "שדה יואב",
+        "english_name": "sede yo'av",
+        "long": 34.68147,
+        "latt": 31.64324
+    },
+    {
+        "name": "שדה יעקב",
+        "english_name": "sede ya'aqov",
+        "long": 35.14059,
+        "latt": 32.69763
+    },
+    {
+        "name": "שדה יצחק",
+        "english_name": "sede yizhaq",
+        "long": 34.99458,
+        "latt": 32.40341
+    },
+    {
+        "name": "שדה משה",
+        "english_name": "sede moshe",
+        "long": 34.80866,
+        "latt": 31.60999
+    },
+    {
+        "name": "שדה נחום",
+        "english_name": "sede nahum",
+        "long": 35.48174,
+        "latt": 32.52529
+    },
+    {
+        "name": "שדה נחמיה",
+        "english_name": "sede nehemya",
+        "long": 35.62356,
+        "latt": 33.18691
+    },
+    {
+        "name": "שדה ניצן",
+        "english_name": "sede nizzan",
+        "long": 34.41951,
+        "latt": 31.23005
+    },
+    {
+        "name": "שדה עוזיהו",
+        "english_name": "sede uzziyyahu",
+        "long": 34.6765,
+        "latt": 31.75749
+    },
+    {
+        "name": "שדה צבי",
+        "english_name": "sede zevi",
+        "long": 34.71183,
+        "latt": 31.44955
+    },
+    {
+        "name": "שדות ים",
+        "english_name": "sedot yam",
+        "long": 34.89255,
+        "latt": 32.49063
+    },
+    {
+        "name": "שדות מיכה",
+        "english_name": "sedot mikha",
+        "long": 34.92066,
+        "latt": 31.72105
+    },
+    {
+        "name": "שדי אברהם",
+        "english_name": "sede avraham",
+        "long": 34.33637,
+        "latt": 31.21223
+    },
+    {
+        "name": "שדי חמד",
+        "english_name": "sede hemed",
+        "long": 34.94463,
+        "latt": 32.16031
+    },
+    {
+        "name": "שדי תרומות",
+        "english_name": "sede terumot",
+        "long": 35.48598,
+        "latt": 32.43899
+    },
+    {
+        "name": "שדמה",
+        "english_name": "shedema",
+        "long": 34.74178,
+        "latt": 31.8323
+    },
+    {
+        "name": "שדמות דבורה",
+        "english_name": "shadmot devora",
+        "long": 35.43553,
+        "latt": 32.69665
+    },
+    {
+        "name": "שדמות מחולה",
+        "english_name": "shadmot mehola",
+        "long": 35.53476,
+        "latt": 32.34599
+    },
+    {
+        "name": "שדרות",
+        "english_name": "sederot",
+        "long": 34.59775,
+        "latt": 31.52591
+    },
+    {
+        "name": "שואבה",
+        "english_name": "sho'eva",
+        "long": 35.07798,
+        "latt": 31.79812
+    },
+    {
+        "name": "שובה",
+        "english_name": "shuva",
+        "long": 34.54428,
+        "latt": 31.45285
+    },
+    {
+        "name": "שובל",
+        "english_name": "shoval",
+        "long": 34.73972,
+        "latt": 31.41281
+    },
+    {
+        "name": "שוהם",
+        "english_name": "shoham",
+        "long": 34.94536,
+        "latt": 31.99802
+    },
+    {
+        "name": "שומרה",
+        "english_name": "shomera",
+        "long": 35.28504,
+        "latt": 33.08464
+    },
+    {
+        "name": "שומריה",
+        "english_name": "shomeriyya",
+        "long": 34.88589,
+        "latt": 31.43191
+    },
+    {
+        "name": "שומרייה",
+        "english_name": "",
+        "long": 34.88619,
+        "latt": 31.43161
+    },
+    {
+        "name": "שוקדה",
+        "english_name": "shoqeda",
+        "long": 34.52436,
+        "latt": 31.4226
+    },
+    {
+        "name": "שורש",
+        "english_name": "shoresh",
+        "long": 35.06588,
+        "latt": 31.79646
+    },
+    {
+        "name": "שורשים",
+        "english_name": "shorashim",
+        "long": 35.25908,
+        "latt": 32.89317
+    },
+    {
+        "name": "שושנת העמקים",
+        "english_name": "shoshannat haamaqim",
+        "long": 34.85702,
+        "latt": 32.35407
+    },
+    {
+        "name": "שזור",
+        "english_name": "shezor",
+        "long": 35.35241,
+        "latt": 32.93245
+    },
+    {
+        "name": "שחר",
+        "english_name": "shahar",
+        "long": 34.72594,
+        "latt": 31.62084
+    },
+    {
+        "name": "שחרות",
+        "english_name": "shaharut",
+        "long": 35.00033,
+        "latt": 29.90462
+    },
+    {
+        "name": "שיבולים",
+        "english_name": "shibbolim",
+        "long": 34.60763,
+        "latt": 31.39638
+    },
+    {
+        "name": "שיטים",
+        "english_name": "nahal shittim",
+        "long": 35.01617,
+        "latt": 30.17591
+    },
+    {
+        "name": "שייח' דנון",
+        "english_name": "sheikh dannun",
+        "long": 35.148,
+        "latt": 32.99399
+    },
+    {
+        "name": "שילה",
+        "english_name": "shilo",
+        "long": 35.29749,
+        "latt": 32.05347
+    },
+    {
+        "name": "שילת",
+        "english_name": "shilat",
+        "long": 35.019,
+        "latt": 31.91809
+    },
+    {
+        "name": "שכניה",
+        "english_name": "shekhanya",
+        "long": 35.24723,
+        "latt": 32.84836
+    },
+    {
+        "name": "שלווה",
+        "english_name": "shalwa",
+        "long": 34.76765,
+        "latt": 31.56444
+    },
+    {
+        "name": "שלווה במדבר",
+        "english_name": "shalva bamidbar",
+        "long": 34.76712,
+        "latt": 31.56408
+    },
+    {
+        "name": "שלוחות",
+        "english_name": "sheluhot",
+        "long": 35.48119,
+        "latt": 32.47183
+    },
+    {
+        "name": "שלומי",
+        "english_name": "shelomi",
+        "long": 35.14764,
+        "latt": 33.07641
+    },
+    {
+        "name": "שלומית",
+        "english_name": "",
+        "long": 34.79013,
+        "latt": 32.01223
+    },
+    {
+        "name": "שמיר",
+        "english_name": "shamir",
+        "long": 35.66003,
+        "latt": 33.16456
+    },
+    {
+        "name": "שמעה",
+        "english_name": "shim'a",
+        "long": 35.01255,
+        "latt": 31.38762
+    },
+    {
+        "name": "שמרת",
+        "english_name": "shamerat",
+        "long": 35.09555,
+        "latt": 32.95063
+    },
+    {
+        "name": "שמשית",
+        "english_name": "",
+        "long": 35.246,
+        "latt": 32.73291
+    },
+    {
+        "name": "שני",
+        "english_name": "shani",
+        "long": 35.2181,
+        "latt": 31.78122
+    },
+    {
+        "name": "שניר",
+        "english_name": "senir",
+        "long": 35.67717,
+        "latt": 33.24041
+    },
+    {
+        "name": "שעב",
+        "english_name": "sha'ab",
+        "long": 35.23468,
+        "latt": 32.89097
+    },
+    {
+        "name": "שעורים",
+        "english_name": "se'orim",
+        "long": 35.01384,
+        "latt": 32.52136
+    },
+    {
+        "name": "שעל",
+        "english_name": "sha'al",
+        "long": 35.71878,
+        "latt": 33.11489
+    },
+    {
+        "name": "שעלבים",
+        "english_name": "sha'alvim",
+        "long": 34.98361,
+        "latt": 31.8713
+    },
+    {
+        "name": "שער אפרים",
+        "english_name": "sha'ar efrayim",
+        "long": 34.99795,
+        "latt": 32.28948
+    },
+    {
+        "name": "שער הגולן",
+        "english_name": "sha'ar hagolan",
+        "long": 35.60379,
+        "latt": 32.68718
+    },
+    {
+        "name": "שער העמקים",
+        "english_name": "sha'ar haamaqim",
+        "long": 35.11298,
+        "latt": 32.72272
+    },
+    {
+        "name": "שער מנשה",
+        "english_name": "sha'ar menashe",
+        "long": 35.01676,
+        "latt": 32.45086
+    },
+    {
+        "name": "שערי תקווה",
+        "english_name": "sha'are tiqwa",
+        "long": 35.0265,
+        "latt": 32.12282
+    },
+    {
+        "name": "שפיים",
+        "english_name": "shefayim",
+        "long": 34.82733,
+        "latt": 32.21985
+    },
+    {
+        "name": "שפיר",
+        "english_name": "shafir",
+        "long": 34.72923,
+        "latt": 31.69681
+    },
+    {
+        "name": "שפר",
+        "english_name": "shefer",
+        "long": 35.43521,
+        "latt": 32.94419
+    },
+    {
+        "name": "שפרעם",
+        "english_name": "shefar'am",
+        "long": 35.17204,
+        "latt": 32.80544
+    },
+    {
+        "name": "שקד",
+        "english_name": "shaqed",
+        "long": 35.17265,
+        "latt": 32.47403
+    },
+    {
+        "name": "שקף",
+        "english_name": "sheqef",
+        "long": 34.93505,
+        "latt": 31.512
+    },
+    {
+        "name": "שרונה",
+        "english_name": "sharona",
+        "long": 35.4667,
+        "latt": 32.72663
+    },
+    {
+        "name": "שריגים (לי-און)",
+        "english_name": "",
+        "long": 34.93506,
+        "latt": 31.67733
+    },
+    {
+        "name": "שריגים לי-און",
+        "english_name": "li-on",
+        "long": 34.93502,
+        "latt": 31.67652
+    },
+    {
+        "name": "שריד",
+        "english_name": "sarid",
+        "long": 35.22438,
+        "latt": 32.66133
+    },
+    {
+        "name": "שרשרת",
+        "english_name": "sharsheret",
+        "long": 34.60365,
+        "latt": 31.40434
+    },
+    {
+        "name": "שתולה",
+        "english_name": "shetula",
+        "long": 35.31416,
+        "latt": 33.0857
+    },
+    {
+        "name": "שתולים",
+        "english_name": "shetulim",
+        "long": 34.68391,
+        "latt": 31.7737
+    },
+    {
+        "name": "תאשור",
+        "english_name": "te'ashur",
+        "long": 34.64374,
+        "latt": 31.37153
+    },
+    {
+        "name": "תדהר",
+        "english_name": "tidhar",
+        "long": 34.62706,
+        "latt": 31.37829
+    },
+    {
+        "name": "תובל",
+        "english_name": "tuval",
+        "long": 35.24616,
+        "latt": 32.92988
+    },
+    {
+        "name": "תומר",
+        "english_name": "tomer",
+        "long": 35.44198,
+        "latt": 32.01686
+    },
+    {
+        "name": "תושיה",
+        "english_name": "tushiyya",
+        "long": 34.7897,
+        "latt": 32.06641
+    },
+    {
+        "name": "תושייה",
+        "english_name": "",
+        "long": 34.5407,
+        "latt": 31.43373
+    },
+    {
+        "name": "תימורים",
+        "english_name": "timmorim",
+        "long": 34.76034,
+        "latt": 31.71617
+    },
+    {
+        "name": "תירוש",
+        "english_name": "tirosh",
+        "long": 34.88613,
+        "latt": 31.75059
+    },
+    {
+        "name": "תל אביב - יפו",
+        "english_name": "tel aviv - yafo",
+        "long": 34.78953,
+        "latt": 32.08556
+    },
+    {
+        "name": "תל אביב -יפו",
+        "english_name": "",
+        "long": 34.77733,
+        "latt": 32.07911
+    },
+    {
+        "name": "תל יוסף",
+        "english_name": "tel yosef",
+        "long": 35.39976,
+        "latt": 32.55549
+    },
+    {
+        "name": "תל יצחק",
+        "english_name": "tel yizhaq",
+        "long": 34.87538,
+        "latt": 32.24582
+    },
+    {
+        "name": "תל מונד",
+        "english_name": "tel mond",
+        "long": 34.91514,
+        "latt": 32.25248
+    },
+    {
+        "name": "תל עדשים",
+        "english_name": "tel adashim",
+        "long": 35.30259,
+        "latt": 32.65816
+    },
+    {
+        "name": "תל קציר",
+        "english_name": "tel qazir",
+        "long": 35.61768,
+        "latt": 32.70526
+    },
+    {
+        "name": "תל שבע",
+        "english_name": "tel sheva",
+        "long": 34.86018,
+        "latt": 31.24805
+    },
+    {
+        "name": "תל תאומים",
+        "english_name": "tel te'omim",
+        "long": 35.49598,
+        "latt": 32.44195
+    },
+    {
+        "name": "תלם",
+        "english_name": "telem",
+        "long": 35.03117,
+        "latt": 31.56428
+    },
+    {
+        "name": "תלמי אליהו",
+        "english_name": "talme eliyyahu",
+        "long": 34.42935,
+        "latt": 31.2283
+    },
+    {
+        "name": "תלמי אלעזר",
+        "english_name": "talme el'azar",
+        "long": 34.97738,
+        "latt": 32.44551
+    },
+    {
+        "name": "תלמי ביל\"ו",
+        "english_name": "talme bilu",
+        "long": 34.64601,
+        "latt": 31.43806
+    },
+    {
+        "name": "תלמי יוסף",
+        "english_name": "talme yosef",
+        "long": 34.36112,
+        "latt": 31.19994
+    },
+    {
+        "name": "תלמי יחיאל",
+        "english_name": "talme yehi'el",
+        "long": 34.76212,
+        "latt": 31.75396
+    },
+    {
+        "name": "תלמי יפה",
+        "english_name": "talme yafe",
+        "long": 34.61737,
+        "latt": 31.61576
+    },
+    {
+        "name": "תלמים",
+        "english_name": "telamim",
+        "long": 34.67259,
+        "latt": 31.56438
+    },
+    {
+        "name": "תמרת",
+        "english_name": "timrat",
+        "long": 35.2254,
+        "latt": 32.70364
+    },
+    {
+        "name": "תנובות",
+        "english_name": "tenuvot",
+        "long": 34.96288,
+        "latt": 32.30678
+    },
+    {
+        "name": "תעוז",
+        "english_name": "ta'oz",
+        "long": 34.97458,
+        "latt": 31.80093
+    },
+    {
+        "name": "תפרח",
+        "english_name": "tifrah",
+        "long": 34.677,
+        "latt": 31.32566
+    },
+    {
+        "name": "תקומה",
+        "english_name": "tequma",
+        "long": 34.58042,
+        "latt": 31.45149
+    },
+    {
+        "name": "תקוע",
+        "english_name": "teqoa",
+        "long": 35.22921,
+        "latt": 31.65252
+    },
+    {
+        "name": "תראבין א-צאנע",
+        "english_name": "tarabin as-sani",
+        "long": 34.73757,
+        "latt": 31.34564
+    },
+    {
+        "name": "תראבין א-צאנע ישוב",
+        "english_name": "",
+        "long": 34.73757,
+        "latt": 31.34564
+    },
+    {
+        "name": "תרום",
+        "english_name": "tarum",
+        "long": 34.98168,
+        "latt": 31.78331
+    }
+]

@@ -29,10 +29,12 @@ export const he = {
     label: 'מדינה',
     il: 'ישראל',
     fr: 'צרפת',
+    ke: 'קניה',
   },
   search: {
     placeholder: 'חפש יישוב כדי למרכז את המפה',
     placeholderFr: 'חפש עיר בצרפת (למשל Paris, Lyon)',
+    placeholderKe: 'חפש יישוב בקניה (למשל ניירובי, Kenya)',
     ariaLabel: 'חיפוש יישוב',
     clearAriaLabel: 'נקה חיפוש',
     noResults: (query: string) => `לא נמצאו ישובים התואמים "${query}"`,

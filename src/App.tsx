@@ -17,6 +17,7 @@ function ringToLatLng(ring: [number, number][]) {
 const MAP_DEFAULTS: Record<CountryCode, { center: [number, number]; zoom: number }> = {
   IL: { center: [31.5, 34.8], zoom: 8 },
   FR: { center: [46.5, 2.2], zoom: 6 },
+  KE: { center: [0.5, 38.0], zoom: 6 },
 }
 
 export default function App() {
@@ -30,11 +31,7 @@ export default function App() {
   const handleCitySelect = useCallback((city: PickerCity) => {
     setMapCenter([city.latt, city.long])
     setMapZoom(13)
-    setSelectedCity(
-      city.country === 'FR'
-        ? city.name
-        : `${city.english_name} (${city.name})`
-    )
+    setSelectedCity(city.country === 'FR' ? city.name : `${city.english_name} (${city.name})`)
   }, [])
 
   const handleCountryChange = useCallback((next: CountryCode) => {
@@ -112,6 +109,15 @@ export default function App() {
                 }`}
               >
                 {he.country.fr}
+              </button>
+              <button
+                type="button"
+                onClick={() => handleCountryChange('KE')}
+                className={`px-3 py-1.5 text-sm font-medium transition-colors ${
+                  country === 'KE' ? 'bg-blue-600 text-white' : 'text-gray-700 hover:bg-gray-50'
+                }`}
+              >
+                {he.country.ke}
               </button>
             </div>
           </div>

@@ -35,7 +35,10 @@ export function MapWorkspace({ country, onBack }: MapWorkspaceProps) {
   const [approved, setApproved] = useState<PolygonValue | null>(null)
 
   const handleCitySelect = useCallback((city: PickerCity) => {
-    setMapCenter([city.latt, city.long])
+    const lat = Number(city.latt)
+    const lng = Number(city.long)
+    if (!Number.isFinite(lat) || !Number.isFinite(lng)) return
+    setMapCenter([lat, lng])
     setMapZoom(13)
     setSelectedCity(
       city.country === 'FR' || city.country === 'KE'

@@ -171,7 +171,18 @@ function MapCenterUpdater({ center, zoom }: { center: [number, number]; zoom: nu
   const map = useMap()
 
   useEffect(() => {
-    map.setView(center, zoom, { animate: true })
+    const [lat, lng] = center
+    if (!Number.isFinite(lat) || !Number.isFinite(lng) || !Number.isFinite(zoom)) return
+    map.setView([lat, lng], zoom, { animate: false })
+    // Leaflet often leaves a grey pane if the map size / tile grid wasn’t recalculated (e.g. after layout shifts)
+    const raf = requestAnimationFrame(() => {
+      map.invalidateSize({ animate: false })
+    })
+    const t = window.setTimeout(() => map.invalidateSize({ animate: false }), 200)
+    return () => {
+      cancelAnimationFrame(raf)
+      window.clearTimeout(t)
+    }
   }, [center, zoom, map])
 
   return null
@@ -704,6 +715,10 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
 /**
  * Main map component
  */
+function viewKey(center: [number, number], zoom: number) {
+  return `${center.map(c => Number(c.toFixed(6))).join('-')}-${zoom}`
+}
+
 export function LeafletPolygonMap({
   value,
   onChange,
@@ -887,6 +902,7 @@ export function LeafletPolygonMap({
 
       {/* Map Container */}
       <MapContainer
+        key={viewKey(center, zoom)}
         center={center}
         zoom={zoom}
         style={{ height: '500px', width: '100%' }}
@@ -902,13 +918,11 @@ export function LeafletPolygonMap({
           url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}"
           attribution=""
           maxZoom={18}
-          maxNativeZoom={19}
         />
         <TileLayer
           url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}"
           attribution=""
           maxZoom={18}
-          maxNativeZoom={19}
         />
 
         {/* Map Center Updater */}

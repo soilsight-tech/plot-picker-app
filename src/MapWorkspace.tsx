@@ -38,7 +38,9 @@ export function MapWorkspace({ country, onBack }: MapWorkspaceProps) {
     setMapCenter([city.latt, city.long])
     setMapZoom(13)
     setSelectedCity(
-      city.country === 'FR' ? city.name : `${city.english_name} (${city.name})`
+      city.country === 'FR' || city.country === 'KE'
+        ? city.name
+        : `${city.english_name} (${city.name})`
     )
   }, [])
 

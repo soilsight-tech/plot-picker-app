@@ -59,19 +59,19 @@ export function searchCities(query: string, country: CountryCode, limit = 20): P
   const cities = dataset(country)
 
   const filtered = cities.filter(city => {
-    if (country === 'FR') {
+    if (country === 'FR' || country === 'KE') {
       const en = fold(city.english_name)
       const nm = fold(city.name)
       return nm.includes(normalized) || en.includes(normalized)
     }
-    // IL + KE: Hebrew display names + English slug
+    // IL: Hebrew display names + English slug
     const englishMatch = city.english_name.toLowerCase().includes(normalized)
     const hebrewMatch = city.name.includes(q.trim())
     return englishMatch || hebrewMatch
   })
 
   const sortKey = (city: PickerCity) =>
-    country === 'FR' ? fold(city.name) : city.english_name.toLowerCase()
+    country === 'FR' || country === 'KE' ? fold(city.name) : city.english_name.toLowerCase()
 
   return filtered
     .sort((a, b) => {

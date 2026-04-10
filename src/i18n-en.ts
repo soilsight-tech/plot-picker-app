@@ -32,7 +32,7 @@ export const en: AppMessages = {
   search: {
     placeholder: 'Search for a place to center the map',
     placeholderFr: 'Search a city in France (e.g. Paris, Lyon)',
-    placeholderKe: 'Search in Kenya (e.g. Nairobi, Kenya)',
+    placeholderKe: 'Search a city in Kenya (e.g. Mombasa, Kisumu)',
     ariaLabel: 'Search places',
     clearAriaLabel: 'Clear search',
     noResults: (query: string) => `No places match "${query}"`,

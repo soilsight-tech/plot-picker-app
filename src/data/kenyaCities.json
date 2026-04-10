@@ -1,14 +1,332 @@
 [
   {
-    "name": "קניה",
-    "english_name": "kenya",
-    "long": 37.906193,
-    "latt": -0.023559
+    "name": "Nairobi",
+    "english_name": "nairobi",
+    "long": 36.817223,
+    "latt": -1.286389
   },
   {
-    "name": "ניירובי",
-    "english_name": "nairobi",
-    "long": 36.821945,
-    "latt": -1.292066
+    "name": "Mombasa",
+    "english_name": "mombasa",
+    "long": 39.6682,
+    "latt": -4.0435
+  },
+  {
+    "name": "Kisumu",
+    "english_name": "kisumu",
+    "long": 34.768,
+    "latt": -0.0917
+  },
+  {
+    "name": "Nakuru",
+    "english_name": "nakuru",
+    "long": 36.08,
+    "latt": -0.3031
+  },
+  {
+    "name": "Eldoret",
+    "english_name": "eldoret",
+    "long": 35.2699,
+    "latt": 0.5204
+  },
+  {
+    "name": "Ruiru",
+    "english_name": "ruiru",
+    "long": 36.9603,
+    "latt": -1.1483
+  },
+  {
+    "name": "Kikuyu",
+    "english_name": "kikuyu",
+    "long": 36.6819,
+    "latt": -1.2543
+  },
+  {
+    "name": "Kangundo-Tala",
+    "english_name": "kangundo tala",
+    "long": 37.3483,
+    "latt": -1.2556
+  },
+  {
+    "name": "Malindi",
+    "english_name": "malindi",
+    "long": 40.1169,
+    "latt": -3.2192
+  },
+  {
+    "name": "Kitale",
+    "english_name": "kitale",
+    "long": 35.0062,
+    "latt": 1.0157
+  },
+  {
+    "name": "Garissa",
+    "english_name": "garissa",
+    "long": 39.6583,
+    "latt": -0.4567
+  },
+  {
+    "name": "Kakamega",
+    "english_name": "kakamega",
+    "long": 34.75,
+    "latt": 0.2833
+  },
+  {
+    "name": "Bungoma",
+    "english_name": "bungoma",
+    "long": 34.5667,
+    "latt": 0.5667
+  },
+  {
+    "name": "Nyeri",
+    "english_name": "nyeri",
+    "long": 36.9476,
+    "latt": -0.4201
+  },
+  {
+    "name": "Meru",
+    "english_name": "meru",
+    "long": 37.65,
+    "latt": 0.05
+  },
+  {
+    "name": "Machakos",
+    "english_name": "machakos",
+    "long": 37.2667,
+    "latt": -1.5167
+  },
+  {
+    "name": "Thika",
+    "english_name": "thika",
+    "long": 37.0833,
+    "latt": -1.0333
+  },
+  {
+    "name": "Naivasha",
+    "english_name": "naivasha",
+    "long": 36.4333,
+    "latt": -0.7167
+  },
+  {
+    "name": "Karatina",
+    "english_name": "karatina",
+    "long": 36.9667,
+    "latt": -0.4833
+  },
+  {
+    "name": "Embu",
+    "english_name": "embu",
+    "long": 37.45,
+    "latt": -0.5333
+  },
+  {
+    "name": "Homa Bay",
+    "english_name": "homa bay",
+    "long": 34.4571,
+    "latt": -0.5273
+  },
+  {
+    "name": "Kilifi",
+    "english_name": "kilifi",
+    "long": 39.8499,
+    "latt": -3.6305
+  },
+  {
+    "name": "Lamu",
+    "english_name": "lamu",
+    "long": 40.902,
+    "latt": -2.2696
+  },
+  {
+    "name": "Voi",
+    "english_name": "voi",
+    "long": 38.5561,
+    "latt": -3.3969
+  },
+  {
+    "name": "Webuye",
+    "english_name": "webuye",
+    "long": 34.7667,
+    "latt": 0.6
+  },
+  {
+    "name": "Kericho",
+    "english_name": "kericho",
+    "long": 35.2833,
+    "latt": -0.3667
+  },
+  {
+    "name": "Migori",
+    "english_name": "migori",
+    "long": 34.4731,
+    "latt": -1.0654
+  },
+  {
+    "name": "Athi River",
+    "english_name": "athi river",
+    "long": 36.9783,
+    "latt": -1.4513
+  },
+  {
+    "name": "Mumias",
+    "english_name": "mumias",
+    "long": 34.4833,
+    "latt": 0.3333
+  },
+  {
+    "name": "Busia",
+    "english_name": "busia",
+    "long": 34.0925,
+    "latt": 0.4606
+  },
+  {
+    "name": "Isiolo",
+    "english_name": "isiolo",
+    "long": 37.5822,
+    "latt": 0.3542
+  },
+  {
+    "name": "Wajir",
+    "english_name": "wajir",
+    "long": 40.0575,
+    "latt": 1.7483
+  },
+  {
+    "name": "Mandera",
+    "english_name": "mandera",
+    "long": 41.8679,
+    "latt": 3.9373
+  },
+  {
+    "name": "Lodwar",
+    "english_name": "lodwar",
+    "long": 35.6,
+    "latt": 3.1167
+  },
+  {
+    "name": "Kapsabet",
+    "english_name": "kapsabet",
+    "long": 35.0922,
+    "latt": 0.2017
+  },
+  {
+    "name": "Kerugoya",
+    "english_name": "kerugoya",
+    "long": 37.2803,
+    "latt": -0.4989
+  },
+  {
+    "name": "Nyahururu",
+    "english_name": "nyahururu",
+    "long": 36.3673,
+    "latt": 0.0421
+  },
+  {
+    "name": "Narok",
+    "english_name": "narok",
+    "long": 35.86,
+    "latt": -1.0783
+  },
+  {
+    "name": "Kitui",
+    "english_name": "kitui",
+    "long": 38.0167,
+    "latt": -1.3667
+  },
+  {
+    "name": "Makueni",
+    "english_name": "makueni",
+    "long": 37.6241,
+    "latt": -1.8039
+  },
+  {
+    "name": "Kajiado",
+    "english_name": "kajiado",
+    "long": 36.7919,
+    "latt": -1.8421
+  },
+  {
+    "name": "Nanyuki",
+    "english_name": "nanyuki",
+    "long": 37.0667,
+    "latt": 0.0167
+  },
+  {
+    "name": "Nyamira",
+    "english_name": "nyamira",
+    "long": 34.9353,
+    "latt": -0.5633
+  },
+  {
+    "name": "Kisii",
+    "english_name": "kisii",
+    "long": 34.7667,
+    "latt": -0.6817
+  },
+  {
+    "name": "Siaya",
+    "english_name": "siaya",
+    "long": 34.2881,
+    "latt": 0.0606
+  },
+  {
+    "name": "Bomet",
+    "english_name": "bomet",
+    "long": 35.3418,
+    "latt": -0.7817
+  },
+  {
+    "name": "Keroka",
+    "english_name": "keroka",
+    "long": 34.8769,
+    "latt": -0.7769
+  },
+  {
+    "name": "Oyugis",
+    "english_name": "oyugis",
+    "long": 34.7306,
+    "latt": -0.5097
+  },
+  {
+    "name": "Maralal",
+    "english_name": "maralal",
+    "long": 36.6981,
+    "latt": 1.0964
+  },
+  {
+    "name": "Moyale",
+    "english_name": "moyale",
+    "long": 39.0561,
+    "latt": 3.5269
+  },
+  {
+    "name": "Eldama Ravine",
+    "english_name": "eldama ravine",
+    "long": 36.05,
+    "latt": 0.05
+  },
+  {
+    "name": "Limuru",
+    "english_name": "limuru",
+    "long": 36.6428,
+    "latt": -1.1067
+  },
+  {
+    "name": "Juja",
+    "english_name": "juja",
+    "long": 37.0167,
+    "latt": -1.1
+  },
+  {
+    "name": "Ongata Rongai",
+    "english_name": "ongata rongai",
+    "long": 36.7644,
+    "latt": -1.3964
+  },
+  {
+    "name": "Westlands (Nairobi)",
+    "english_name": "westlands nairobi",
+    "long": 36.811,
+    "latt": -1.2676
   }
 ]

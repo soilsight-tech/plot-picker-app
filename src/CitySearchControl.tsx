@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react'
 import { searchCities, type CountryCode, type PickerCity } from './citySearchService'
-import { he } from './i18n-he'
+import { useI18n } from './i18n/context'
 
 interface CitySearchControlProps {
   country: CountryCode
@@ -9,6 +9,7 @@ interface CitySearchControlProps {
 }
 
 export function CitySearchControl({ country, onCitySelect, className = '' }: CitySearchControlProps) {
+  const { messages, locale } = useI18n()
   const [query, setQuery] = useState('')
   const [results, setResults] = useState<PickerCity[]>([])
   const [isOpen, setIsOpen] = useState(false)
@@ -91,24 +92,24 @@ export function CitySearchControl({ country, onCitySelect, className = '' }: Cit
           }}
           placeholder={
             country === 'FR'
-              ? he.search.placeholderFr
+              ? messages.search.placeholderFr
               : country === 'KE'
-                ? he.search.placeholderKe
-                : he.search.placeholder
+                ? messages.search.placeholderKe
+                : messages.search.placeholder
           }
-          className="w-full px-4 py-2 pr-10 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-          aria-label={he.search.ariaLabel}
+          className="w-full px-4 py-2 ps-10 pe-10 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+          aria-label={messages.search.ariaLabel}
           aria-autocomplete="list"
           aria-controls="city-search-results"
           aria-expanded={isOpen}
-          dir={country === 'FR' ? 'ltr' : 'rtl'}
+          dir={locale === 'he' ? 'rtl' : 'ltr'}
         />
         {query && (
           <button
             type="button"
             onClick={handleClear}
-            className="absolute left-2 top-1/2 -translate-y-1/2 p-1 text-gray-400 hover:text-gray-600"
-            aria-label={he.search.clearAriaLabel}
+            className="absolute end-2 top-1/2 -translate-y-1/2 p-1 text-gray-400 hover:text-gray-600"
+            aria-label={messages.search.clearAriaLabel}
           >
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
               <path
@@ -120,7 +121,7 @@ export function CitySearchControl({ country, onCitySelect, className = '' }: Cit
           </button>
         )}
         {!query && (
-          <div className="absolute left-2 top-1/2 -translate-y-1/2 p-1 text-gray-400">
+          <div className="absolute end-2 top-1/2 -translate-y-1/2 p-1 text-gray-400">
             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
               <path
                 fillRule="evenodd"
@@ -145,7 +146,7 @@ export function CitySearchControl({ country, onCitySelect, className = '' }: Cit
               onClick={() => handleSelectCity(city)}
               onMouseEnter={() => setSelectedIndex(index)}
               className={`w-full px-4 py-2 hover:bg-blue-50 focus:bg-blue-50 focus:outline-none transition-colors ${
-                country === 'FR' ? 'text-left' : 'text-right'
+                locale === 'he' ? 'text-right' : 'text-left'
               } ${index === selectedIndex ? 'bg-blue-50' : ''}`}
               role="option"
               aria-selected={index === selectedIndex}
@@ -161,7 +162,7 @@ export function CitySearchControl({ country, onCitySelect, className = '' }: Cit
 
       {isOpen && query.length >= 2 && results.length === 0 && (
         <div className="absolute z-10 w-full mt-1 bg-white border border-gray-300 rounded-lg shadow-lg p-4 text-center text-gray-500">
-          {he.search.noResults(query)}
+          {messages.search.noResults(query)}
         </div>
       )}
     </div>

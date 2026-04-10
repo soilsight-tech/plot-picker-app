@@ -2,7 +2,9 @@
  * Hebrew UI strings (RTL). Mirrors SoilSight survey polygon copy.
  */
 
-export const he = {
+import type { AppMessages } from './i18n/types'
+
+export const he: AppMessages = {
   title: 'סימון החלקה על גבי מפה',
   controls: {
     draw: 'סמן שטח חלקה',
@@ -61,16 +63,23 @@ export const he = {
   },
   errors: {
     required: 'שדה חובה',
+    validationFallback: 'שגיאת אימות',
+  },
+  nav: {
+    backToCountry: '← בחירת מדינה אחרת',
+  },
+  map: {
+    loading: 'טוען מפה…',
   },
 }
 
-const validationKeys: Record<string, string> = {
-  'polygon.validation.minVertices': he.validation.minVertices,
-  'polygon.validation.geoBounds': he.validation.geoBounds,
-  'polygon.validation.invalidGeometry': he.validation.invalidGeometry,
-}
+const validationKeys = (m: AppMessages): Record<string, string> => ({
+  'polygon.validation.minVertices': m.validation.minVertices,
+  'polygon.validation.geoBounds': m.validation.geoBounds,
+  'polygon.validation.invalidGeometry': m.validation.invalidGeometry,
+})
 
-export function validationMessage(key?: string): string {
-  if (!key) return 'שגיאת אימות'
-  return validationKeys[key] ?? key
+export function validationMessage(key: string | undefined, m: AppMessages): string {
+  if (!key) return m.errors.validationFallback
+  return validationKeys(m)[key] ?? key
 }

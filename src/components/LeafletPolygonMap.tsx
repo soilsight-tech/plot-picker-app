@@ -25,7 +25,7 @@ import 'leaflet-draw'
 import area from '@turf/area'
 import length from '@turf/length'
 import { polygon as turfPolygon, lineString } from '@turf/helpers'
-import { he, validationMessage } from '../i18n-he'
+import { useI18n } from '../i18n/context'
 
 // Fix for Leaflet marker icons in Vite
 import icon from 'leaflet/dist/images/marker-icon.png'
@@ -199,6 +199,7 @@ function PolygonControls({
   onEdit: () => void
   onDelete: () => void
 }) {
+  const { messages } = useI18n()
   return (
     <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-[1000] flex gap-3">
       {!hasPolygon && !isDrawing ? (
@@ -210,7 +211,7 @@ function PolygonControls({
           }}
           className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-4 rounded-lg shadow-lg font-semibold text-lg transition-colors active:bg-blue-700 min-w-[200px]"
         >
-          {he.controls.draw}
+          {messages.controls.draw}
         </button>
       ) : isDrawing ? (
         // Drawing mode: Show "Delete Last Point" and "Complete Polygon" buttons
@@ -223,7 +224,7 @@ function PolygonControls({
             disabled={vertexCount === 0}
             className="bg-orange-500 hover:bg-orange-600 text-white px-3 py-2 md:px-6 md:py-4 rounded-lg shadow-lg font-semibold text-sm md:text-lg transition-colors active:bg-orange-700 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            {he.controls.deleteLastPoint}
+            {messages.controls.deleteLastPoint}
           </button>
           <button
             onClick={() => {
@@ -233,7 +234,7 @@ function PolygonControls({
             disabled={vertexCount < 3}
             className="bg-green-500 hover:bg-green-600 text-white px-3 py-2 md:px-6 md:py-4 rounded-lg shadow-lg font-semibold text-sm md:text-lg transition-colors active:bg-green-700 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            {he.controls.complete} ({vertexCount})
+            {messages.controls.complete} ({vertexCount})
           </button>
         </>
       ) : (
@@ -246,7 +247,7 @@ function PolygonControls({
             }}
             className="bg-green-500 hover:bg-green-600 text-white px-6 py-4 rounded-lg shadow-lg font-semibold text-lg transition-colors active:bg-green-700"
           >
-            {he.controls.edit}
+            {messages.controls.edit}
           </button>
           <button
             onClick={() => {
@@ -255,7 +256,7 @@ function PolygonControls({
             }}
             className="bg-red-500 hover:bg-red-600 text-white px-6 py-4 rounded-lg shadow-lg font-semibold text-lg transition-colors active:bg-red-700"
           >
-            {he.controls.delete}
+            {messages.controls.delete}
           </button>
         </>
       )}
@@ -295,6 +296,7 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
   onDrawHandlerReady,
   onDrawingStateChange,
 }, ref) => {
+  const { messages, validationMessage } = useI18n()
   const featureGroupRef = useRef<L.FeatureGroup>(null)
   const map = useMap()
   const drawHandlerRef = useRef<L.Draw.Polygon | null>(null)
@@ -331,7 +333,7 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
       },
       drawError: {
         color: '#ef4444',
-        message: he.validation.noIntersecting
+        message: messages.validation.noIntersecting,
       },
       guidelineDistance: 20,  // FIX: 0 causes infinite loop in _drawGuide. Use default value to prevent freeze
       icon: teardropIcon,
@@ -475,7 +477,7 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
       mapContainer.removeEventListener('touchmove', handleTouchMove)
       mapContainer.removeEventListener('touchend', handleTouchEnd)
     }
-  }, [map, readonly, onDrawHandlerReady])
+  }, [map, readonly, onDrawHandlerReady, messages.validation.noIntersecting])
 
   // Load existing polygon on mount with cleanup
   useEffect(() => {
@@ -547,7 +549,9 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
       if (!validation.valid) {
         // Don't add invalid polygon to map
         console.log('❌ [CREATED] Validation failed:', validation.errorKey)
-        setValidationError(validation.errorKey ? validationMessage(validation.errorKey) : 'שגיאת אימות')
+        setValidationError(
+          validation.errorKey ? validationMessage(validation.errorKey) : messages.errors.validationFallback
+        )
         setTimeout(() => setValidationError(null), 5000)
         return
       }
@@ -607,7 +611,7 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
           }
         }
 
-        setValidationError(he.validation.maxVertices(MAX_VERTICES))
+        setValidationError(messages.validation.maxVertices(MAX_VERTICES))
         setTimeout(() => setValidationError(null), 3000)
       }
     }
@@ -619,7 +623,18 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
       map.off(L.Draw.Event.CREATED, handleCreated)
       map.off('draw:drawvertex', handleDrawVertex)
     }
-  }, [map, onChange, minArea, bounds, enforceGeoBounds, setValidationError, MAX_VERTICES])
+  }, [
+    map,
+    onChange,
+    minArea,
+    bounds,
+    enforceGeoBounds,
+    setValidationError,
+    MAX_VERTICES,
+    validationMessage,
+    messages.errors.validationFallback,
+    messages.validation.maxVertices,
+  ])
 
   // Enable editing on polygon
   const enableEditing = () => {
@@ -661,7 +676,9 @@ const PolygonEditor = forwardRef<PolygonEditorRef, PolygonEditorProps>(({
           onChange?.(polygonData, metrics)
           layer.editing!.disable()
         } else {
-          setValidationError(validation.errorKey ? validationMessage(validation.errorKey) : 'שגיאת אימות')
+          setValidationError(
+            validation.errorKey ? validationMessage(validation.errorKey) : messages.errors.validationFallback
+          )
           setTimeout(() => setValidationError(null), 5000)
           // Reload original
           if (value) {
@@ -699,6 +716,7 @@ export function LeafletPolygonMap({
   bounds = undefined,  // Removed DEFAULT_BOUNDS to allow global drawing
   enforceGeoBounds = false,  // Disabled geographic bounds enforcement
 }: LeafletPolygonMapProps) {
+  const { messages } = useI18n()
   const [currentMetrics, setCurrentMetrics] = useState<PolygonMetrics | null>(null)
   const [validationError, setValidationError] = useState<string | null>(null)
   const [isDrawing, setIsDrawing] = useState(false)
@@ -862,7 +880,7 @@ export function LeafletPolygonMap({
       {/* Metrics Display */}
       {currentMetrics && (
         <div className="absolute top-4 right-4 z-[1000] bg-white p-3 rounded-lg shadow-lg text-sm">
-          <div className="font-semibold mb-2">{he.labels.area}</div>
+          <div className="font-semibold mb-2">{messages.labels.area}</div>
           <div className="font-mono text-lg">{currentMetrics.area.toLocaleString()} m²</div>
         </div>
       )}
@@ -942,7 +960,7 @@ export function LeafletPolygonMap({
 
       {/* Required Field Message */}
       {required && !value && (
-        <p className="mt-2 text-sm text-red-600">{he.errors.required}</p>
+        <p className="mt-2 text-sm text-red-600">{messages.errors.required}</p>
       )}
     </div>
   )

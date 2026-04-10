@@ -5,7 +5,7 @@
 import type { AppMessages } from './i18n/types'
 
 export const he: AppMessages = {
-  title: 'סימון החלקה על גבי מפה',
+  title: 'Voices Of Soil — סימון החלקה על גבי מפה',
   controls: {
     draw: 'סמן שטח חלקה',
     deleteLastPoint: 'מחק נקודה אחרונה',

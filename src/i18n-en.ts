@@ -1,7 +1,7 @@
 import type { AppMessages } from './i18n/types'
 
 export const en: AppMessages = {
-  title: 'Mark your plot on the map',
+  title: 'Voices Of Soil — Mark your plot on the map',
   controls: {
     draw: 'Draw plot area',
     deleteLastPoint: 'Delete last point',

@@ -28,7 +28,7 @@ export function LandingPage({ onSelectCountry }: LandingPageProps) {
       <div className="max-w-2xl mx-auto px-4 py-16 sm:py-24">
         <header className="text-center mb-12">
           <h1 className="text-3xl sm:text-4xl font-bold text-slate-900 tracking-tight">
-            Plot picker
+            Voices Of Soil
           </h1>
           <p className="mt-3 text-lg text-slate-600 max-w-md mx-auto">
             Choose a country to open the map and mark your plot area.

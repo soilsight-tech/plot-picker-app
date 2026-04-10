@@ -892,11 +892,23 @@ export function LeafletPolygonMap({
         style={{ height: '500px', width: '100%' }}
         className="rounded-lg"
       >
-        {/* Satellite View Only */}
+        {/* Hybrid-style stack: satellite + roads + place names (Esri; labels often English globally) */}
         <TileLayer
           url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
-          attribution="&copy; Esri, Maxar, Earthstar Geographics"
+          attribution='&copy; <a href="https://www.esri.com/">Esri</a>, Maxar, Earthstar Geographics &mdash; imagery; reference layers &copy; Esri, HERE, Garmin, (c) OpenStreetMap contributors, and the GIS user community'
           maxZoom={18}
+        />
+        <TileLayer
+          url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}"
+          attribution=""
+          maxZoom={18}
+          maxNativeZoom={19}
+        />
+        <TileLayer
+          url="https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}"
+          attribution=""
+          maxZoom={18}
+          maxNativeZoom={19}
         />
 
         {/* Map Center Updater */}
